@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="prompt">Αίτηση σύνδεσης</string>
+     <string name="warning">Το %s θέλει να δημιουργήσει μια σύνδεση VPN που του επιτρέπει την παρακολούθηση της κίνησης του δικτύου. Αποδεχτείτε μόνο αν εμπιστεύεστε την πηγή. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> εμφανίζεται στο πάνω μέρος της οθόνης σας όταν το VPN είναι ενεργό.</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">πριν %d λεπτά</item>
+        <item quantity="one">πριν %d λεπτό</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">πριν %d ώρες</item>
+        <item quantity="one">πριν %d ώρα</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">πριν %d ημέρες</item>
+        <item quantity="one">πριν %d ημέρα</item>
+    </plurals>
+     <plurals name="view_realtime_clear">
+        <item quantity="other">Καθαρός</item>
+        <item quantity="one">Λιακάδα</item>
+     </plurals>
+</resources>

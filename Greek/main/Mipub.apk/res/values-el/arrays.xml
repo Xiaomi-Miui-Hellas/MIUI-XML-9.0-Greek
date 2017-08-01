@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="entries_date_type">
+        <item>Ληφθέντα</item>
+        <item>Απεσταλμένα</item>
+     </string-array>
+     <string-array name="prefEntries_ringtone_repeat">
+        <item>1 φορά</item>
+        <item>2 φορές</item>
+        <item>3 φορές</item>
+        <item>5 φορές</item>
+        <item>10 φορές</item>
+     </string-array>
+</resources>

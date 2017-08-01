@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="AVL">AVL</string>
+     <string name="Avast">Avast</string>
+     <string name="DesAVL">AVL</string>
+     <string name="DesAvast">Avast</string>
+     <string name="DesMi">Mi</string>
+     <string name="DesTencent">Tencent</string>
+     <string name="Mi">Mi</string>
+     <string name="Tencent">Tencent</string>
+     <string name="app_name">Φρουρός Ασφαλείας</string>
+     <string name="avast_dialog_cloudscan" />
+     <string name="avast_dialog_dbupdate" />
+     <string name="avast_dialog_header">"Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές του Avast (%s)."</string>
+     <string name="avast_dialog_policy">δείτε την Πολιτική Απορρήτου</string>
+     <string name="avast_dialog_title">"Πολιτική Απορρήτου Avast"</string>
+     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
+     <string name="avast_virus_type_adware_description">Ο ιός είναι ένα adware. Εμφανίζει αυτόματα διαφημίσεις.</string>
+     <string name="avast_virus_type_cryportor_description">Ο ιός είναι ένα cryptor. Είναι ένα κακόβουλο λογισμικό το οποίο μεταδίδεται μέσω αναπαραγωγής του εαυτού του σε αποθηκευτικό χώρο.</string>
+     <string name="avast_virus_type_dropper_description">Ο ιός είναι ένα dropper. Περιέχει τον κώδικα που εγκαθιστά άλλους κακόβουλους ιούς.</string>
+     <string name="avast_virus_type_exploit_description">Ο ιός είναι ένα exploit. Εκμεταλλεύεται σφάλματα ή αδυναμίες στο σύστημά σας προκειμένου να προκαλέσει ανεπιθύμητη ή απρόβλεπτη συμπεριφορά.</string>
+     <string name="avast_virus_type_heuristic_description">Σύμφωνα με ένα συγκεκριμένο ευρετικό αλγόριθμο σάρωσης, καταλήξαμε στο συμπέρασμα ότι η εφαρμογή αυτή είναι ένας ιός.</string>
+     <string name="avast_virus_type_joke_description">Ο ιός είναι ένα joke. Δημιουργεί κάποια ενοχλητικά ή χιουμοριστικά εφέ. Συνήθως προκαλεί λιγότερη ζημιά από άλλους ιούς.</string>
+     <string name="avast_virus_type_pup_description">"Ο ιός είναι ένα δυνητικά ανεπιθύμητο πρόγραμμα (PUP). Είναι ένα πρόγραμμα που μπορεί να είναι επιβλαβές (spyware, adware κλπ), παρά το γεγονός ότι οι χρήστες δίνουν τη συγκατάθεσή τους για την λήψη του."</string>
+     <string name="avast_virus_type_rootkit_description">Ο ιός είναι ένα rootkit. Είναι ένα είδος λογισμικού που έχει σχεδιαστεί να αποκρύπτει το γεγονός το λειτουργικό σύστημα έχει παραβιαστεί έτσι ώστε να αποκτήσει τον έλεγχο της συσκευής κρυμμένο βαθιά μέσα στο σύστημα. Τα rootkits επιτρέπουν σε ιούς και κακόβουλο λογισμικό να "κρυφτούν σε κοινή θέα" μεταμφιεσμένα ως απαραίτητα αρχεία τα οποία το antivirus κανονικά θα τα παραβλέψει.</string>
+     <string name="avast_virus_type_spyware_description">"Ο ιός είναι ένα spyware. Είναι ένα λογισμικό που συγκεντρώνει κρυφά πληροφορίες μέσω της σύνδεσης Internet του χρήστη χωρίς την γνώση του."</string>
+     <string name="avast_virus_type_suspicious_description">Ένα κοινό ύποπτο είδος. Το σύστημα antivirus προσπαθεί να το ταξινομήσει.</string>
+     <string name="avast_virus_type_tool_description">Ο ιός είναι ένας δυνητικά κακό εργαλείο παρόμοιο με PUP.</string>
+     <string name="avast_virus_type_trjan_description">"Ο ιός είναι ένα trojan. Πρόκειται για ένα κακόβουλο λογισμικό σχεδιασμένο για να παρέχει άνευ αδείας, απομακρυσμένη πρόσβαση στη συσκευή του χρήστη. Τα trojans συνήθως δεν έχουν την ικανότητα να αναπαράγουν τον εαυτό τους όπως οι ιοί. Ωστόσο μπορεί να οδηγήσουν στην εγκατάσταση άλλων κακόβουλων προγραμμάτων στη συσκευή σας, στην κλοπή δεδομένων ή άλλων κακόβουλων δραστηριοτήτων."</string>
+     <string name="avast_virus_type_unknown_description">Άγνωστος τύπος μόλυνσης.</string>
+     <string name="avast_virus_type_worm_description">Ο ιός είναι ένα worm. Πρόκειται για ένα αυτόνομο κακόβουλο λογισμικό που αναπαράγει τον εαυτό του προκειμένου να εξαπλωθεί και σε άλλες συσκευές. Εκμεταλλεύεται τα αρχεία ή τις λειτουργίες μεταφοράς πληροφοριών του συστήματός σας (π.χ. δίκτυα) και μπορεί να μεταδοθεί χωρίς καμία ενέργεια από το χρήστη. Τα worm προκαλούν σχεδόν πάντα τουλάχιστον κάποια βλάβη στο δίκτυο.</string>
+     <string name="avl_dialog_cloudscan" />
+     <string name="avl_dialog_dbupdate" />
+     <string name="avl_dialog_header">"Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές του AVL (%s)."</string>
+     <string name="avl_dialog_policy">δείτε την Πολιτική Απορρήτου</string>
+     <string name="avl_dialog_title">"Πολιτική Απορρήτου AVL"</string>
+     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+     <string name="hello_world">Hello world!</string>
+     <string name="menu_settings">Ρυθμίσεις</string>
+     <string name="tencent_dialog_cloudscan">Ανέβασε και σάρωσε τα ονόματα και τις λεπτομέρειες των εφαρμογών με την online βάση ιών.</string>
+     <string name="tencent_dialog_dbupdate">Αυτόματη ενημέρωση βάσης ιών</string>
+     <string name="tencent_dialog_header">"Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές του Tencent (%s)."</string>
+     <string name="tencent_dialog_policy">Δείτε την Πολιτική Απορρήτου</string>
+     <string name="tencent_dialog_title">Πολιτική Απορρήτου Tencent</string>
+     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+     <string name="title_activity_main">Βασική Δραστηριότητα</string>
+</resources>

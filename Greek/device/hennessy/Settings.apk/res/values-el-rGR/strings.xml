@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="bluetooth_enter_passkey_msg">Πληκτρολογήστε τον κωδικό αντιστοίχισης και στη συνέχεια πατήστε Enter ή Return</string>
+     <string name="bluetooth_enter_pin_msg">Συσκευή</string>
+     <string name="sim_editor_title">Κάρτα SIM</string>
+</resources>

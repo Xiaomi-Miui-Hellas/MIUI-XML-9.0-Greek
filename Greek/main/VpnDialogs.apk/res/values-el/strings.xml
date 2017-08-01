@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="prompt">%s προσπαθεί να δημιουργήσει μια σύνδεση VPN.</string>
+  <string name="warning">Στη συνέχεια, συμφωνείτε για να παρακολουθείται το σύνολο της κίνησης δικτύου. &lt;b&gt; ΔΕΝ εμπιστεύομαι την εφαρμογή.&lt;/b&gt; Ίσως τα δεδομένα σας μπορεί να είναι σε ομηρία από malware.</string>
+  <string name="accept">Εμπιστεύομαι αυτή την εφαρμογή.</string>
+  <string name="legacy_title">Σύνδεση σε VPN</string>
+  <string name="configure">Διαμόρφωση</string>
+  <string name="disconnect">Αποσύνδεση</string>
+  <string name="session">Συνεδρία:</string>
+  <string name="duration">Διάρκεια:</string>
+  <string name="data_transmitted">Απεσταλμένα:</string>
+  <string name="data_received">Λήφθησαν:</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Καμία</item>
+        <item>Μικρό Δωμάτιο</item>
+        <item>Μεσαίο Δωμάτιο</item>
+        <item>Μεγάλο Δωμάτιο</item>
+        <item>Μεσαία Αίθουσα</item>
+        <item>Μεγάλη Αίθουσα</item>
+        <item>Πλάκα Αντήχησης</item>
+    </string-array>
+</resources>

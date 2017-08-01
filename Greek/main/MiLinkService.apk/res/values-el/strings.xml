@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Υπηρεσία UniPlay</string>
+     <string name="notification_rc_desc">Ο καλύτερος βοηθός TV για το κινητό σας για προβολή βίντεο, φωτογραφιών και εφαρμογών στο XiaoMi Box (ή TV). Δοκιμάστε το τώρα!</string>
+     <string name="notification_rc_title">Βοηθός XiaoMi TV</string>
+     <string name="service_name">Υπηρεσία UniPlay</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Διαγραφή %d στοιχείων;</item>
+        <item quantity="one">Διαγραφή αυτού του στοιχείου;</item>
+     </plurals>
+     <plurals name="sniff_find_resource">
+        <item quantity="other">Βρέθηκαν %d στοιχεία</item>
+        <item quantity="one">Βρέθηκε 1 στοιχείο</item>
+     </plurals>
+     <plurals name="sniff_find_result">
+        <item quantity="other">Βρέθηκαν %d αποτελέσματα</item>
+        <item quantity="one">Βρέθηκε 1 αποτέλεσμα</item>
+     </plurals>
+</resources>

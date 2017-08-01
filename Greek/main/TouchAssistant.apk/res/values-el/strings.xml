@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Βοηθός Αφής</string>
+     <string name="app_not_installed">Δεν εγκαταστάθηκε</string>
+     <string name="applications">Εφαρμογές</string>
+     <string name="category_others">Άλλα</string>
+     <string name="category_setting">Ρυθμίσεις</string>
+     <string name="close_panel">Απενεργοποίηση Βοηθού Αφής</string>
+     <string name="customize_entries">Προσαρμογή λειτουργίας</string>
+     <string name="enable_touch_assistant">Ενεργοποίηση Βοηθού Αφής</string>
+     <string name="function_settings">Ρυθμίσεις λειτουργίας</string>
+     <string name="hide_touch_assistant">Αυτόματη απόκρυψη Βοηθού Αφής</string>
+     <string name="hide_touch_assistant_intro">Απόκρυψη Βοηθού Αφής σε ορισμένες εφαρμογές.</string>
+     <string name="hide_when_fullscreen">Απόκρυψη σε πλήρη οθόνη</string>
+     <string name="hide_when_fullscreen_intro">Απόκρυψη κατά την εκτέλεση εφαρμογών σε λειτουργία πλήρους οθόνης.</string>
+     <string name="motion_behavior">Τρόπος λειτουργίας</string>
+     <string name="name_alipay_payment_code">Γρήγορη πληρωμή Alipay</string>
+     <string name="name_alipay_scan">Σάρωση κωδικού Alipay</string>
+     <string name="name_long_press_power_key">Πατήστε παρατεταμένα το κουμπί λειτουργίας</string>
+     <string name="name_memory_clean">Καθαρισμός cache</string>
+     <string name="name_music_next_song">Επόμενο τραγούδι</string>
+     <string name="name_music_prev_song">Προηγούμενο τραγούδι</string>
+     <string name="name_music_toggle">Αναπαραγωγή/παύση τραγουδιού</string>
+     <string name="name_payment_code">Γρήγορη πληρωμή</string>
+     <string name="name_press_back_key">Πλήκτρο back</string>
+     <string name="name_press_home_key">Πλήκτρο home</string>
+     <string name="name_press_menu_key">Πλήκτρο menu</string>
+     <string name="name_quick_lock">Απενεργοποίηση οθόνης</string>
+     <string name="name_quick_search">Αναζήτηση</string>
+     <string name="name_scan_to_pay">Σάρωση για πληρωμή</string>
+     <string name="name_screenshot">Στιγμιότυπο</string>
+     <string name="name_wechat_payment_code">Γρήγορη πληρωμή Wechat</string>
+     <string name="name_wechat_scan">Σάρωση κωδικού Wechat</string>
+     <string name="open_panel">Ενεργοποίηση Βοηθού Αφής</string>
+     <string name="pay_entry_dialog_title_select">Επιλέξτε εφαρμογή για άνοιγμα</string>
+     <string name="pay_entry_dialog_title_setting">Μαρκάρετε την εφαρμογή για να την ενεργοποιήσετε</string>
+     <string name="pref_category_others">Άλλα</string>
+     <string name="pref_category_quick_pay">Γρήγορη πληρωμή</string>
+     <string name="pref_category_quick_settings">Γρήγορες Ρυθμίσεις</string>
+     <string name="pref_category_system">Ρυθμίσεις συστήματος</string>
+     <string name="restore_intro">Επαναφορά στις προεπιλεγμένες ρυθμίσεις, οι οποίες περιλαμβάνουν λειτουργίες και εντολές. Αυτό δεν θα διαγράψει τα δεδομένα στο τηλέφωνό σας.</string>
+     <string name="show_on_keyguard">Εμφάνιση στην οθόνη κλειδώματος</string>
+     <string name="theme_manager_not_supported">Τα Θέματα δεν υποστηρίζονται.</string>
+</resources>

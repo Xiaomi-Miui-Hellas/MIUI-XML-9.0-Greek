@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="agree">Συμφωνώ</string>
+     <string name="app_label">Τοποθεσία δικτύου</string>
+     <string name="disagree">Διαφωνώ</string>
+     <string name="location_warning_do_not_show_again">Να μην εμφανιστεί ξανά</string>
+     <string name="location_warning_message">Να επιτρέπεται στην υπηρεσία εντοπισμού AutoNavi να συλλέγει ανώνυμα δεδομένα τοποθεσίας. Μερικά δεδομένα μπορεί να αποθηκευτούν στη συσκευή σας και η συλλογή μπορεί να συμβεί ακόμη και όταν δεν εκτελούνται εφαρμογές.</string>
+     <string name="location_warning_title">Συναίνεση τοποθεσίας</string>
+     <string name="persmission_close">ΚΛΕΙΣΙΜΟ</string>
+     <string name="persmission_message">Για να λειτουργήσει σωστά αυτή η υπηρεσία, απαιτεί επιπλέον δικαιώματα. Παρακαλώ δώστε τα δικαιώματα όταν σας ζητηθεί.</string>
+     <string name="persmission_message2">Για να λειτουργήσει σωστά αυτή η υπηρεσία, πρέπει να έχει πρόσβαση στο χώρο αποθήκευσης. Παρακαλώ δώστε τα δικαιώματα όταν σας ζητηθεί.</string>
+     <string name="persmission_message3">Για να λειτουργήσει σωστά αυτή η υπηρεσία, πρέπει να έχει πρόσβαση στην τοποθεσία σας. Παρακαλώ δώστε τα δικαιώματα όταν σας ζητηθεί.</string>
+     <string name="persmission_message4">Για να λειτουργήσει σωστά αυτή η υπηρεσία, πρέπει να έχει πρόσβαση το τηλέφωνό σας. Παρακαλώ δώστε τα δικαιώματα όταν σας ζητηθεί.</string>
+     <string name="persmission_message5">Για να λειτουργήσει σωστά αυτή η υπηρεσία, απαιτεί επιπλέον δικαιώματα. Μπορείτε να διαχειριστείτε τα δικαιώματα Τοποθεσίας Δικτύου στις Ρυθμίσεις.</string>
+     <string name="persmission_message6">Για να λειτουργήσει σωστά αυτή η υπηρεσία, πρέπει να έχει πρόσβαση στην τοποθεσία σας. Μπορείτε να διαχειριστείτε τα δικαιώματα Τοποθεσίας Δικτύου στις Ρυθμίσεις.</string>
+     <string name="persmission_message7">Για να λειτουργήσει σωστά αυτή η υπηρεσία, πρέπει να έχει πρόσβαση το τηλέφωνό σας. Μπορείτε να διαχειριστείτε τα δικαιώματα Τοποθεσίας Δικτύου στις Ρυθμίσεις.</string>
+     <string name="persmission_message8">Για να λειτουργήσει σωστά αυτή η υπηρεσία, πρέπει να έχει πρόσβαση στο χώρο αποθήκευσης. Μπορείτε να διαχειριστείτε τα δικαιώματα Τοποθεσίας Δικτύου στις Ρυθμίσεις.</string>
+     <string name="persmission_notification_text">Πατήστε για να δώσετε</string>
+     <string name="persmission_notification_title">Η τοποθεσία δικτύου απαιτεί δικαιώματα</string>
+     <string name="persmission_ok">OK</string>
+     <string name="persmission_settings">ΡΥΘΜΙΣΕΙΣ</string>
+</resources>

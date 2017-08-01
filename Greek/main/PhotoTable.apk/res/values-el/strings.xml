@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Προφύλαξη οθόνης με φωτογραφία</string>
+     <string name="flipper_screensaver_name">Κορνίζα</string>
+     <string name="local_source_name">Στη συσκευή</string>
+     <string name="need_to_configure">Δεν επιλέχθηκαν φωτογραφίες.</string>
+     <string name="no_photos">Δεν υπάρχουν φωτογραφίες στη συσκευή.</string>
+     <string name="photodream_select_all">Επιλογή όλων</string>
+     <string name="photodream_select_none">Αποεπιλογή όλων</string>
+     <string name="posts_album_name">Από αναρτήσεις</string>
+     <string name="stock_photo_album_name">Στοκ φωτογραφίες</string>
+     <string name="table_screensaver_name">Πίνακας φωτογραφιών</string>
+     <string name="unknown_album_name">Ανώνυμο Άλμπουμ</string>
+</resources>

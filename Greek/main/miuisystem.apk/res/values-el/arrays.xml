@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="cta_permission_names">
+        <item>πρόσβαση στο δίκτυο</item>
+        <item>να διαβάζει τα SMS</item>
+        <item>να τροποποιεί τα SMS</item>
+        <item>να λαμβάνει SMS</item>
+        <item>να στέλνει SMS</item>
+        <item>να πραγματοποιεί κλήσεις</item>
+        <item>να διαβάζει τις επαφές</item>
+        <item>να τροποποιεί τις επαφές</item>
+        <item>να διαβάζει το αρχείο κλήσεων</item>
+        <item>να τροποποιεί το αρχείο κλήσεων</item>
+        <item>πρόσβαση στην κάμερα</item>
+        <item>πρόσβαση στην τοποθεσία</item>
+     </string-array>
+</resources>

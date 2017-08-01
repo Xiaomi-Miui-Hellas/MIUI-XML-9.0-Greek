@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="dirty_contacts_count">
+        <item quantity="other">%d επαφές</item>
+        <item quantity="one">%d επαφή</item>
+     </plurals>
+     <plurals name="dirty_mms_count">
+        <item quantity="other">%d μηνύματα</item>
+        <item quantity="one">%d μήνυμα</item>
+     </plurals>
+     <plurals name="dirty_note_count">
+        <item quantity="other">%d σημειώσεις</item>
+        <item quantity="one">%d σημείωση</item>
+     </plurals>
+     <plurals name="updated_contacts">
+        <item quantity="other">Ενημερώθηκαν %s επαφές</item>
+        <item quantity="one">Ενημερώθηκε %s επαφή</item>
+     </plurals>
+     <plurals name="view_all_apps">
+        <item quantity="other">Προβολή και των %d εφαρμογών</item>
+        <item quantity="one">Προβολή %d εφαρμογής</item>
+     </plurals>
+     <plurals name="view_all_browsers">
+        <item quantity="other">Προβολή και των %d πλοηγών</item>
+        <item quantity="one">Προβολή %d πλοηγού</item>
+     </plurals>
+     <plurals name="view_all_devices">
+        <item quantity="other">Προβολή και των %d συσκευών</item>
+        <item quantity="one">Προβολή %d συσκευής</item>
+     </plurals>
+</resources>

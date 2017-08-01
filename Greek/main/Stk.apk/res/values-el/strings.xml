@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="alphabet">Αλφάβητο</string>
+     <string name="app_name">Εργαλεία SIM</string>
+     <string name="app_name2">Εργαλεία SIM 2</string>
+     <string name="app_name3">Εργαλεία SIM 3</string>
+     <string name="button_cancel">Άκυρο</string>
+     <string name="button_no">Όχι</string>
+     <string name="button_ok">OK</string>
+     <string name="button_yes">Ναι</string>
+     <string name="digits">Ψηφία (0-9, *, #, +)</string>
+     <string name="disable_app">Ανενεργό</string>
+     <string name="enable_app">Ενεργό</string>
+     <string name="help">Βοήθεια</string>
+     <string name="menu_back">Πίσω</string>
+     <string name="menu_end_session">Τέλος συνεδρίας</string>
+     <string name="no_sim_card_inserted">Παρακαλώ εισάγετε κάρτα SIM για να ξεκινήσετε τα εργαλεία SIM.</string>
+     <string name="service_name">Όνομα υπηρεσίας</string>
+     <string name="sim_type_sim_name">Εργαλεία SIM</string>
+     <string name="sim_type_uim_name">Εργαλεία UIM</string>
+     <string name="sim_type_usim_name">Εργαλεία USIM</string>
+     <string name="stk_app_state">Κατάσταση εφαρμογής</string>
+     <string name="stk_dialog_accept">ΝΑΙ</string>
+     <string name="stk_dialog_reject">ΟΧΙ</string>
+     <string name="stk_dialog_title">Εργαλεία SIM</string>
+     <string name="stk_intent_permission">Επιτρέψτε τις αιτήσεις STK</string>
+     <string name="stk_no_service">Μη διαθέσιμη υπηρεσία</string>
+</resources>

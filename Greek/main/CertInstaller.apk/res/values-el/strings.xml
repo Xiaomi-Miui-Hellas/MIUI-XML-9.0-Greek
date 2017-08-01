@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Πρόγρ. εγκατάστασης πιστοποιητικού</string>
+     <string name="cert_is_added">%s είναι εγκατεστημένα.</string>
+     <string name="cert_missing_error">Δεν ήταν δυνατή η εγκατάσταση επειδή το αρχείο του πιστοποιητικού δεν ήταν δυνατό να εντοπιστεί.</string>
+     <string name="cert_not_saved">Το πιστοποιητικό δεν είναι εγκατεστημένο.</string>
+     <string name="cert_read_error">Δεν ήταν δυνατή η εγκατάσταση επειδή το αρχείο του πιστοποιητικού δεν μπορεί να διαβάσει.</string>
+     <string name="cert_too_large_error">Δεν ήταν δυνατή η εγκατάσταση επειδή το μέγεθος του πιστοποιητικού είναι πολύ μεγάλο.</string>
+     <string name="credential_info">Το πακέτο περιέχει:</string>
+     <string name="credential_name">Όνομα πιστοποιητικού:</string>
+     <string name="credential_password">Δώστε τον κωδικό για την εξαγωγή των πιστοποιητικών.</string>
+     <string name="credential_usage_label">Χρήση διαπιστευτηρίων:</string>
+     <string name="done_label">ΟΛΟΚΛΗΡΩΘΗΚΕ</string>
+     <string name="extracting_pkcs12">Εξαγωγή…</string>
+     <string name="install_done">%1$s διαπιστεύσεις έχουν προστεθεί στα αποθηκευμένα δίκτυα Wi‑Fi.</string>
+     <string name="install_done_title">Οι διαπιστεύσεις εγκαταστάθηκαν</string>
+     <string name="invalid_cert">Το πιστοποιητικό δεν είναι έγκυρο.</string>
+     <string name="n_cacrts">%d CA πιστοποιητικά</string>
+     <string name="name_char_error">Δώστε όνομα που περιέχει μόνο γράμματα και αριθμούς.</string>
+     <string name="name_credential_dialog_title">Όνομα πιστοποιητικού</string>
+     <string name="name_empty_error">Δώστε όνομα.</string>
+     <string name="no_cert_file_found">Δεν βρέθηκε αρχείο πιστοποιητικού στο χώρο αποθήκευσης USB.</string>
+     <string name="no_cert_to_saved">Κανένα πιστοποιητικό για εγκατάσταση.</string>
+     <string name="one_cacrt">ένα CA πιστοποιητικό</string>
+     <string name="one_usercrt">Πιστοπ. ενός χρήστη</string>
+     <string name="one_userkey">Κλειδί ενός χρήστη</string>
+     <string name="only_primary_user_allowed">Μόνο ο κάτοχος αυτής της συσκευής μπορεί να εγκαταστήσει πιστοποιητικά.</string>
+     <string name="p12_description">Πιστοποιητικά σε PKCS12 κλειδιά.</string>
+     <string name="password_empty_error">Δώστε τον κωδικό.</string>
+     <string name="password_error">Δώστε το σωστό κωδικό.</string>
+     <string name="pick_file_title">Επιλογή πιστοποιητικού</string>
+     <string name="pkcs12_file_password_dialog_title">Εξαγωγή από %s</string>
+     <string name="pkcs12_password_dialog_title">Εξαγωγή πιστοποιητικού</string>
+     <string name="sdcard_not_present">Το USB δεν είναι διαθέσιμο.</string>
+     <string name="storage_error">Αδυναμία αποθήκευσης πιστοποιητικού. Πατήστε OK για να προσπαθήσετε ξανά.</string>
+     <string name="unable_to_save_cert">Αδυναμία αποθήκευσης πιστοποιητικού. Ο χώρος αποθήκευσης διαπιστευτηρίων δεν είναι ενεργοποιημένος ή δεν έχει προετοιμαστεί σωστά.</string>
+     <string name="wifi_cancel_label">Ακύρωση</string>
+     <string name="wifi_config_text">"Όνομα: %1$s
+FQDN: %2$s
+Roaming Consortiums: %3$s
+Realm: %4$s
+Μέθοδος πιστοποίησης: EAP-%5$s
+"</string>
+     <string name="wifi_detail_label">Λεπτομέρειες</string>
+     <string name="wifi_detail_title">Λεπτομέρειες για %s</string>
+     <string name="wifi_dismiss_label">Απόρριψη</string>
+     <string name="wifi_install_label">Εγκατάσταση</string>
+     <string name="wifi_installer_detail">Εγκαταστήστε τα διαπιστευτήρια Wi‑Fi για να συνδεθείτε σε δίκτυα που είναι διαθέσιμα μέσω %1$s.</string>
+     <string name="wifi_installer_download_error">"Το αρχείο που κατεβάσατε έχει προβλήματα και δεν μπορεί να εγκατασταθεί. Βεβαιωθείτε ότι έχετε κατεβάσει το αρχείο από τη σωστή πηγή."</string>
+     <string name="wifi_installer_fail">"Αδυναμία εγκατάστασης διαπιστευτηρίων Wi‑Fi. Δοκιμάστε ξανά λήψη του αρχείου."</string>
+     <string name="wifi_installer_fail_no_wifi">Ενεργοποιείστε το Wi‑Fi και δοκιμάστε ξανά.</string>
+     <string name="wifi_installer_fail_no_wifi_title">Η εγκατάσταση ακυρώθηκε</string>
+     <string name="wifi_installer_fail_title">"Αδυναμία εγκατάστασης"</string>
+     <string name="wifi_installing_label">Εγκατάσταση…</string>
+     <string name="wifi_no_config">Κανένα</string>
+     <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+     <string name="wifi_title">Προφίλ Wi‑Fi</string>
+     <string name="wifi_tls_config_text">"Πιστοποιητικό πελάτη:
+%1$s
+Κλειδί: %2$s
+"</string>
+     <string name="wifi_trust_config_text">"Έμπιστο πιστοποιητικό:
+%s
+"</string>
+     <string name="wifi_ttls_config_text">"Όνομα χρήστη: %s
+"</string>
+</resources>

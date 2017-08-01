@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">%1$d βήματα ακόμα για εναλλαγή σε Μέγιστη λειτουργία</item>
+        <item quantity="one">%1$d βήμα ακόμα για εναλλαγή σε Μέγιστη λειτουργία</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">%1$d βήματα ακόμα για απενεργοποίηση Μέγιστης λειτουργίας</item>
+        <item quantity="one">%1$d βήμα ακόμα για απενεργοποίηση Μέγιστης λειτουργίας</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">Ολοκληρώστε %1$d βήματα για να ξεκλειδώσετε όλες τις επιλογές</item>
+        <item quantity="one">Ολοκληρώστε %1$d βήμα για να ξεκλειδώσετε όλες τις επιλογές</item>
+    </plurals>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="accessibility_call_muted">Κλήση σε σίγαση.</string>
+     <string name="accessibility_speakerphone_enabled">Μεγάφωνο ενεργό.</string>
+     <string name="add_vm_number_str">Προσθήκη αριθμού</string>
+     <string name="dial_conference_fail_prompt">"Δεν είναι δυνατή η κλήση συνδιάσκεψης άμεσα, διότι τρέχον δίκτυο δεν υποστηρίζει VoLTE."</string>
+     <string name="dial_vt_fail_prompt">"Το τρέχον δίκτυο δεν υποστηρίζει VoLTE. Εναλλαγή σε κανονική κλήση ομιλίας;"</string>
+     <string name="duplicate_video_call_not_allowed">Η κλήση δεν μπορεί να προστεθεί αυτή τη στιγμή.</string>
+     <string name="enable_account_preference_title">Λογαριασμοί κλήσης</string>
+     <string name="handle_restricted">ΠΕΡΙΟΡΙΣΜΈΝΟ</string>
+     <string name="headset_plugin_view_text">Τα ακουστικά είναι συνδεδεμένα.</string>
+     <string name="headset_plugin_view_title">Ακουστικά</string>
+     <string name="incall_error_call_failed">"Αδυναμία κλήσης."</string>
+     <string name="no_vm_number">Λείπει ο αριθμός αυτόματου τηλεφωνητή</string>
+     <string name="no_vm_number_msg">Δεν έχει αποθηκευτεί αριθμός για τον αυτόματο τηλεφωνητή στην κάρτα SIM.</string>
+     <string name="notification_missedCallTicker">Αναπάντητη κλήση από %s</string>
+     <string name="notification_missedCallTitle">Αναπάντητη κλήση</string>
+     <string name="notification_missedCall_call_back">Επιστροφή κλήσης</string>
+     <string name="notification_missedCall_call_back_miui">Κλήση</string>
+     <string name="notification_missedCall_message">Μήνυμα</string>
+     <string name="notification_missedCallsMsg">%s αναπάντητες κλήσεις</string>
+     <string name="notification_missedCallsTitle">Αναπάντητες κλήσεις</string>
+     <string name="outgoing_call_error_no_phone_number_supplied">Για να κάνετε μια κλήση, εισάγετε έναν έγκυρο αριθμό.</string>
+     <string name="outgoing_call_not_allowed">Αυτός ο χρήστης επιτρέπεται να κάνει μόνο κλήσεις έκτακτης ανάγκης</string>
+     <string name="outgoing_call_not_allowed_no_permission">Αυτή η εφαρμογή δεν μπορεί να κάνει εξερχόμενες κλήσεις χωρίς προνόμια Τηλεφώνου.</string>
+     <string name="outgoing_call_not_allowed_user_restriction">Μόνο κλήσεις έκτακτης ανάγκης επιτρέπονται από τον ιδιοκτήτη της συσκευής.</string>
+     <string name="respond_via_sms_canned_response_1">"Δεν μπορώ να μιλήσω τώρα. Τι συμβαίνει;"</string>
+     <string name="respond_via_sms_canned_response_2">"Θα σας καλέσω σε λίγο."</string>
+     <string name="respond_via_sms_canned_response_3">"Θα σας καλέσω αργότερα."</string>
+     <string name="respond_via_sms_canned_response_4">"Δεν μπορώ να μιλήσω τώρα. Θα με καλέσετε αργότερα;"</string>
+     <string name="respond_via_sms_confirmation_format">Το μήνυμα εστάλη σε %s.</string>
+     <string name="respond_via_sms_edittext_dialog_title">Γρήγορη απάντηση</string>
+     <string name="respond_via_sms_setting_summary" />
+     <string name="respond_via_sms_setting_title">Γρήγορες απαντήσεις</string>
+     <string name="respond_via_sms_setting_title_2">Επεξεργασία γρήγορων απαντήσεων</string>
+     <string name="select_account_dialog_title">Επιλέξτε λογαριασμό</string>
+     <string name="telecommAppLabel">Διαχείριση τηλεφωνικών κλήσεων</string>
+     <string name="unknown">Άγνωστο</string>
+     <string name="userCallActivityLabel">Τηλέφωνο</string>
+     <string name="video_call_not_allowed_if_tty_enabled">Παρακαλώ απενεργοποιείστε τη λειτουργία TTY Mode για να κάνετε κλήσεις βίντεο.</string>
+     <string name="voice_dial_out">Φωνητική κλήση</string>
+     <string name="voice_report_incoming_call">Εισερχόμενη κλήση</string>
+     <string name="voice_report_unknown_num">Άγνωστος αριθμός</string>
+</resources>

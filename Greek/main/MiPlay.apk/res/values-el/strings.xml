@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Διακομιστής πολυμέσων</string>
+     <string name="cancel">Ακύρωση</string>
+     <string name="enable_wifi_btn">Ενεργοποίηση</string>
+     <string name="enable_wifi_message">Ενεργοποιήστε το Wi‑Fi για αναζήτηση και σύνδεση σε κοντινές συσκευές.</string>
+     <string name="enable_wifi_title">Ενεργοποίηση Wi‑Fi</string>
+     <string name="media_feature_projection">Mirror screen</string>
+     <string name="media_status_error">Σφάλμα</string>
+     <string name="media_status_started">Συνδέθηκε</string>
+     <string name="media_status_starting">Σύνδεση…</string>
+     <string name="media_status_stopped">Σταματημένο</string>
+     <string name="media_status_stopping">Κλείσιμο…</string>
+     <string name="noti_projection_status_desc_on">Screen mirroring ενεργό</string>
+     <string name="noti_projection_status_title">Ασύρματη Οθόνη Mi Play</string>
+     <string name="prjection_title">Ασύρματη οθόνη</string>
+     <string name="search_for_devices">Ανανέωση</string>
+     <string name="wifi_display_autonomous_go">Ενεργοποίηση αυτόματης εκκίνησης</string>
+     <string name="wifi_display_certification_heading">Πιστοποίηση</string>
+     <string name="wifi_display_details">Ρυθμίσεις Οθόνης</string>
+     <string name="wifi_display_enable_menu_item">Ενεργοποίηση Ασύρματης οθόνης</string>
+     <string name="wifi_display_listen_channel">Κανάλι ακρόασης</string>
+     <string name="wifi_display_listen_mode">Ενεργοποίηση λειτουργίας ακρόασης</string>
+     <string name="wifi_display_no_devices_found">Δεν βρέθηκαν κοντινές συσκευές.</string>
+     <string name="wifi_display_operating_channel">Κανάλι λειτουργίας</string>
+     <string name="wifi_display_options_done">Ολοκληρώθηκε</string>
+     <string name="wifi_display_options_forget">Διαγραφή</string>
+     <string name="wifi_display_options_name">Όνομα</string>
+     <string name="wifi_display_options_title">Ρυθμίσεις Ασύρματης οθόνης</string>
+     <string name="wifi_display_pause">Παύση</string>
+     <string name="wifi_display_resume">Συνέχιση</string>
+     <string name="wifi_display_session_info">Πληροφορίες συνόδου</string>
+     <string name="wifi_display_settings_title">Προβολή</string>
+     <string name="wifi_display_status_connected">Συνδέθηκε</string>
+     <string name="wifi_display_status_connecting">Σύνδεση…</string>
+     <string name="wifi_display_status_in_use">Σε λειτουργία</string>
+     <string name="wifi_display_status_not_available">Μη διαθέσιμο</string>
+     <string name="wifi_display_wps_config">Διαμόρφωση WPS</string>
+</resources>

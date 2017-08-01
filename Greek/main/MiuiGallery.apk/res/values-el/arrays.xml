@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="baby_sexy">
+        <item>Αγόρι</item>
+        <item>Κορίτσι</item>
+     </string-array>
+     <string-array name="owner_relation">
+        <item>Πατέρας</item>
+        <item>Μητέρα</item>
+        <item>Παππούς (από πατέρα)</item>
+        <item>Γιαγιά (από πατέρα)</item>
+        <item>Παππούς (από μητέρα)</item>
+        <item>Γιαγιά (από μητέρα)</item>
+     </string-array>
+     <string-array name="relation_with_me">
+        <item>Εγώ</item>
+        <item>Παιδί</item>
+        <item>Οικογένεια</item>
+        <item>Συνάδελφοι</item>
+        <item>Συμμαθητές</item>
+        <item>φίλοι</item>
+        <item>Άγνωστο</item>
+     </string-array>
+     <string-array name="slideshow_time_entries">
+        <item>5 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>Απεριόριστα</item>
+     </string-array>
+</resources>

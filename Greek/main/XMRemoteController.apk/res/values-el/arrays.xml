@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="ac_mode_array">
+        <item>Ψύξη</item>
+        <item>Θέρμανση</item>
+        <item>Αφύγρανση</item>
+        <item>Ανεμιστήρας</item>
+     </string-array>
+     <string-array name="answer">
+        <item>Η συσκευή σας μπορεί να κάνει σύζευξη μόνο με τα Mi TV, Mi Box και αρκετές άλλες συσκευές Android χρησιμοποιώντας Wi‑Fi.</item>
+        <item>"Βεβαιωθείτε ότι έχετε επιλέξει το σωστό μοντέλο A/C κατά την διαδικασία σύζευξης. Ακολουθήστε τις οδηγίες που εμφανίζονται στη συσκευή σας μέχρι η σύζευξη να ολοκληρωθεί."</item>
+        <item>Όχι. Προς το παρόν μπορείτε να χρησιμοποιήσετε τα Mi 4, Mi 4c, και Redmi Note 2 ως τηλεχειριστήρια IR.</item>
+     </string-array>
+     <string-array name="assistant_tab">
+        <item>Βίντεο</item>
+        <item>Στιγμιότυπα</item>
+        <item>Εφαρμογή</item>
+     </string-array>
+     <string-array name="epg_channel_tab">
+        <item>Όλα</item>
+        <item>Συλλογή</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Πρόσφατα</item>
+     </string-array>
+     <string-array name="epg_channel_tab_actionbar">
+        <item>Όλα τα κανάλια</item>
+        <item>Αγαπημένα κανάλια</item>
+        <item>Κανάλια CCTV</item>
+        <item>Κανάλια δορυφορικής TV</item>
+        <item>Κανάλια HD</item>
+        <item>Πρόσφατη προβολή</item>
+     </string-array>
+     <string-array name="epg_week_tab">
+        <item>Κυρ</item>
+        <item>Δευ</item>
+        <item>Τρι</item>
+        <item>Τετ</item>
+        <item>Πεμ</item>
+        <item>Παρ</item>
+        <item>Σαβ</item>
+     </string-array>
+     <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+     </string-array>
+     <string-array name="question">
+        <item>Γιατί το τηλέφωνό μου συνεχίζει την αναζήτηση για ασύρματες συσκευές;</item>
+        <item>"Γιατί μπορώ μόνο να ενεργοποιήσω το A/C και δεν μπορώ να το απενεργοποιήσω;"</item>
+        <item>Μπορώ να χρησιμοποιήσω τα Mi 3, Mi 2, και Redmi ως τηλεχειριστήρια IR;</item>
+     </string-array>
+</resources>

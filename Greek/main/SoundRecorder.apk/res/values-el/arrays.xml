@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="hd_record_scenes_entries">
+        <item>Μουσική</item>
+        <item>Φωνή</item>
+        <item>Συνέντευξη</item>
+        <item>HD</item>
+     </string-array>
+     <string-array name="interview_record_scenes_entries">
+        <item>Μουσική</item>
+        <item>Φωνή</item>
+        <item>Συνέντευξη</item>
+     </string-array>
+     <string-array name="record_quality_entries">
+        <item>Υψηλή</item>
+        <item>Κανονική</item>
+        <item>Χαμηλή</item>
+     </string-array>
+     <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/ώ</item>
+        <item>MP3, ~100kbit/s, ~45MB/ώ</item>
+        <item>MP3, ~75kbit/s, ~32MB/ώ</item>
+     </string-array>
+     <string-array name="record_scenes_entries">
+        <item>Μουσική</item>
+        <item>Φωνή</item>
+     </string-array>
+     <string-array name="record_scenes_summaries">
+        <item>Εγγραφή μέσω 2 καναλιών. Ακούστε τον στερεοφωνικό ήχο στα ακουστικά</item>
+        <item>Μετακινήστε το μικρόφωνο πιο κοντά στην πηγή ήχου για καλύτερη ποιότητα</item>
+        <item>Τοποθετήστε το τηλέφωνο ανάμεσα σε 2 άτομα για να καταγράψετε και τους δύο καθαρά</item>
+        <item>Η μέγιστη αποτελεσματική απόσταση του μικροφώνου είναι 10 μέτρα</item>
+     </string-array>
+</resources>

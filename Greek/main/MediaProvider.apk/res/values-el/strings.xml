@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="Add_More_Ringtones">Περισσότεροι ήχοι κλήσης…</string>
+     <string name="app_label">Αποθήκευση Πολυμέσων</string>
+     <string name="artist_label">Καλλιτέχνης</string>
+     <string name="root_audio">Ήχος</string>
+     <string name="root_images">Εικόνες</string>
+     <string name="root_videos">Βίντεο</string>
+     <string name="uid_label">Πολυμέσα</string>
+     <string name="upgrade_msg">Αναβάθμιση βάσης δεδομένων πολυμέσων.</string>
+</resources>

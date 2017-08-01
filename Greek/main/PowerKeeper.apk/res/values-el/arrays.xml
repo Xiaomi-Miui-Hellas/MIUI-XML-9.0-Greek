@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="action_name_translate">
+        <item>Μέγιστη φωτεινότητα οθόνης</item>
+        <item>Μέγιστη συχνότητα CPU</item>
+        <item>Λειτουργία οθόνης</item>
+        <item>Χρήση CPU</item>
+        <item>Σύνδεση δεδομένων</item>
+        <item>Τοποθεσία</item>
+        <item>Πρώτη ειδοποίηση</item>
+        <item>Ειδοποιήσεις οθόνης κλειδώματος</item>
+        <item>Περιορισμός συνδέσεων δεδομένων παρασκηνίου</item>
+     </string-array>
+     <string-array name="action_param_translate">
+        <item>Καμία</item>
+        <item>Προεπιλογή</item>
+        <item>Εικόνα</item>
+        <item>Ταινία</item>
+        <item>Εξοικονόμηση ενέργειας</item>
+        <item>Ισορροπημένη</item>
+        <item>Επιδόσεις</item>
+        <item>Ενεργό</item>
+        <item>Ανενεργό</item>
+        <item>Άμεσα</item>
+        <item>Μετά από 10 λεπτά</item>
+        <item>Μετά από 30 λεπτά</item>
+        <item>Όταν η οθόνη είναι ανενεργή</item>
+     </string-array>
+     <string-array name="app_groups">
+        <item>επιλεγμένα</item>
+        <item>μη επιλεγμένα</item>
+        <item>άλλα επιλεγμένα</item>
+     </string-array>
+     <string-array name="event_name_translate">
+        <item>Η εφαρμογή τρέχει στο προσκήνιο</item>
+        <item>Ενεργή οθόνη</item>
+        <item>Ανενεργή οθόνη</item>
+        <item>Ανενεργή οθόνη για πάνω από 10 λεπτά</item>
+        <item>Πλήρης οθόνη</item>
+        <item>Έξοδος από πλήρη οθόνη</item>
+        <item>Η εφαρμογή τρέχει στο παρασκήνιο</item>
+        <item>Το τηλέφωνο φορτίζει</item>
+        <item>Το τηλέφωνο δεν φορτίζει</item>
+        <item>Τηλέφωνο σε αδράνεια</item>
+     </string-array>
+     <string-array name="group_name_translate">
+        <item>Προεπιλογή</item>
+        <item>Λειτουργία απόκρυψης</item>
+        <item>Λειτουργία ανάγνωσης</item>
+        <item>Λειτουργία πολυμέσων</item>
+     </string-array>
+     <string-array name="hmode_app_groups">
+        <item>Προσαρμοσμένη ρύθμιση</item>
+        <item>Προτεινόμενη ρύθμιση</item>
+     </string-array>
+</resources>

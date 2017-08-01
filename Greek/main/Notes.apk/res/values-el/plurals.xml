@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%1$s δεν έχουν συγχρονιστεί"</item>
+        <item quantity="one">"%1$s δεν έχει συγχρονιστεί"</item>
+     </plurals>
+     <plurals name="folder_terms">
+        <item quantity="other">%1$s φάκελοι</item>
+        <item quantity="one">%1$s φάκελος</item>
+     </plurals>
+     <plurals name="note_count_in_folder">
+        <item quantity="other">%1$s σημειώσεις</item>
+        <item quantity="one">1 σημείωση</item>
+     </plurals>
+     <plurals name="note_terms">
+        <item quantity="other">%1$s σημειώσεις</item>
+        <item quantity="one">%1$s σημείωση</item>
+     </plurals>
+     <plurals name="search_results_title">
+        <item quantity="other">%1$s αποτελέσματα για \"%2$s\"</item>
+        <item quantity="one">%1$s αποτέλεσμα για \"%2$s\"</item>
+     </plurals>
+</resources>

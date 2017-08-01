@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="account_user_gender_name">
+        <item>Άνδρας</item>
+        <item>Γυναίκα</item>
+     </string-array>
+     <string-array name="education">
+        <item>Γυμνάσιο</item>
+        <item>Δημοτικό</item>
+        <item>Λύκειο</item>
+        <item>Επαγγελματική σχολή</item>
+        <item>Κολέγιο</item>
+        <item>"Master's degree"</item>
+        <item>"Doctor's degree"</item>
+     </string-array>
+     <string-array name="question_no1">
+        <item>Οικογένεια</item>
+        <item>"Όνομα γιαγιάς (από μητέρα)"</item>
+        <item>"Όνομα παππού (από μητέρα)"</item>
+        <item>"Όνομα παππού (από πατέρα)"</item>
+        <item>"Όνομα γιαγιάς (από πατέρα)"</item>
+        <item>"Γενέθλια του πατέρα"</item>
+        <item>"Γενέθλια της μητέρας"</item>
+        <item>"Ποια είναι η διαφορά ηλικίας των γονιών σας (έτη και μήνες);"</item>
+     </string-array>
+     <string-array name="question_no2">
+        <item>Σχολείο</item>
+        <item>Ποιο ήταν το όνομα του πρόεδρου της τάξης σας στο γυμνάσιο;</item>
+        <item>Ποιο ήταν το όνομα του πρόεδρου της τάξης σας στο δημοτικό σχολείο;</item>
+        <item>Αριθμός φοιτητικής ταυτότητας σας στο κολέγιο</item>
+        <item>"Ποιο ήταν το όνομα του συγκάτοικού σας στο κολέγιο;"</item>
+        <item>"Ποιο είναι το όνομα του επόπτη σας στο κολέγιο?"</item>
+     </string-array>
+     <string-array name="question_no3">
+        <item>Προσωπικές πληροφορίες</item>
+        <item>Πως σας φωνάζουν οι γονείς σας?</item>
+        <item>Τελευταία 6 ψηφία του αριθμού διαβατηρίου σας</item>
+        <item>Σε ποια νοσοκομείο γεννηθήκατε;</item>
+        <item>"Ποιο είναι το όνομα του καλύτερού σας φίλου;"</item>
+     </string-array>
+     <string-array name="question_no4">
+        <item>Πρωτιές</item>
+        <item>"Ποιο είναι το όνομα του πρώτου σας κατοικίδιου;"</item>
+        <item>"Ποιο είναι το όνομα του πρώτου σας δεσμού (φίλη/φίλος);"</item>
+        <item>"Ποιο είναι το όνομα του πρώτου σας εργοδότη;"</item>
+     </string-array>
+     <string-array name="question_no5">
+        <item>Γάμος</item>
+        <item>Πότε παντρευτήκατε;</item>
+        <item>"Το όνομα του/της συζύγου σας"</item>
+        <item>"Τα γενέθλια του/της συζύγου σας"</item>
+     </string-array>
+</resources>

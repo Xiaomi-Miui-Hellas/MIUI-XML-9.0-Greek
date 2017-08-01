@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="app_install_count">
+        <item quantity="other">%1$s λήψεις</item>
+        <item quantity="one">%1$s λήψη</item>
+     </plurals>
+     <plurals name="app_user_used">
+        <item quantity="other">%1$s χρήστες</item>
+        <item quantity="one">%1$s χρήστης</item>
+     </plurals>
+     <plurals name="days_ago">
+        <item quantity="other">Πριν %1$d ημέρες</item>
+        <item quantity="zero">Πριν %1$d ημέρες</item>
+        <item quantity="one">Πριν %1$d ημέρα</item>
+        <item quantity="two">Πριν %1$d ημέρες</item>
+        <item quantity="few">Πριν %1$d ημέρες</item>
+        <item quantity="many">Πριν %1$d ημέρες</item>
+     </plurals>
+     <plurals name="hours_ago">
+        <item quantity="other">Πριν %1$d ώρες</item>
+        <item quantity="zero">Πριν %1$d ώρες</item>
+        <item quantity="one">Πριν %1$d ώρα</item>
+        <item quantity="two">Πριν %1$d ώρες</item>
+        <item quantity="few">Πριν %1$d ώρες</item>
+        <item quantity="many">Πριν %1$d ώρες</item>
+     </plurals>
+     <plurals name="match_brand_selection_des">
+        <item quantity="other">%d μάρκες διαθέσιμες</item>
+        <item quantity="one">1 μάρκα διαθέσιμη</item>
+     </plurals>
+     <plurals name="mins_ago">
+        <item quantity="other">Πριν %1$d λεπτά</item>
+        <item quantity="zero">Πριν %1$d λεπτά</item>
+        <item quantity="one">Πριν %1$d λεπτό</item>
+        <item quantity="two">Πριν %1$d λεπτά</item>
+        <item quantity="few">Πριν %1$d λεπτά</item>
+        <item quantity="many">Πριν %1$d λεπτά</item>
+     </plurals>
+</resources>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Διαγραφή %d λιστών αναπαραγωγής;</item>
+        <item quantity="one">Διαγραφή %d λίστας αναπαραγωγής;</item>
+     </plurals>
+     <plurals name="Nalbum_total_songs">
+        <item quantity="other">Σύνολο %d τραγούδια</item>
+        <item quantity="zero">Σύνολο %d τραγούδι</item>
+        <item quantity="one">Σύνολο %d τραγούδι</item>
+     </plurals>
+     <plurals name="Nartists_count">
+        <item quantity="other">%d καλλιτέχνες</item>
+        <item quantity="one">%d καλλιτέχνης</item>
+     </plurals>
+     <plurals name="Nbackup_songs">
+        <item quantity="other">Δημιουργία αντιγράφου ασφαλείας τραγουδιών. Απομένουν %1$d τραγούδια (%2$.1fMB)</item>
+        <item quantity="one">Δημιουργία αντιγράφου ασφαλείας τραγουδιών. Απομένει %1$d τραγούδι (%2$.1fMB)</item>
+     </plurals>
+     <plurals name="Nexpired_remind">
+        <item quantity="other">Απομένουν %d ημέρες</item>
+        <item quantity="one">Απομένει %d ημέρα</item>
+     </plurals>
+     <plurals name="Ngroups_count">
+        <item quantity="other">%d συγκροτήματα</item>
+        <item quantity="one">%d συγκρότημα</item>
+     </plurals>
+     <plurals name="Nnew_local_audios">
+        <item quantity="other">Προστέθηκαν %d τραγούδια</item>
+        <item quantity="one">Προστέθηκε %d τραγούδι</item>
+     </plurals>
+     <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d νέα</item>
+     </plurals>
+     <plurals name="Nquit_warning">
+        <item quantity="other">Η αναπαραγωγή θα σταματήσει σε %d λεπτά</item>
+        <item quantity="one">>Η αναπαραγωγή θα σταματήσει σε %d λεπτό</item>
+     </plurals>
+     <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδια</item>
+        <item quantity="zero">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδι</item>
+        <item quantity="one">Δημιουργήθηκε στις %1$s | συνολικά %2$d τραγούδι</item>
+     </plurals>
+     <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">%d τραγούδια δεν αντιγράφηκαν στο Mi Cloud. Διακοπή τώρα;</item>
+        <item quantity="one">%d τραγούδι δεν αντιγράφτηκε στο Mi Cloud. Διακοπή τώρα;</item>
+     </plurals>
+     <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d τραγούδια προστέθηκαν στη λίστα</item>
+        <item quantity="one">1 τραγούδι προστέθηκε στη λίστα</item>
+     </plurals>
+     <plurals name="Ntracks_count">
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">%d τραγούδι</item>
+     </plurals>
+     <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d τραγούδια διαγράφηκαν από την λίστα</item>
+        <item quantity="one">1 τραγούδι διαγράφηκε από την λίστα</item>
+     </plurals>
+     <plurals name="Ntracks_search_result">
+        <item quantity="other">Βρέθηκαν %d τραγούδια</item>
+        <item quantity="one">Βρέθηκε %d τραγούδι</item>
+     </plurals>
+     <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d παρόμοια τραγούδια</item>
+        <item quantity="one">%d παρόμοιο τραγούδι</item>
+     </plurals>
+     <plurals name="Nunbackup_audios">
+        <item quantity="other">Δεν έχει γίνει αντίγραφο ασφαλείας για %1$d τραγούδια (%2$.1fMB)</item>
+        <item quantity="one">Δεν έχει γίνει αντίγραφο ασφαλείας για %1$d τραγούδι (%2$.1fMB)"</item>
+     </plurals>
+     <plurals name="Nupload_song_button">
+        <item quantity="other">Δημιουργία αντιγράφου ασφαλείας για %1$d τραγούδια (%2$.1fMB)</item>
+        <item quantity="one">Δημιουργία αντιγράφου ασφαλείας για %1$d τραγούδι (%2$.1fMB)</item>
+     </plurals>
+     <plurals name="comment_count">
+        <item quantity="other">%d σχόλια</item>
+        <item quantity="one">%d σχόλιο</item>
+     </plurals>
+     <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Διαγραφή %d στοιχείων;</item>
+        <item quantity="one">Διαγραφή %d στοιχείου;</item>
+     </plurals>
+     <plurals name="dialog_delete_descript">
+        <item quantity="other">Διαγραφή %d τραγουδιών;</item>
+        <item quantity="one">Διαγραφή %d τραγουδιού;</item>
+     </plurals>
+     <plurals name="dialog_remove_descript">
+        <item quantity="other">Διαγραφή %d τραγουδιών;</item>
+        <item quantity="one">Διαγραφή %d τραγουδιού;</item>
+     </plurals>
+     <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Διαγραφή %d τραγουδιών από το Mi Cloud;</item>
+        <item quantity="one">Διαγραφή %d τραγουδιού από το Mi Cloud;</item>
+     </plurals>
+     <plurals name="download_finished">
+        <item quantity="other">&amp;lt;font color=\"red\">%d τραγούδια&amp;lt;/font> ελήφθησαν</item>
+        <item quantity="one">&amp;lt;font color==\"red\">%d τραγούδι&amp;lt;/font> ελήφθη</item>
+     </plurals>
+     <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Διαγράφηκαν %d λήψεις</item>
+        <item quantity="one">Διαγράφηκε %d λήψη</item>
+     </plurals>
+     <plurals name="download_running">
+        <item quantity="other">&amp;lt;font color=\"red\">%d τραγούδια&amp;lt;/font> λαμβάνονται</item>
+        <item quantity="one">&amp;lt;font color==\"red\">%d τραγούδι&amp;lt;/font> λαμβάνεται</item>
+     </plurals>
+     <plurals name="folder_songs_count">
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">1 τραγούδι</item>
+     </plurals>
+     <plurals name="multichoice_title">
+        <item quantity="other">Επιλέχθηκαν %d</item>
+        <item quantity="one">Επιλέχθηκε %d</item>
+     </plurals>
+     <plurals name="reader_count">
+        <item quantity="other">%d αναγνώστες</item>
+        <item quantity="one">%d αναγνώστης</item>
+     </plurals>
+     <plurals name="send_songs_toast">
+        <item quantity="other">Θα αποσταλούν %d τραγούδια</item>
+        <item quantity="one">Θα αποσταλεί 1 τραγούδι</item>
+     </plurals>
+     <plurals name="song_already_favorite">
+        <item quantity="other">Τα τραγούδια είναι ήδη στα αγαπημένα.</item>
+        <item quantity="one">Το τραγούδι είναι ήδη στα αγαπημένα.</item>
+     </plurals>
+</resources>

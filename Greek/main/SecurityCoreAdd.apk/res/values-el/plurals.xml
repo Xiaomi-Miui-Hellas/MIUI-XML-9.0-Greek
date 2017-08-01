@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="fileCount">
+        <item quantity="other">%d στοιχεία</item>
+        <item quantity="one">%d στοιχείο</item>
+     </plurals>
+     <plurals name="first_space_notification_format">
+        <item quantity="other">%d ειδοποιήσεις στο Πρώτο προφίλ</item>
+        <item quantity="one">%d ειδοποίηση στο Πρώτο προφίλ</item>
+     </plurals>
+     <plurals name="second_space_notification_format">
+        <item quantity="other">%d ειδοποιήσεις στο Δεύτερο προφίλ</item>
+        <item quantity="one">%d ειδοποίηση στο Δεύτερο προφίλ</item>
+     </plurals>
+</resources>

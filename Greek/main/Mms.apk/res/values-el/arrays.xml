@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="contact_entries">
+        <item>Όνομα</item>
+        <item>Ψευδώνυμο</item>
+        <item>Τηλέφωνο</item>
+        <item>E-mail</item>
+        <item>Οργανισμός</item>
+        <item>IM</item>
+        <item>Τηλέφωνο SIP</item>
+        <item>Γενέθλια</item>
+        <item>Ιστοσελίδα</item>
+        <item>Διεύθυνση</item>
+        <item>Σημείωση</item>
+        <item>Σχέση</item>
+     </string-array>
+     <string-array name="entries_date_type">
+        <item>Ώρα λήψης</item>
+        <item>Ώρα αποστολής</item>
+     </string-array>
+     <string-array name="entries_mms_validity_period">
+        <item>Μέγιστο</item>
+        <item>Δύο ημέρες</item>
+     </string-array>
+     <string-array name="entries_sms_validity_period">
+        <item>Δεν έχει οριστεί</item>
+        <item>1 ώρα</item>
+        <item>6 ώρες</item>
+        <item>12 ώρες</item>
+        <item>1 ημέρα</item>
+        <item>Μέγιστο</item>
+     </string-array>
+     <string-array name="prefEntries_ringtone_repeat">
+        <item>1 φορά</item>
+        <item>2 φορές</item>
+        <item>3 φορές</item>
+        <item>5 φορές</item>
+        <item>10 φορές</item>
+     </string-array>
+     <string-array name="prefEntries_vibrateWhen">
+        <item>Πάντα</item>
+        <item>Μόνο όταν είναι σε σίγαση</item>
+        <item>Ποτέ</item>
+     </string-array>
+     <string-array name="resent_via_entries_mms">
+        <item>Με MMS</item>
+        <item>Με Mi message</item>
+     </string-array>
+     <string-array name="resent_via_entries_sms">
+        <item>Με SMS</item>
+        <item>Με Mi message</item>
+     </string-array>
+     <string-array name="select_dialog_items">
+        <item>1 δευτερόλεπτο</item>
+        <item>2 δευτερόλεπτα</item>
+        <item>3 δευτερόλεπτα</item>
+        <item>4 δευτερόλεπτα</item>
+        <item>5 δευτερόλεπτα</item>
+        <item>6 δευτερόλεπτα</item>
+        <item>7 δευτερόλεπτα</item>
+        <item>8 δευτερόλεπτα</item>
+        <item>9 δευτερόλεπτα</item>
+        <item>10 δευτερόλεπτα</item>
+        <item>Άλλο</item>
+     </string-array>
+     <string-array name="wild_msg_sync_options">
+        <item>Συγχρονισμός όλων των μηνυμάτων</item>
+        <item>Συγχρονισμός μηνυμάτων από τις επιλεγμένες κάρτες SIM</item>
+     </string-array>
+</resources>

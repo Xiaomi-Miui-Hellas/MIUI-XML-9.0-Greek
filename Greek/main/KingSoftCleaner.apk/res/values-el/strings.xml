@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική</string>
+     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+     <string name="abc_action_bar_up_description">Πλοήγηση προς τα πάνω</string>
+     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
+     <string name="abc_action_mode_done">Ολοκληρώθηκε</string>
+     <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
+     <string name="abc_activitychooserview_choose_application">Επιλέξτε μια εφαρμογή</string>
+     <string name="abc_capital_off">ΑΝΕΝΕΡΓΟ</string>
+     <string name="abc_capital_on">ΕΝΕΡΓΟ</string>
+     <string name="abc_search_hint">Αναζήτηση…</string>
+     <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
+     <string name="abc_searchview_description_query">Αναζήτηση ερωτήματος</string>
+     <string name="abc_searchview_description_search">Αναζήτηση</string>
+     <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
+     <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
+     <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
+     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
+     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+     <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
+     <string name="browser_scan_history_desc">Ιστορικό Πλοηγού</string>
+     <string name="browser_search_history_desc">Στοιχεία που αναζητήθηκαν</string>
+     <string name="call_log">Ιστορικό κλήσεων</string>
+     <string name="clip_board_history_desc">Περιεχόμενα αντιγραφής/αποκοπής</string>
+     <string name="clipboard">Πρόχειρο</string>
+     <string name="junk_tag_RF_EmptyFolders">Κενοί φάκελοι</string>
+     <string name="junk_tag_RF_ImageThumbnails">Μικρογραφίες Άλμπουμ</string>
+     <string name="phone_search">Αναζήτηση Google</string>
+     <string name="privacy_appdata_chrome_history_des">Ιστοσελίδες που επισκεφτήκατε</string>
+     <string name="search_history">Ιστορικό αναζήτησης</string>
+     <string name="sms">SMS/MMS</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

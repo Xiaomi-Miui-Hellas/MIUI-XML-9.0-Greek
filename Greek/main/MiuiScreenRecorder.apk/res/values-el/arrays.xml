@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="screenrecorder_settings_orientation">
+        <item>Αυτόματος</item>
+        <item>Κατακόρυφος</item>
+        <item>Οριζόντιος</item>
+     </string-array>
+     <string-array name="screenrecorder_settings_sound">
+        <item>Σίγαση</item>
+        <item>Μικρόφωνο</item>
+        <item>Ηχείο</item>
+     </string-array>
+</resources>

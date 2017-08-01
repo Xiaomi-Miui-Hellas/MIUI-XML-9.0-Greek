@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="battery_saver_turn_on_automatically_pct">στο %1$s της μπαταρίας</string>	 
+     <string name="bluetooth_enter_passkey_msg">Πληκτρολογήστε τον κωδικό σύζευξης και στη συνέχεια πατήστε Return ή Enter</string>
+     <string name="bluetooth_pairing_request">Σύζευξη με %1$s;</string>
+     <string name="no_internet_access_text">Το Wi‑Fi %1$s δεν έχει πρόσβαση στο Internet. Θα παραμείνετε συνδεδεμένοι;</string>
+     <string name="power_charging">%1$s - %2$s</string>
+     <string name="power_charging_duration">%1$s - %2$s για πλήρη φόρτιση</string>
+     <string name="power_charging_duration_ac">%1$s - %2$s για πλήρη φόρτιση (AC)</string>
+     <string name="power_charging_duration_usb">%1$s - %2$s για πλήρη φόρτιση (USB)</string>
+     <string name="power_charging_duration_wireless">%1$s - %2$s για πλήρη φόρτιση (ασύρματα)</string>
+     <string name="power_discharging_duration">%1$s - περίπου %2$s υπόλοιπο</string>
+     <string name="process_stats_total_duration">%1$s από %2$s χρησιμοποιήθηκαν από την τελευταία %3$s</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="disable_notification_confirm_title">
+        <item quantity="other">"Απόκρυψη ειδοποιήσεων %d εφαρμογών;"</item>
+        <item quantity="one">"Απόκρυψη ειδοποιήσεων αυτής της εφαρμογής;"</item>
+     </plurals>
+     <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d πρόσφατες εφαρμογές</item>
+        <item quantity="one">1 πρόσφατη εφαρμογή</item>
+     </plurals>
+     <plurals name="view_realtime_clear">
+        <item quantity="other">Καθαρός</item>
+        <item quantity="one">Λιακάδα</item>
+     </plurals>
+</resources>

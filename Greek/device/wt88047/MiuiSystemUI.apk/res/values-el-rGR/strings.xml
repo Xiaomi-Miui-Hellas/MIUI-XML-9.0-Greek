@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="ext_media_badremoval_notification_message">Αποπροσαρτήστε την κάρτα SD πριν από την αφαίρεση για να αποφύγετε απώλεια δεδομένων.</string>
+     <string name="ext_media_badremoval_notification_title">Η κάρτα SD αφαιρέθηκε απροσδόκητα</string>
+     <string name="ext_media_checking_notification_title">Προετοιμασία κάρτας SD</string>
+     <string name="ext_media_nofs_notification_message">Η κάρτα SD είναι κενή ή έχει μη υποστηριζόμενο τύπο αρχείων.</string>
+     <string name="ext_media_nofs_notification_title">Κενή κάρτα SD</string>
+     <string name="ext_media_nomedia_notification_message">Η κάρτα SD έχει αφαιρεθεί. Εισάγετε μια νέα.</string>
+     <string name="ext_media_nomedia_notification_title">Η κάρτα SD αφαιρέθηκε</string>
+     <string name="ext_media_safe_unmount_notification_message">Μπορείτε να αφαιρέσετε με ασφάλεια την κάρτα SD.</string>
+     <string name="ext_media_safe_unmount_notification_title">Η κάρτα SD μπορεί να αφαιρεθεί με ασφάλεια</string>
+     <string name="ext_media_unmountable_notification_message">Η κάρτα SD έχει υποστεί βλάβη. Ίσως χρειαστεί να τη διαμορφώσετε.</string>
+     <string name="ext_media_unmountable_notification_title">Κατεστραμμένη κάρτα SD</string>
+     <string name="usb_storage_error_message">"Παρουσιάστηκε πρόβλημα με την κάρτα SD."</string>
+     <string name="usb_storage_message">"Έχετε συνδεθεί στον Η/Υ μέσω USB. Πατήστε το κουμπί παρακάτω εάν θέλετε να μεταφέρετε αρχεία μεταξύ του υπολογιστή και της κάρτας SD του τηλεφώνου σας."</string>
+</resources>

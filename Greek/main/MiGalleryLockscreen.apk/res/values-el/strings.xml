@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Καθημερινές Ταπετσαρίες</string>
+     <string name="apply">Εφαρμογή</string>
+     <string name="at_least_one">Επιλέξτε τουλάχιστον μία κατηγορία</string>
+     <string name="auto_interval">Αυτόματα</string>
+     <string name="cancel">Ακύρωση</string>
+     <string name="cancel_international">Ακύρωση</string>
+     <string name="cancel_lockscreen">Ακύρωση</string>
+     <string name="change_time">Αλλαγή ταπετσαρίας</string>
+     <string name="day">Μια φορά την ημέρα</string>
+     <string name="declaration">Λάβετε δωρεάν κάθε μέρα νέες ταπετσαρίες κατευθείαν στην Οθόνη κλειδώματός σας.</string>
+     <string name="declaration_lockscreen_title">Καθημερινές Ταπετσαρίες</string>
+     <string name="declaration_title">Όροι και Προϋποθέσεις</string>
+     <string name="dislike">Διαγραφή</string>
+     <string name="from_migallerylockscreen">" "</string>
+     <string name="hour_1">Κάθε ώρα</string>
+     <string name="hour_3">Κάθε 3 ώρες</string>
+     <string name="like">Αγαπημένο</string>
+     <string name="liked">Αγαπημένα</string>
+     <string name="lockscreen_magazine_summary">Κατηγορίες</string>
+     <string name="lockscreen_magazine_system_title">Τοπικά</string>
+     <string name="lockscreen_magazine_title">Καθημερινές Ταπετσαρίες</string>
+     <string name="lockscreen_wallpaper_changed">Η ταπετσαρία άλλαξε</string>
+     <string name="minutes_15">Κάθε 15 λεπτά</string>
+     <string name="no_long_show">"Να μην εμφανιστεί ξανά"</string>
+     <string name="ok_enable_network_prov">Συμφωνώ</string>
+     <string name="ok_international">Συμφωνώ</string>
+     <string name="ok_lockscreen">OK</string>
+     <string name="ok_network">Συμφωνώ</string>
+     <string name="platform_unavailable_qq">Παρακαλώ εγκαταστήστε το QQ</string>
+     <string name="platform_unavailable_qzone">Παρακαλώ εγκαταστήστε το Qzone</string>
+     <string name="platform_unavailable_wechat">Παρακαλώ εγκαταστήστε το wechat</string>
+     <string name="platform_unavailable_wechatmoment">Παρακαλώ εγκαταστήστε το wechat</string>
+     <string name="platform_unavailable_weibo">Παρακαλώ εγκαταστήστε το weibo</string>
+     <string name="resource_apply">Εφαρμογή</string>
+     <string name="resource_no_network_text">"Αδυναμία σύνδεσης στο δίκτυο."</string>
+     <string name="setting_head">Ρυθμίσεις</string>
+     <string name="settings">Ρυθμίσεις</string>
+     <string name="share">Κοινή χρήση</string>
+     <string name="sst_favor_desc">Δείτε τις αγαπημένες ταπετσαρίες</string>
+     <string name="sst_favor_title">Αγαπημένα</string>
+     <string name="sst_grid_view_select_all">Επιλογή όλων</string>
+     <string name="sst_grid_view_unselect_all">Αποεπιλογή όλων</string>
+     <string name="sst_no_favor_wallpaper_hint">Δεν υπάρχουν ταπετσαρίες στα Αγαπημένα</string>
+     <string name="sst_prov_enable_desc">Καθημερινές Ταπετσαρίες στην Οθόνη κλειδώματος</string>
+     <string name="sst_prov_enable_title">Ενεργ. Καθημερινών Ταπετσαριών</string>
+     <string name="sst_require_one_category_hint">Επιλέξτε τουλάχιστον 1 κατηγορία</string>
+     <string name="sst_sti_desc">Ορισμός συχνότητας ενημέρωσης ταπετσαρίας</string>
+     <string name="sst_sti_title">Συχνότητα ενημέρωσης</string>
+     <string name="sst_subscribe_title">Οι κατηγορίες μου</string>
+     <string name="sst_wifi_only_desc">Απενεργ. τη λειτουργία για εξοικονόμηση δεδομένων</string>
+     <string name="sst_wifi_only_title">Ενημ. με χρήση δεδομένων κινητής</string>
+     <string name="summary">"Με την χρήση αυτής της υπηρεσίας, συμφωνείτε με την &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Συμφωνία Χρήστη&lt;/a> και την  &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Πολιτική απορρήτου&lt;/a> μας. Αυτή η λειτουργία χρειάζεται σύνδεση στο Internet για να λειτουργήσει κανονικά."</string>
+     <string name="summary_international">"Με την χρήση αυτής της υπηρεσίας, συμφωνείτε με την &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Συμφωνία Χρήστη&lt;/a> και την &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Πολιτική Απορρήτου&lt;/a> μας. Αυτή η λειτουργία χρειάζεται σύνδεση στο Internet για να λειτουργήσει κανονικά.​"</string>
+     <string name="theme_apply_failured">"Αδυναμία εφαρμογής. Δοκιμάστε ξανά αργότερα"</string>
+     <string name="theme_apply_success">Εφαρμόστηκε στην Οθόνη κλειδώματος</string>
+     <string name="theme_applying">Εφαρμογή…</string>
+     <string name="wlan_download">Ενημέρωση μέσω Wi‑Fi</string>
+     <string name="wlan_download_cn">Ενημέρωση μέσω Wi‑Fi</string>
+</resources>

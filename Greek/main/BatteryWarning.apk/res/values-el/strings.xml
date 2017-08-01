@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="btn_cancel_msg">Παράβλεψη</string>
+     <string name="btn_ok_msg">Αναβολή</string>
+     <string name="msg_battery_low_temperature">Η θερμοκρασία της μπαταρίας είναι πολύ χαμηλή. Παρακαλώ αποσυνδέστε το φορτιστή!</string>
+     <string name="msg_battery_over_temperature">Η μπαταρία έχει υψηλή θερμοκρασία. Παρακαλώ αφαιρέστε την!</string>
+     <string name="msg_battery_over_voltage">Η μπαταρία έχει υψηλή τάση φόρτισης. Παρακαλώ αφαιρέστε την!</string>
+     <string name="msg_charger_over_voltage">Ο φορτιστής έχει υψηλή τάση φόρτισης. Παρακαλώ αποσυνδέστε τον!</string>
+     <string name="msg_over_current_protection">Η μπαταρία προστατεύτηκε από υπερένταση. Παρακαλώ αφαιρέστε την!</string>
+     <string name="msg_safety_timer_timeout">Ο χρόνος φόρτισης είναι πολύ μεγάλος. Παρακαλώ αποσυνδέστε το φορτιστή!</string>
+     <string name="title_battery_low_temperature">Χαμηλή θερμοκρασία μπαταρίας</string>
+     <string name="title_battery_over_temperature">Υψηλή θερμοκρασία μπαταρίας</string>
+     <string name="title_battery_over_voltage">Υψηλή τάση μπαταρίας</string>
+     <string name="title_charger_over_voltage">Υψηλή τάση φόρτισης</string>
+     <string name="title_over_current_protection">Προστασία υπερέντασης</string>
+     <string name="title_safety_timer_timeout">Υπερβολικός χρόνος φόρτισης</string>
+</resources>

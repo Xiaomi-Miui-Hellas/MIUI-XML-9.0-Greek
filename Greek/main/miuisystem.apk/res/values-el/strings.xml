@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="add_frequent_phrases">Προσθήκη συχνών φράσεων</string>
+     <string name="android_ringtone_default_with_actual">Προεπιλεγμένος ήχος κλήσης (%1$s)</string>
+     <string name="android_ringtone_silent">Κανένα</string>
+     <string name="android_ringtone_unknown">Άγνωστος ήχος κλήσης</string>
+     <string name="cloud_state_disabled">Ο συγχρονισμός με το Mi Cloud είναι ανενεργός</string>
+     <string name="cloud_state_finished">Συγχρονισμένο με Mi Cloud</string>
+     <string name="cloud_state_syncing">Συγχρονισμένο με Mi Cloud</string>
+     <string name="cta_button_continue">Συμφωνώ</string>
+     <string name="cta_button_quit">Έξοδος</string>
+     <string name="cta_check_reminder">Να μην εμφανιστεί ξανά</string>
+     <string name="cta_message_license">Με τη χρήση αυτού του προϊόντος, συμφωνείτε με τους όρους που αναφέρονται στους Όρους Παροχής Υπηρεσιών και την Πολιτική Απορρήτου.</string>
+     <string name="cta_message_permission">Αυτή η εφαρμογή χρειάζεται %2$s για να λειτουργήσει κανονικά.</string>
+     <string name="cta_permission_and"> και </string>
+     <string name="cta_permission_delimiter">, </string>
+     <string name="cta_title">Όροι Χρήσης</string>
+     <string name="delete_frequent_phrases">Διαγραφή συχνών φράσεων</string>
+     <string name="delete_frequent_phrases_confirm">Διαγραφή επιλεγμένων συχνών φράσεων;</string>
+     <string name="device_hongmi">Redmi</string>
+     <string name="device_pad">Mi Pad</string>
+     <string name="device_xiaomi">Mi Phone</string>
+     <string name="edit_frequent_phrases">Επεξεργασία συχνών φράσεων</string>
+     <string name="frequent_phrases_des">Εισάγετε συχνές φράσεις με λίγα μόνο πατήματα κατά την επεξεργασία κειμένου</string>
+     <string name="frequent_phrases_size_exceeded">Μπορείτε να προσθέσετε μέχρι %1$d συχνές φράσεις. Διαγράψτε τις περιττές, για να προσθέσετε νέες</string>
+     <string name="menu_add_frequent_phrases">Προσθήκη</string>
+     <string name="menu_delete">Διαγραφή</string>
+     <string name="menu_edit">Επεξεργασία</string>
+     <string name="miui_device_name">Android</string>
+     <string name="no_notification_tips">Δεν υπάρχουν ειδοποιήσεις.</string>
+     <string name="presentation_payphone">Καρτοτηλέφωνο</string>
+     <string name="presentation_private">Απόρρητος αριθμός</string>
+     <string name="presentation_unknown">Άγνωστος αριθμός</string>
+     <string name="vip_achievements">Επιτεύγματα</string>
+     <string name="vip_level">LV%d</string>
+     <string name="vip_login">Πατήστε για να συνδεθείτε</string>
+     <string name="vip_not_login">Δεν έχετε συνδεθεί</string>
+     <string name="vip_sign">Υπογραφή:</string>
+     <string name="yellow_page_module_sms_sent">Αποστολή SMS</string>
+     <string name="yellow_page_sms_disabled_in_privacy_mode">"Δεν είναι δυνατή η αποστολή μηνυμάτων σε λειτουργία επισκέπτη"</string>
+     <string name="yellow_page_sms_send_failed">"Αδυναμία αποστολής SMS"</string>
+     <string name="yellow_page_sms_sending">Αποστολή…</string>
+     <string name="yellow_page_unable_send_sms">"Αδυναμία αποστολής SMS"</string>
+</resources>

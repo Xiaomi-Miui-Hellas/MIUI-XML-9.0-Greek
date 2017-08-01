@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Αντιγραφή %1$d αρχείων…</item>
+        <item quantity="one">Αντιγραφή %1$d αρχείου…</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">"Αδυναμία αντιγραφής %1$d αρχείων"</item>
+        <item quantity="one">"Αδυναμία αντιγραφής %1$d αρχείου"</item>
+    </plurals>
+</resources>

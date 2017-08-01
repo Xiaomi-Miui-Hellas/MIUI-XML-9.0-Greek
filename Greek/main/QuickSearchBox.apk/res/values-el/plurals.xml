@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="switch_prompt_content">
+        <item quantity="other">Δεν επιτρέψατε την αναζήτηση για %d στοιχεία</item>
+        <item quantity="one">Δεν επιτρέψατε την αναζήτηση για %d στοιχείο</item>
+    </plurals>
+</resources>

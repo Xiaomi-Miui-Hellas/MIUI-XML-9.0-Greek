@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="aqi_title_prefix">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+     </string-array>
+     <string-array name="weather_type">
+        <item>Λιακάδα</item>
+        <item>Νεφελώδης</item>
+        <item>Νεφελώδης</item>
+        <item>Ομιχλώδης</item>
+        <item>Ισχυρή καταιγίδα</item>
+        <item>Δυνατή νεροποντή</item>
+        <item>Νεροποντή</item>
+        <item>Καταιγίδα</item>
+        <item>Ψιλόβροχο</item>
+        <item>Ισχυρή βροχόπτωση</item>
+        <item>Μέτρια βροχόπτωση</item>
+        <item>Ασθενής βροχή</item>
+        <item>Χιονόνερο</item>
+        <item>Χιονοθύελλα</item>
+        <item>Χιόνι</item>
+        <item>Ισχυρή χιονόπτωση</item>
+        <item>Μέτρια χιονόπτωση</item>
+        <item>Ασθενής χιονόπτωση</item>
+        <item>Ισχυρή αμμοθύελλα</item>
+        <item>Αμμοθύελλα</item>
+        <item>Άμμος</item>
+        <item>Θυελλώδης</item>
+        <item>Χαλάζι</item>
+        <item>Σκόνη</item>
+        <item>Ομίχλη</item>
+        <item>Παγωμένη Βροχή</item>
+        <item></item>
+     </string-array>
+     <string-array name="wifi_status">
+        <item></item>
+        <item>Σάρωση…</item>
+        <item>Σύνδεση…</item>
+        <item>Πιστοποίηση…</item>
+        <item>Λήψη διεύθυνσης IP…</item>
+        <item>Συνδεδεμένο</item>
+        <item>Σε αναστολή</item>
+        <item>Αποσύνδεση…</item>
+        <item>Αποσυνδεδεμένο</item>
+        <item>Ανεπιτυχές</item>
+        <item>Φραγμένο</item>
+        <item>Προσωρινά αποφεύγεται (ασθενές σήμα)</item>
+     </string-array>
+     <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Σάρωση…</item>
+        <item>Σύνδεση στο %1$s…</item>
+        <item>Πιστοποίηση με %1$s…</item>
+        <item>Λήψη διεύθυνσης IP από %1$s…</item>
+        <item>Συνδεδεμένο στο %1$s</item>
+        <item>Σε αναστολή</item>
+        <item>Αποσύνδεση από %1$s…</item>
+        <item>Αποσυνδεδεμένο</item>
+        <item>Ανεπιτυχές</item>
+        <item>Φραγμένο</item>
+        <item>Προσωρινά αποφεύγεται (ασθενές σήμα)</item>
+     </string-array>
+</resources>

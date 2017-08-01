@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="calendar_remind_string_array">
+        <item>Απόψε</item>
+        <item>Αύριο</item>
+        <item>Σαββατοκύριακο</item>
+        <item>Επόμενη εβδομάδα</item>
+        <item>Επόμενο μήνα</item>
+        <item>Διαλέξτε ημερομηνία</item>
+     </string-array>
+     <string-array name="compose_modes">
+        <item>Απάντηση</item>
+        <item>Απάντηση όλων</item>
+        <item>Προώθηση</item>
+     </string-array>
+     <string-array name="general_preference_text_zoom_summary_array">
+        <item>Πολύ μικρό κείμενο</item>
+        <item>Μικρό κείμενο</item>
+        <item>Μεσαίο κείμενο</item>
+        <item>Μεγάλο κείμενο</item>
+        <item>Τεράστιο κείμενο</item>
+     </string-array>
+     <string-array name="menu_att_mgr_sort_string_array">
+        <item>Προκαθορισμένο</item>
+        <item>Τύπος</item>
+        <item>Όνομα</item>
+        <item>Αποστολέας</item>
+        <item>Ημ/νια</item>
+     </string-array>
+     <string-array name="moveto_folder_sections">
+        <item>Σύστημα</item>
+        <item>Συχνή Χρήση</item>
+        <item>Όλοι οι Φάκελοι</item>
+     </string-array>
+     <string-array name="prefEntries_autoAdvance">
+        <item>Νεότερη</item>
+        <item>Παλαιότερη</item>
+        <item>Λίστα συζητήσεων</item>
+     </string-array>
+</resources>
