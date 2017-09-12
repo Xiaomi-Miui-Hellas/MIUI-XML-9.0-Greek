@@ -75,9 +75,7 @@
      <string name="incoming_file_confirm_Notification_caption">Θέλετε να λάβετε αυτό το αρχείο;</string>
      <string name="incoming_file_confirm_Notification_title">Bluetooth: Εισερχόμενο αρχείο</string>
      <string name="incoming_file_confirm_cancel">Απόρριψη</string>
-     <string name="incoming_file_confirm_content">"\"%1$s\" θέλει να σας στείλει %2$s (%3$s). 
-
- Αποδέχεστε το αρχείο;"</string>
+     <string name="incoming_file_confirm_content">Αποδοχή εισερχόμενου αρχείου;</string>
      <string name="incoming_file_confirm_ok">Αποδοχή</string>
      <string name="incoming_file_confirm_timeout_content">Υπήρχε χρονικό όριο για την αποδοχή του εισερχόμενου αρχείου από \"%1$s\"</string>
      <string name="incoming_file_confirm_timeout_ok">ΟΚ</string>

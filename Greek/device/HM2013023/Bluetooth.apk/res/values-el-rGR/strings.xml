@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="incoming_file_confirm_content">Το "\"%1$s\" θέλει να σας στείλει %2$s (%3$s). 
+
+ Αποδέχεστε το αρχείο;"</string>
+</resources>
