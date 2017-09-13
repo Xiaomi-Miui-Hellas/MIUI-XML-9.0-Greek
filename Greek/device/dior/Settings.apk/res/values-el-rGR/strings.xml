@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="free_wifi_connected_count">%1$s συνδεδεμένοι χρήστες</string>
+</resources>

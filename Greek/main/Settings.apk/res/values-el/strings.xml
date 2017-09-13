@@ -434,7 +434,7 @@
      <string name="battery_msg_unaccounted">Η χρήση μπαταρίας είναι μια προσέγγιση της χρήσης ενέργειας και δεν περιλαμβάνει κάθε πηγή της κατανάλωσης μπαταρίας. Η Άλλη χρήση μπαταρίας (διάφορα) είναι η διαφορά μεταξύ της κατά προσέγγιση υπολογισμένης χρήσης ενέργειας και της πραγματικής κατανάλωσης που παρατηρείται στη μπαταρία.</string>
      <string name="battery_saver">Εξοικονόμηση μπαταρίας</string>
      <string name="battery_saver_turn_on_automatically_never">Ποτέ</string>
-     <string name="battery_saver_turn_on_automatically_pct">στο %1$d%% της μπαταρίας</string>
+     <string name="battery_saver_turn_on_automatically_pct">στο %1$s της μπαταρίας</string>
      <string name="battery_saver_turn_on_automatically_title">Αυτόματη ενεργοποίηση</string>
      <string name="battery_settings">Μπαταρία</string>
      <string name="battery_settings_title">Μπαταρία</string>
@@ -554,7 +554,7 @@
      <string name="bluetooth_empty_list_user_restricted">Δεν έχετε άδεια για να αλλάξετε τις ρυθμίσεις Bluetooth.</string>
      <string name="bluetooth_enable">Bluetooth</string>
      <string name="bluetooth_enable_alphanumeric_pin">Το PIN περιέχει γράμματα ή σύμβολα</string>
-     <string name="bluetooth_enter_passkey_msg">Για ζεύξη με:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Πληκτρολογήστε τον απαιτούμενο κωδικό συσκευής:</string>
+     <string name="bluetooth_enter_passkey_msg">Πληκτρολογήστε τον κωδικό σύζευξης και στη συνέχεια πατήστε Return ή Enter</string>
      <string name="bluetooth_enter_passkey_other_device">Μπορεί επίσης να χρειαστεί να πληκτρολογήσετε αυτόν τον κωδικό στην άλλη συσκευή.</string>
      <string name="bluetooth_enter_pin_msg">Για ζεύξη:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Πληκτρολογήστε τον απαιτούμενο κωδικό συσκευής:</string>
      <string name="bluetooth_enter_pin_other_device">Μπορεί επίσης να χρειαστεί να πληκτρολογήσετε αυτόν τον κωδικό στην άλλη συσκευή.</string>
@@ -599,7 +599,7 @@
      <string name="bluetooth_pairing_key_msg">Κωδικός σύζευξης</string>
      <string name="bluetooth_pairing_pin_error_message">Αδύνατη η σύζευξη με το %1$s λόγω λανθασμένου PIN ή κωδικού</string>
      <string name="bluetooth_pairing_rejected_error_message">Η σύζευξη απορρίφθηκε από το %1$s</string>
-     <string name="bluetooth_pairing_request">Αίτημα σύζευξης Bluetooth</string>
+     <string name="bluetooth_pairing_request">Σύζευξη με %1$s;</string>
      <string name="bluetooth_pairing_shares_phonebook">Να επιτρέπεται στο %1$s η πρόσβαση στις επαφές σας και το ιστορικό κλήσεων</string>
      <string name="bluetooth_pairing_will_share_phonebook">Η σύζευξη παρέχει πρόσβαση στις επαφές σας και το ιστορικό κλήσεων όταν είστε συνδεδεμένοι.</string>
      <string name="bluetooth_pan_nap_profile_summary_connected">Κοινή χρήση τοπικής σύνδεσης Internet με τη συσκευή</string>
@@ -1553,7 +1553,7 @@
      <string name="free_wifi_connect_summary">Πατήστε για να συνδεθείτε με %1$s.</string>
      <string name="free_wifi_connect_title">Διαθέσιμο Wi‑Fi</string>
      <string name="free_wifi_connected">Συνδεδεμένο με δωρεάν Wi‑Fi</string>
-     <string name="free_wifi_connected_count">%1$s χρήστες που είναι συνδεδεμένοι</string>
+     <string name="free_wifi_connected_count">%1$d συνδεδεμένοι χρήστες</string>
      <string name="free_wifi_connected_time">Διάρκεια: %1$s</string>
      <string name="free_wifi_connecting">Σύνδεση …</string>
      <string name="free_wifi_login_again">Συνδεθείτε ξανά</string>
@@ -2367,7 +2367,7 @@
      <string name="no_default_apps">Καμία προεπιλ.εφαρμογή.</string>
      <string name="no_device_admins">Δεν υπάρχουν διαθέσιμοι διαχειριστές</string>
      <string name="no_internet_access_remember">Να μην ερωτηθώ ξανά για αυτό το δίκτυο</string>
-     <string name="no_internet_access_text">Αυτό το δίκτυο δεν έχει πρόσβαση στο Internet. Να μείνει συνδεδεμένο;</string>
+     <string name="no_internet_access_text">Αυτό το δίκτυο, δεν έχει πρόσβαση στο Internet. Θα παραμείνετε συνδεδεμένοι;</string>
      <string name="no_media_button_receiver">Όχι</string>
      <string name="no_memory_use_summary">Δεν υπάρχει χρήση μνήμης τις τελευταίες 3 ώρες</string>
      <string name="no_nearby_wifi">Δε βρέθηκαν κοντινά δίκτυα Wi‑Fi</string>
@@ -2719,14 +2719,13 @@
      <string name="power_cell">Κινητό σήμα</string>
      <string name="power_center">Τροφοδοσία</string>
      <string name="power_charge_remaining">%1$s υπολειπόμενος χρόνος φόρτισης</string>
-     <string name="power_charging">%1$d%% - %2$s</string>
-     <string name="power_charging_duration">%1$d%% - %2$s για πλήρη φόρτιση</string>
-     <string name="power_charging_duration_ac">%1$d%% - %2$s για πλήρη φόρτιση (AC)</string>
-     <string name="power_charging_duration_usb">%1$d%% - %2$s για πλήρη φόρτιση (USB)</string>
-     <string name="power_charging_duration_wireless">%1$d%% - %2$s για πλήρη φόρτιση (ασύρματα)</string>
+     <string name="power_charging_duration">%1$s - %2$s για πλήρη φόρτιση</string>
+     <string name="power_charging_duration_ac">%1$s - %2$s για πλήρη φόρτιση (AC)</string>
+     <string name="power_charging_duration_usb">%1$s - %2$s για πλήρη φόρτιση (USB)</string>
+     <string name="power_charging_duration_wireless">%1$s - %2$s για πλήρη φόρτιση (ασύρματα)</string>
      <string name="power_checker">Έλεγχος ενέργειας</string>
      <string name="power_discharge_remaining">%1$s υπόλοιπο</string>
-     <string name="power_discharging_duration">%1$d%% - περίπου %2$s υπόλοιπο</string>
+     <string name="power_discharging_duration">%1$s - περίπου %2$s υπόλοιπο</string>
      <string name="power_flashlight">Φακός</string>
      <string name="power_hide_mode_summary">"Εξοικονομήστε μπαταρία, μέσω του περιορισμού των διεργασιών παρασκηνίου μεμονωμένων εφαρμογών, όπως WLAN, συνδέσεις δεδομένων κινητής και GPS"</string>
      <string name="power_hide_mode_title">Διαχ. χρήσης μπαταρίας εφαρμογών</string>
@@ -2881,7 +2880,7 @@
      <string name="process_stats_run_time">Χρόνος εκτέλεσης</string>
      <string name="process_stats_summary">Χρήσιμα στατιστικά στοιχεία σχετικά με τις εκτελούμενες διαδικασίες</string>
      <string name="process_stats_summary_title">Στατιστικά στοιχεία διαδικασίας</string>
-     <string name="process_stats_total_duration">Εφαρμογές %1$s για διάστημα %2$s</string>
+     <string name="process_stats_total_duration">%1$s από %2$s χρησιμοποιήθηκαν από την τελευταία %3$s</string>
      <string name="process_stats_total_duration_percentage">%1$s της μνήμης χρησιμοποιήθηκε από %2$s</string>
      <string name="process_stats_type_background">Φόντο</string>
      <string name="process_stats_type_cached">Αποθηκευμένο στην κρυφή μνήμη</string>
