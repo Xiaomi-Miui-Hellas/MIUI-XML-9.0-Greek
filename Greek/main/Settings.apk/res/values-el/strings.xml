@@ -2367,7 +2367,7 @@
      <string name="no_default_apps">Καμία προεπιλ.εφαρμογή.</string>
      <string name="no_device_admins">Δεν υπάρχουν διαθέσιμοι διαχειριστές</string>
      <string name="no_internet_access_remember">Να μην ερωτηθώ ξανά για αυτό το δίκτυο</string>
-     <string name="no_internet_access_text">Αυτό το δίκτυο, δεν έχει πρόσβαση στο Internet. Θα παραμείνετε συνδεδεμένοι;</string>
+     <string name="no_internet_access_text">Αυτό το δίκτυο δεν έχει πρόσβαση στο Internet. Θα παραμείνετε συνδεδεμένοι;</string>
      <string name="no_media_button_receiver">Όχι</string>
      <string name="no_memory_use_summary">Δεν υπάρχει χρήση μνήμης τις τελευταίες 3 ώρες</string>
      <string name="no_nearby_wifi">Δε βρέθηκαν κοντινά δίκτυα Wi‑Fi</string>
