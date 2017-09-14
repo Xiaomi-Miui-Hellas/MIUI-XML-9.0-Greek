@@ -211,8 +211,7 @@
      <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Ενεργοποιήστε την Εύρεση συσκευής για να ασφαλίσετε τα δεδομένα σας στο WeChat</string>
      <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Ενεργοποιήστε την Εύρεση συσκευής για να ασφαλίσετε τα δεδομένα σας στο Alipay</string>
      <string name="micloud_find_device_guide_progress">Ενεργοποίηση του Εύρεση συσκευής…</string>
-     <string name="micloud_find_device_guide_title">"Συνδεθείτε στο %s για να εντοπίσετε, κλειδώσετε
-ή να διαγράψετε τη συσκευή σας."</string>
+    <string name="micloud_find_device_guide_title">"Συνδεθείτε στο &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> για να εντοπίσετε, κλειδώσετε ή να διαγράψετε τη συσκευή σας. Αυτό μπορεί να σας βοηθήσει να βρείτε τη συσκευή σας σε περίπτωση που χαθεί.&lt;br />Αν χάσετε τη συσκευή σας, μπορείτε να επικοινωνήσετε με την υπηρεσία ασφαλείας των εφαρμογών που χρησιμοποιείτε συχνά (π.χ. Alipay, WeChat, QQ) για να προστατεύσετε τους λογαριασμούς σας στο &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>."</string>
      <string name="micloud_find_device_open_fail">"Αδυναμία ενεργοποίησης του Εύρεση συσκευής"</string>
      <string name="micloud_find_device_opened">Εύρεση συσκευής, ενεργή</string>
      <string name="micloud_find_device_opened_content">Βρείτε την συσκευή σας στο %s</string>

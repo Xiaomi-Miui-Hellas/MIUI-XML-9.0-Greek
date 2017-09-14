@@ -529,7 +529,7 @@
      <string name="hints_cleanning_text">Καθαρισμός…</string>
      <string name="hints_handle_item_text_risk">%d</string>
      <string name="hints_handle_item_text_safe">Δεν υπάρχουν αποτελέσματα</string>
-     <string name="hints_handle_item_text_virus">%d</string>
+     <string name="hints_handle_item_text_virus">Κίνδυνος</string>
      <string name="hints_input_roaming_daily_limit">Εισάγετε το όριο χρήσης δεδομένων</string>
      <string name="hints_install_apps_new">Δεν χρησιμοποιήθηκαν ποτέ</string>
      <string name="hints_install_apps_today">Χρησιμοποιήθηκαν σήμερα</string>
@@ -916,7 +916,7 @@
      <string name="permission_with_SMS_and_MMS">Δικαιώματα σχετικά με SMS και MMS</string>
      <string name="permission_with_call_and_contact">Δικαιώματα που σχετίζονται με τηλεφωνικές κλήσεις, πληροφορίες επαφών, και αρχεία καταγραφής κλήσεων.</string>
      <string name="permit_running_network">Δεδομένα παρασκηνίου</string>
-     <string name="person_hotpot">Hotspots κινητής</string>
+     <string name="person_hotpot">Hotspot κινητής</string>
      <string name="pkg_traffic">Ορισμός ορίου δεδομένων</string>
      <string name="please_continue_keep">Διατήρηση</string>
      <string name="pm_auto_start_by_other">Έμμεση έναρξη</string>

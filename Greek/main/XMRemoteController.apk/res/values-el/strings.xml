@@ -89,7 +89,6 @@
      <string name="app_rate">Βαθμολογία: %1$s</string>
      <string name="app_search_hint">Παρακαλώ εισάγετε το όνομα της εφαρμογής</string>
      <string name="app_search_title_mishop">Βρέθηκαν %d εφαρμογές Mi Store</string>
-     <string name="app_search_title_thirdpatry">Βρέθηκαν %d εφαρμογές τρίτων</string>
      <string name="app_size">Μέγεθος: %1$s</string>
      <string name="app_sort">Ταξινόμηση</string>
      <string name="app_uninstall">Απεγκατάσταση</string>
