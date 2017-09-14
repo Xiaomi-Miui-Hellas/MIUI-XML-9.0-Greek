@@ -85,8 +85,8 @@
      <string name="keyguard_charging_info_tip_text1">Διατηρήστε συνεχώς τη συσκευή σας φορτισμένη τουλάχιστον στο 10% για να επεκτείνετε τη διάρκεια ζωής της μπαταρίας.</string>
      <string name="keyguard_charging_info_tip_text2">Μην υπερφορτίζετε την συσκευή σας. Οι πολλαπλές μικρότερες φορτίσεις, είναι καλύτερες από τις ολονύκτιες φορτίσεις.</string>
      <string name="keyguard_charging_info_tip_text3">Αποφύγετε τη φόρτιση της συσκευής σας όταν η θερμοκρασία περιβάλλοντος είναι χαμηλότερη από 0℃.</string>
-     <string name="keyguard_charging_info_tip_text4">Μη χρησιμοποιείτε υπερβολικά τη συσκευή σας ενώ φορτίζει, για να αποφύγετε την υπερθέρμανση.</string>
-     <string name="keyguard_charging_info_tip_text5">Ο χρόνος φόρτισης αυξάνεται, όταν η μπαταρίες είναι θερμότερες από ότι συνήθως.</string>
+     <string name="keyguard_charging_info_tip_text4">Μη χρησιμοποιείτε υπερβολικά τη συσκευή σας ενώ φορτίζει για να αποφύγετε την υπερθέρμανση.</string>
+     <string name="keyguard_charging_info_tip_text5">Ο χρόνος φόρτισης αυξάνεται όταν η μπαταρίες είναι θερμότερες από ότι συνήθως.</string>
      <string name="keyguard_charging_info_tip_text6">Απενεργοποιήστε την οθόνη και αφήστε την συσκευή σας να κρυώσει.</string>
      <string name="keyguard_quick_charging_info_click_to_detail">Γρήγορη φόρτιση. Πατήστε για λεπτομέρειες.</string>
      <string name="keyguard_quickly_charging_info_charging_text">Γρήγορη φόρτιση…</string>
