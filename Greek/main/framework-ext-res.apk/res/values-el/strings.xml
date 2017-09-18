@@ -64,7 +64,7 @@
      <string name="lockscreen_access_pattern_start">Έναρξη μοτίβου</string>
      <string name="maml_component_customization_title">Ρυθμίσεις</string>
      <string name="memory_clear_nothing_result">Κενή μνήμη cache</string>
-     <string name="memory_clear_result">%1$sB καθαρίστηκαν | %2$sB διαθέσιμα</string>
+     <string name="memory_clear_result">Καθαρίστηκαν %1$sB</string>
      <string name="miui">miui</string>
      <string name="paste">Επικόλληση</string>
      <string name="perm_send_push_dspt">Επίτρεψε την αυτόματη αποστολή μηνυμάτων Mi</string>
