@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="prompt">%s προσπαθεί να δημιουργήσει μια σύνδεση VPN.</string>
-  <string name="warning">Στη συνέχεια, συμφωνείτε για να παρακολουθείται το σύνολο της κίνησης δικτύου. &lt;b&gt; ΔΕΝ εμπιστεύομαι την εφαρμογή.&lt;/b&gt; Ίσως τα δεδομένα σας μπορεί να είναι σε ομηρία από malware.</string>
-  <string name="accept">Εμπιστεύομαι αυτή την εφαρμογή.</string>
-  <string name="legacy_title">Σύνδεση σε VPN</string>
-  <string name="configure">Διαμόρφωση</string>
-  <string name="disconnect">Αποσύνδεση</string>
-  <string name="session">Συνεδρία:</string>
-  <string name="duration">Διάρκεια:</string>
-  <string name="data_transmitted">Απεσταλμένα:</string>
-  <string name="data_received">Λήφθησαν:</string>
+     <string name="configure">Διαμόρφωση</string>
+     <string name="data_received">Λήφθησαν:</string>
+     <string name="data_transmitted">Απεσταλμένα:</string>
+     <string name="disconnect">Αποσύνδεση</string>
+     <string name="duration">Διάρκεια:</string>
+     <string name="legacy_title">Σύνδεση σε VPN</string>
+     <string name="prompt">Αίτηση σύνδεσης</string>
+     <string name="session">Συνεδρία:</string>
+     <string name="warning">Το %s θέλει να δημιουργήσει μια σύνδεση VPN που του επιτρέπει την παρακολούθηση της κίνησης του δικτύου. Αποδεχτείτε μόνο αν εμπιστεύεστε την πηγή. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> εμφανίζεται στο πάνω μέρος της οθόνης σας όταν το VPN είναι ενεργό.</string>
 </resources>

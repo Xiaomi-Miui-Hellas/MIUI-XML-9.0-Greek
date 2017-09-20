@@ -373,7 +373,7 @@
      <string name="exit">Έξοδος</string>
      <string name="exit_share">Έξοδος από το άλμπουμ</string>
      <string name="exit_share_failed">Η έξοδος από το άλμπουμ %1$s απέτυχε</string>
-     <string name="exit_share_in_process">Έξοδος…</string>
+     <string name="exit_share_in_process">Έξοδος από το Άλμπουμ \"%s\"…</string>
      <string name="exit_share_successfully">Επιτυχής έξοδος από το άλμπουμ %1$s</string>
      <string name="exit_video_play">Έξοδος</string>
      <string name="expand_people">Δείτε περισσότερα άτομα</string>
@@ -707,7 +707,7 @@
      <string name="picker_no_items_selected">Κανένα είδος δεν επιλέχτηκε</string>
      <string name="picker_select_album_title_empty">Επιλέξτε ένα άλμπουμ</string>
      <string name="picker_tab_photo">Φωτογραφία</string>
-     <string name="picker_title_format">Μπορείτε να επιλέξετε %d</string>
+     <string name="picker_title_format">Επιλέξτε %1$d έως %2$d φωτογραφίες</string>
      <string name="picker_title_selection_format">%d επιλεγμένα</string>
      <string name="picker_title_unlimit">Επιλέξτε εικόνα</string>
      <string name="posterize">Πόστερ</string>
