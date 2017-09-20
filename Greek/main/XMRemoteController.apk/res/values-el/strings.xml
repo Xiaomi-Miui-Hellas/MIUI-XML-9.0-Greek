@@ -296,7 +296,7 @@
      <string name="fix_keys">Επιδιόρθωση πλήκτρων</string>
      <string name="fix_keys_success">επιτυχής επιδιόρθωση!</string>
      <string name="fix_keys_tips">Αν κάποια πλήκτρα δεν λειτουργούν, μπορείτε να τα επιδιορθώσετε εδώ</string>
-     <string name="from_share">Κοινοποιήθηκε από %1$s</string>
+     <string name="from_share">Κοινοποιήθηκε από άλλους</string>
      <string name="gamepad">Gamepad</string>
      <string name="gamepad_rule">"Αδυναμία χρήσης οριζόντιου προσανατολισμού σε λειτουργία Gamepad"</string>
      <string name="gesture_pad_first_line_tips">· με τα πλήκτρα έντασης του ακουστικού μπορείτε να ρυθμίσετε άμεσα την ένταση της συσκευής</string>
