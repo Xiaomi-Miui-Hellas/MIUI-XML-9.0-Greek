@@ -162,7 +162,6 @@
      <string name="always_bcc_myself">Το Mail Πάντα να κάνει Bcc εμένα</string>
      <string name="always_show_images">Πάντα να δείχνουν εικόνες από αυτόν τον αποστολέα</string>
      <string name="app_name">Mail</string>
-     <string name="application_mime_type">application/email-ls</string>
      <string name="archive">Αρχείο</string>
      <string name="archived">Στο Αρχείο</string>
      <string name="att_download_failed_content">Η λήψη απέτυχε</string>
