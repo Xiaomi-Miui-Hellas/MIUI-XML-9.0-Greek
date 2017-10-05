@@ -422,7 +422,7 @@
      <string name="data_usage_warning_body">Αγγίξτε για να δείτε τις λεπτομέρειες χρήσης δεδομένων.</string>
      <string name="data_usage_warning_body_notify">Πατήστε για λεπτομέρειες</string>
      <string name="data_usage_warning_title_notify">Ξεπεράσατε το όριο δεδομένων σας</string>
-     <string name="declaration_dialog_msg">Αυτό το χαρακτηριστικό μπορεί να σας βοηθήσει να παρακολουθείτε τη χρήση σας, αλλά δεν είναι εγγυημένη η αποφυγή οι πρόσθετων χρεώσεων. Για καλύτερα αποτελέσματα, ορίστε ένα συντηρητικό όριο.</string>
+     <string name="declaration_dialog_msg">Αυτό το χαρακτηριστικό μπορεί να σας βοηθήσει να παρακολουθείτε τη χρήση σας, αλλά δεν είναι εγγυημένη η αποφυγή πρόσθετων χρεώσεων. Για καλύτερα αποτελέσματα, ορίστε ένα συντηρητικό όριο.</string>
      <string name="deep_clean_disconnect_data_title">Απενεργοποίηση δεδομένων κινητής όταν η συσκευή είναι κλειδωμένη</string>
      <string name="deep_clean_memory_clean_title">Καθαρισμός cache όταν η συσκευή είναι κλειδωμένη</string>
      <string name="deep_clean_never_memory_clean">Ποτέ</string>
