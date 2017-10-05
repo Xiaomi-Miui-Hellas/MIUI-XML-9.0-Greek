@@ -21,7 +21,6 @@
      <string name="apk_filter">APK</string>
      <string name="app_downloads">%s λήψεις</string>
      <string name="app_label">Λήψεις</string>
-     <string name="app_size">%1$s</string>
      <string name="auth_activity_title">Λογαριασμός Xunlei</string>
      <string name="auth_fail">"Αδυναμία λήψης έγκρισης"</string>
      <string name="bind_xunlei_account">Προσθήκη λογαριασμού Xunlei</string>
@@ -105,7 +104,6 @@
      <string name="download_list_title_browser">Λήψεις</string>
      <string name="download_no_application">Δεν υπάρχουν εφαρμογές που να υποστηρίζουν αυτό τον τύπο</string>
      <string name="download_no_application_title">Αδυναμία ανοίγματος αρχείου</string>
-     <string name="download_num_size">%1$s | %2$s</string>
      <string name="download_paused">Λήψη σε παύση</string>
      <string name="download_pending">Λήψη σε αναμονή</string>
      <string name="download_queued">Σε σειρά</string>

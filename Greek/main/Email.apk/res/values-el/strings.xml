@@ -412,7 +412,6 @@
      <string name="folder_trash_name_en2">Δεγραμένο μήνυμα</string>
      <string name="folder_trash_name_en3">[Gmail]/Bin</string>
      <string name="formatted_email_address">&lt;%1$s></string>
-     <string name="formatted_subject">%1$s%2$s</string>
      <string name="forward">Προώθηση</string>
      <string name="forward_attachment">Προώθηση</string>
      <string name="forward_attribution">---------- Προωθημένο μήνυμα ----------&lt;br>Από: %1$s&lt;br>Ημερομηνία: %2$s&lt;br>Θέμα: %3$s&lt;br>Προς: %4$s&lt;br></string>
@@ -818,7 +817,6 @@
      <string name="silent_ringtone">Αθόρυβο</string>
      <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-     <string name="single_new_message_notification_title">%1$s: %2$s</string>
      <string name="smtp_password_error">Ο κωδικός πρόσβασης του διακομιστή εξερχόμενης αλληλογραφίας είναι λάθος</string>
      <string name="sort_attachment">Ταξινόμηση κατά</string>
      <string name="special_text_5">έγραψε:</string>

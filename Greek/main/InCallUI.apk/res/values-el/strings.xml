@@ -3,7 +3,6 @@
      <string name="accept_modify_call_request_prompt">Αποδοχή αιτήματος τροποποίησης κλήσης;</string>
      <string name="add_vm_number_str">Προσθήκη αριθμού</string>
      <string name="antispam_marked_count">Αναφέρθηκαν από %1$d χρήστες MIUI</string>
-     <string name="antispam_marked_title">%1$s</string>
      <string name="antispam_notification_title">Άγνωστος αριθμός</string>
      <string name="antispam_provider">Αναγνωρισμένες από %s</string>
      <string name="callFailed_cb_enabled">Δεν μπορείτε να πραγματοποιήσετε εξερχόμενες κλήσεις όσο η φραγή κλήσεων είναι ενεργοποιημένη.</string>

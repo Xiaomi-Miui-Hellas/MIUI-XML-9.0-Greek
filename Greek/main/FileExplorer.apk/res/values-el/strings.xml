@@ -168,7 +168,6 @@
      <string name="favorite_ringtone">Ήχοι Κλήσης</string>
      <string name="favorite_screen_cap">Στιγμιότυπα</string>
      <string name="female">Γυναίκα</string>
-     <string name="fileSizeSuffix">%1$s %2$s</string>
      <string name="file_info_canread">Αναγνώσιμο :</string>
      <string name="file_info_canwrite">Εγγράψιμο :</string>
      <string name="file_info_ishidden">Κρυφό :</string>
@@ -360,7 +359,6 @@
      <string name="operation_share">Κοινή χρήση</string>
      <string name="operation_show_sys">Εμφάνιση κρυφών αρχείων</string>
      <string name="operation_unfavorite">Αφαίρεση από τα Αγαπημένα</string>
-     <string name="origin_name">%1$s: </string>
      <string name="other_user_fans_tab">Οπαδοί</string>
      <string name="other_user_follow_tab">Ακολουθείτε</string>
      <string name="other_user_liked_topic_tip">Δεν ακολουθείτε κάποιο από τα θέματα τώρα</string>
@@ -639,7 +637,6 @@
      <string name="video_upload_btn">Επόμενο</string>
      <string name="video_upload_btn_hint">Τα βίντεο MP4 θα πρέπει να έχουν διάρκεια 3δ~10λ</string>
      <string name="video_upload_item_more">Περισσότερα (%1$s)</string>
-     <string name="video_upload_item_title">%1$s (%2$s)</string>
      <string name="video_upload_retry_confirm">Προσπαθήστε ξανά</string>
      <string name="video_upload_retry_message">Αδυναμία αποστολής. Δοκιμή ξανά;</string>
      <string name="video_upload_retry_title">Προσπαθήστε ξανά</string>

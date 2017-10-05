@@ -225,7 +225,6 @@
      <string name="packaging_dialog_content">Δημιουργία αναφοράς…</string>
      <string name="permission_granted">%1$s δικαίωμα παραχωρήθηκε</string>
      <string name="pic_not_exist">Αυτή η εικόνα δεν υπάρχει</string>
-     <string name="pic_view_format">%1$s/%2$s</string>
      <string name="plus_one_submit_dialog_content">"Τα επιλεγμένα σχόλιά σας, μαζί με τα αρχεία καταγραφής σφαλμάτων, θα σταλούν στους διακομιστές ΜΙ."</string>
      <string name="plus_one_submit_dialog_not_show_again">Απομνημόνευση επιλογής</string>
      <string name="post_miui_bbs_failed">Δεν ήταν δυνατή η ανάρτηση στο Φόρουμ</string>

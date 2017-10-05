@@ -86,7 +86,6 @@
      <string name="shutdown_alarm_enable_summary">Τερματισμός αφύπνισης ενεργός</string>
      <string name="shutdown_alarm_title">Τερματισμός αφύπνισης</string>
      <string name="silent_alarm_summary">Αθόρυβο</string>
-     <string name="skip_alarm_date_format">%1$s(%2$s)</string>
      <string name="skip_alarm_once_hint">Απενεργ. για μία φορά στις %s</string>
      <string name="slider_text">Σύρετε για να σταματήσει</string>
      <string name="snooze_confirm_cancel">Ακύρωση αναβολής</string>
