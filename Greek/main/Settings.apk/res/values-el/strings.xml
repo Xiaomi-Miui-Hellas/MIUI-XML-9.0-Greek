@@ -182,7 +182,7 @@
      <string name="allow_mock_location">Να επιτρέπονται οι ψευδείς τοποθεσίες</string>
      <string name="allow_mock_location_summary">Ψευδείς τοποθεσίες</string>
      <string name="allow_overlay_description">Αυτή η άδεια επιτρέπει σε μια εφαρμογή να εμφανίζεται πάνω από άλλες εφαρμογές που χρησιμοποιείτε και μπορεί να παρεμβαίνει στη χρήση της διεπαφής άλλων εφαρμογών ή να αλλάζει ότι περιμένετε ότι θα δείτε στο περιεχόμενο άλλων εφαρμογών.</string>
-     <string name="allow_usage_access_message">Εάν επιτρέπετε πρόσβαση, αυτή η εφαρμογή θα μπορεί να δει γενικές πληροφορίες σχετικά με τις εφαρμογές στη συσκευή σας, όπως πόσο συχνά τις χρησιμοποιείτε.</string>
+     <string name="allow_usage_access_message">Εάν επιτρέψετε την πρόσβαση, αυτή η εφαρμογή θα μπορεί να δει γενικές πληροφορίες σχετικά με τις εφαρμογές στη συσκευή σας, όπως πόσο συχνά τις χρησιμοποιείτε.</string>
      <string name="allow_usage_access_title">Να επιτρέπεται η πρόσβαση;</string>
      <string name="alpha_build">" | Alpha"</string>
      <string name="always_allow_bind_appwidgets_text">Έχετε επιλέξει να επιτρέψετε σε αυτή την εφαρμογή τη δημιουργία widgets και την πρόσβαση στα δεδομένα τους</string>
@@ -3620,6 +3620,7 @@
      <string name="storage_label">Αποθηκευτικός χώρος</string>
      <string name="storage_low_summary">Ορισμένες λειτουργίες συστήματος όπως ο συγχρονισμός, ενδέχεται να μην λειτουργούν σωστά. Προσπαθήστε να ελευθερώσετε χώρο διαγράφοντας ή ξεκαρφιτσώνοντας στοιχεία, όπως εφαρμογές ή περιεχόμενο πολυμέσων.</string>
      <string name="storage_low_title">Ο αποθηκευτικός χώρος εξαντλείται</string>
+     <string name="storage_menu_cleanup">Storage Cleanup</string>
      <string name="storage_menu_explore">Εξερεύνηση</string>
      <string name="storage_menu_forget">Διαγραφή</string>
      <string name="storage_menu_format">Διαμόρφωση</string>
@@ -4703,7 +4704,7 @@
      <string name="zen_mode_when_every_night">Κάθε βράδυ</string>
      <string name="zen_mode_when_never">Ποτέ</string>
      <string name="zen_mode_when_weeknights">Βράδυ (Δευ-Παρ)</string>
-     <string name="zen_schedule_rule_enabled_toast">Ο αυτόματος κανόνας έχει ρυθμιστεί να ενεργοποιεί το Μην ενοχλείτε κατά σε συγκεκριμένες ώρες</string>
+     <string name="zen_schedule_rule_enabled_toast">Ο αυτόματος κανόνας έχει ρυθμιστεί να ενεργοποιεί το Μην ενοχλείτε σε συγκεκριμένες ώρες</string>
      <string name="zen_schedule_rule_type_name">Κανόνας χρονικής περιόδου</string>
      <string name="zone_auto">Αυτόματη ζώνη ώρας</string>
      <string name="zone_auto_summaryOff">Μέσω δικτύου</string>
