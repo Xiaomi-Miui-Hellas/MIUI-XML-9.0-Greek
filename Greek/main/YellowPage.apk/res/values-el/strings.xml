@@ -141,7 +141,6 @@
      <string name="express_order_failed">Απέτυχε</string>
      <string name="express_order_ongoing">Παραγγελία…</string>
      <string name="express_order_result">Αποτέλεσμα</string>
-     <string name="express_order_state">%1$s / %2$s</string>
      <string name="express_order_state_accepted">Αποδεκτή</string>
      <string name="express_order_state_allograph">Υπογράφτηκε</string>
      <string name="express_order_state_cancelled">Ακυρώθηκε</string>
@@ -255,7 +254,6 @@
      <string name="nearby_average_price">Μέσος όρος %d RMB</string>
      <string name="nearby_no_yellow_page">Κανένα αποτέλεσμα σε κοντινή απόσταση</string>
      <string name="nearby_yellow_page_title">Πλησίον</string>
-     <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
      <string name="network_access_denied">Άρνηση πρόσβασης στο δίκτυο</string>
      <string name="network_unavaliable">Δίκτυο μη διαθέσιμο, παρακαλώ ελέγξτε τις ρυθμίσεις του δικτύου</string>
      <string name="no_brief">Χωρίς εισαγωγή</string>
@@ -271,7 +269,6 @@
      <string name="order_id_label">Παραγγελία: %1$s</string>
      <string name="order_info">Πληροφορίες παραγγελίας</string>
      <string name="order_merchant_title">Οι παραγγελίες μου</string>
-     <string name="order_merchant_title_format">%1$s-%2$s</string>
      <string name="order_not_found">Δεν βρέθηκε σχετική παραγγελία</string>
      <string name="order_price_label">Τιμή παραγγελίας: %1$s</string>
      <string name="order_product_name_label">Όνομα Προϊόντος: %1$s</string>
@@ -319,7 +316,6 @@
      <string name="recharge_payment_result_ok_title">Προστέθηκαν RMB %s</string>
      <string name="recharge_payment_result_progress_summary">Έλεγχος αποτελέσματος πληρωμής…</string>
      <string name="recharge_phone">Αριθμός για επαναφόρτιση:</string>
-     <string name="recharge_phone_format">%1$s / %2$s</string>
      <string name="recharge_phone_number_empty">Ο αριθμός τηλεφώνου που εισαγάγατε δεν μπορεί να είναι κενός</string>
      <string name="recharge_phone_number_error">Ο αριθμός τηλεφώνου που εισαγάγατε δεν είναι έγκυρος</string>
      <string name="recharge_select_money_title">Επιλέξτε αξία επαναφόρτισης</string>
@@ -343,7 +339,6 @@
      <string name="send_shortcut_success">Τοποθετήθηκε στην Αρχική Οθόνη</string>
      <string name="sending_shortcut">Αποστολή…</string>
      <string name="service_unavailiable">Μη διαθέσιμη υπηρεσία</string>
-     <string name="shop_recommendation_format">%1$s: %2$s</string>
      <string name="sim1">SIM 1</string>
      <string name="sim2">SIM 2</string>
      <string name="sina_share_fail">Αποτυχία αποστολής</string>

@@ -790,7 +790,6 @@
      <string name="calendar_sound_title">Ήχος ημερολογίου</string>
      <string name="call_manager_enable_summary">Αφήστε αυτή την υπηρεσία να διαχειριστεί το πώς θα γίνονται οι κλήσεις σας.</string>
      <string name="call_manager_enable_title">Ενεργοποίηση Διαχειριστή Κλήσεων</string>
-     <string name="call_manager_summary">%1$s</string>
      <string name="call_manager_title">Διαχειριστής Κλήσεων</string>
      <string name="call_settings_primary_user_only">Αλλαγή ρυθμίσεων κλήσης στο Πρώτο προφίλ</string>
      <string name="call_settings_summary">Ρύθμιση τηλεφωνητή προώθησης κλήσεων αναμονής ταυτότητας καλούντος</string>
@@ -1299,7 +1298,6 @@
      <string name="dndm_auto_button_title">Χρονοδιάγραμμα λειτουργίας Μην ενοχλείτε</string>
      <string name="dndm_auto_setting_group">Χρονοδιάγραμμα</string>
      <string name="dndm_auto_time_setting">Ρύθμιση ώρας</string>
-     <string name="dndm_auto_time_setting_summary">Από %1$s έως %2$s</string>
      <string name="dndm_auto_time_turn_off">Έως</string>
      <string name="dndm_auto_time_turn_off_title">Αυτόματη απενεργοποίηση του Μην ενοχλείτε</string>
      <string name="dndm_auto_time_turn_on">Από</string>
@@ -1639,7 +1637,6 @@
      <string name="gadget_picker_title">Επιλογή gadget</string>
      <string name="gadget_state_off">ανενεργό</string>
      <string name="gadget_state_on">ενεργό</string>
-     <string name="gadget_state_template">%1$s %2$s</string>
      <string name="gadget_state_turning_off">Απενεργοποίηση</string>
      <string name="gadget_state_turning_on">Ενεργοποίηση</string>
      <string name="gadget_sync">Συγχρονισμός</string>
@@ -1888,7 +1885,6 @@
      <string name="lift_to_wake_title">Σηκώστε για να ξυπνήσει</string>
      <string name="line_breaking_summary">Βελτιστοποιήστε τη γραμμή θραύσης παραγράφου</string>
      <string name="line_breaking_title">βελτιστοποιήσετε το κείμενο</string>
-     <string name="link_speed">%1$d Mbps</string>
      <string name="link_speed_label">Ταχύτητα σύνδεσης:</string>
      <string name="loading_notification_apps">Φόρτωση εφαρμογών…</string>
      <string name="local_auto_backup_off">Ανενεργό</string>
@@ -2222,7 +2218,6 @@
      <string name="memory_title">Διαθέσιμα: %1$s\u0009\u0009Συνολικά: %2$s</string>
      <string name="memory_usage">Χρήση μνήμης</string>
      <string name="memory_usage_apps">Μνήμη σε χρήση από εφαρμογές</string>
-     <string name="memory_use_running_format">%1$s / %2$s</string>
      <string name="memory_use_summary">%1$s μέση χρήση μνήμης τις τελευταίες 3 ώρες</string>
      <string name="menu_cancel">Απόρριψη</string>
      <string name="menu_delete">Διαγραφή APN</string>
@@ -2398,7 +2393,6 @@
      <string name="nfc_how_it_works_got_it">Το κατάλαβα</string>
      <string name="nfc_how_it_works_title">Πληρωμή στο τερματικό</string>
      <string name="nfc_more_title">Περισσότερα…</string>
-     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
      <string name="nfc_payment_default">Προεπιλ.εφαρμογή Πληρωμών</string>
      <string name="nfc_payment_default_not_set">Δεν έχει οριστεί</string>
      <string name="nfc_payment_favor_default">Πάντα</string>
@@ -2419,7 +2413,6 @@
      <string name="nfc_se_wallet_title">Προεπιλεγμένο πορτοφόλι</string>
      <string name="night_mode_auto">Αυτόματο</string>
      <string name="night_mode_no">Φωτεινό</string>
-     <string name="night_mode_summary">%s</string>
      <string name="night_mode_title">Θέμα</string>
      <string name="night_mode_yes">Σκοτεινό</string>
      <string name="no">Όχι</string>
@@ -2470,8 +2463,6 @@
      <string name="notifications_no_peeking">Χωρίς σύντομες ειδοποιήσεις</string>
      <string name="notifications_priority">Προτεραιότητα</string>
      <string name="notifications_sensitive">Απόκρυψη ειδοποιήσεων με ευαίσθητο περιεχόμενο</string>
-     <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-     <string name="notifications_two_items">%1$s / %2$s</string>
      <string name="now">Επανεκκίνηση τώρα</string>
      <string name="nsd_quick_toggle_summary">Επιτρέψτε σε εφαρμογές άλλων συσκευών να εντοπίζουν εφαρμογές σε αυτή τη συσκευή</string>
      <string name="nsd_quick_toggle_title">Υπηρεσία αναζήτησης δικτύου</string>
@@ -2515,7 +2506,6 @@
      <string name="overlay_display_devices_title">Εξομοιώνει δευτερεύουσες οθόνες</string>
      <string name="overlay_settings">Επικάλυψη άλλων εφαρμογών</string>
      <string name="owner_info_settings_edit_text_hint">Πληκτρολογήστε το κείμενο που θα φαίνεται στην Οθόνη κλειδώματος</string>
-     <string name="owner_info_settings_status">%1$d / %2$d</string>
      <string name="owner_info_settings_summary">Τίποτα</string>
      <string name="owner_info_settings_title">Πληροφορίες ιδιοκτήτη</string>
      <string name="owner_space">Πρώτο προφίλ</string>
@@ -2765,7 +2755,6 @@
      <string name="private_sms_recording_intro_header">Σχεδιάστε ένα μοτίβο ξεκλειδώματος:</string>
      <string name="private_sms_reset_by_account">Για να επαναφέρετε τον κωδικό πρόσβασης σας, συνδεθείτε στο λογαριασμό Mi</string>
      <string name="process_dex2oat_label">Βελτιστοποίηση εφαρμογής</string>
-     <string name="process_format">%1$s (%2$d)</string>
      <string name="process_kernel_label">Λειτουργικό Android</string>
      <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
      <string name="process_provider_in_use_description">Ο παροχέας %1$s είναι σε χρήση.</string>
@@ -3291,11 +3280,9 @@
      <string name="selinux_status_enforcing">Επιβολή</string>
      <string name="selinux_status_permissive">Ανεκτική</string>
      <string name="service_background_processes">%1$s ελεύθερα</string>
-     <string name="service_client_name">%1$s</string>
      <string name="service_foreground_processes">%1$s χρησιμοποιημένα</string>
      <string name="service_manage">Ρυθμίσεις</string>
      <string name="service_manage_description">%1$s: σε χρήση. Αγγίξτε Ρυθμίσεις για την καταπολέμησή της.</string>
-     <string name="service_process_name">%1$s</string>
      <string name="service_restarting">Επανεκκίνηση</string>
      <string name="service_started_by_app">Ξεκίνησε από την εφαρμογή.</string>
      <string name="service_stop">Στοπ</string>
@@ -3424,7 +3411,6 @@
      <string name="sim_reenter_new">Εισάγετε πάλι τον νέο PIN</string>
      <string name="sim_select_card">Επιλέξτε μια κάρτα SIM</string>
      <string name="sim_selection_required_pref">Απαιτείται μια επιλογή</string>
-     <string name="sim_settings_summary">%1$s - %2$s</string>
      <string name="sim_settings_title">Κάρτες SIM</string>
      <string name="sim_setup_wizard_title">Κάρτες SIM</string>
      <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -3710,8 +3696,6 @@
      <string name="strict_mode_summary">Flash της οθόνης, όταν η εφαρμογή κάνει μεγάλη χρήση πόρων</string>
      <string name="sum_carrier_select">Επιλέξτε ένα φορέα δικτύου</string>
      <string name="summary_divider_text">", "</string>
-     <string name="summary_font_size">%1$s</string>
-     <string name="summary_range_symbol_combination">%1$s - %2$s</string>
      <string name="summary_range_verbal_combination">%1$s to %2$s</string>
      <string name="supl_not_set">&lt;Δεν έχει οριστεί></string>
      <string name="supplicant_state_label">Supplicant state:</string>
@@ -3736,7 +3720,6 @@
      <string name="sync_gmail">Gmail</string>
      <string name="sync_in_progress">Συγχρονισμός τώρα…</string>
      <string name="sync_is_failing">Ο συγχρονισμός αντιμετωπίζει προβλήματα αυτή τη στιγμή. θα είναι και πάλι σύντομα κοντά σας</string>
-     <string name="sync_item_title">Συγχρονισμός %s</string>
      <string name="sync_menu_sync_cancel">Ακύρωση συγχρονισμού</string>
      <string name="sync_menu_sync_now">Συγχρονισμός τώρα</string>
      <string name="sync_now">Συγχρονισμός</string>
@@ -4696,10 +4679,8 @@
      <string name="zen_mode_option_miui_vibrate">Μην ενοχλείτε</string>
      <string name="zen_mode_option_no_interruptions">"Μην διακόπτεις"</string>
      <string name="zen_mode_phone_calls">Κλήσεις</string>
-     <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
      <string name="zen_mode_settings_title">Μην Ενοχλείτε</string>
      <string name="zen_mode_start_time">Ώρα έναρξης</string>
-     <string name="zen_mode_summary_combination">%1$s: %2$s</string>
      <string name="zen_mode_when">Αυτόματη ενεργοποίηση</string>
      <string name="zen_mode_when_every_night">Κάθε βράδυ</string>
      <string name="zen_mode_when_never">Ποτέ</string>
