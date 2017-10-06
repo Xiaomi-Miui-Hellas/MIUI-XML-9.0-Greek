@@ -108,7 +108,6 @@
      <string name="bind_stb">Σύζευξη αποκωδικοποιητή</string>
      <string name="bind_stb_dlg">Συνδέστε έναν αποκωδικοποιητή για να αλλάξετε κανάλια</string>
      <string name="bind_stb_dlg_agree">Σύνδεση</string>
-     <string name="brand_device">%1$s %2$s</string>
      <string name="brand_search_box_hint">Επιλέξτε ή εισαγάγετε τη συσκευή που θέλετε να προσθέσετε</string>
      <string name="brand_title_all">Όλες οι μάρκες</string>
      <string name="brand_title_hot">Κοινή μάρκα</string>
@@ -133,7 +132,6 @@
      <string name="channel_list">Λίστα καναλιών</string>
      <string name="channel_num">—</string>
      <string name="channel_removed_from_fav">Το %1$s αφαιρέθηκε από τα αγαπημένα</string>
-     <string name="character_counter_pattern">%1$d / %2$d</string>
      <string name="check_upgrade">Έλεγχος για ενημερώσεις</string>
      <string name="choose_ac">Επιλέξτε τηλεχειριστήριο</string>
      <string name="choose_address_title">Επιλέξτε τοποθεσία</string>
@@ -326,7 +324,6 @@
      <string name="hot_videos">Δημοφιλή</string>
      <string name="hour">Ώρα</string>
      <string name="humidity">Υγρασία:</string>
-     <string name="humidity_frame">%1$d%%</string>
      <string name="input_complete">OK</string>
      <string name="input_dialogue_cancel_button">Ακύρωση</string>
      <string name="input_dialogue_guide1">Εγκατάσταση μη εξουσιοδοτημένων εφαρμογών</string>
@@ -409,7 +406,6 @@
      <string name="match_data">Τα στοιχεία που ταιριάζουν</string>
      <string name="match_data_error_tips">"Αδυναμία λήψης πληροφοριών
 Πηγαίνετε πίσω για συνέχεια"</string>
-     <string name="match_dataset_frame">%1$d/%2$d</string>
      <string name="match_dvd_intro_pause">Πλήκτρο παύσης αναπαραγωγής DVD</string>
      <string name="match_dvd_intro_play">Πλήκτρο έναρξης αναπαραγωγής DVD</string>
      <string name="match_dvd_intro_stop">Πλήκτρο διακοπής αναπαραγωγής DVD</string>
@@ -770,8 +766,6 @@
      <string name="save_share_title">Αποθήκευση τηλεχειριστηρίου σε αυτή τη συσκευή;</string>
      <string name="scaning">Σάρωση</string>
      <string name="scanning_milink">Σάρωση για ασύρματες συσκευές</string>
-     <string name="scene_name_frame">%1$s από %2$s%3$s</string>
-     <string name="scene_name_frame_short">%1$s%2$s</string>
      <string name="screen_shot_button_title">Στιγμιότυπο οθόνης TV</string>
      <string name="screen_shot_delete">Διαγραφή</string>
      <string name="screen_shot_delete_warning">Είστε βέβαιοι ότι θέλετε να το διαγράψετε;</string>
@@ -901,7 +895,6 @@
      <string name="start_match">Σύζευξη</string>
      <string name="status_bar_notification_info_overflow">999+</string>
      <string name="stb">Αποκωδικοποιητής</string>
-     <string name="stb_detail_title_frame">%1$s - %2$d</string>
      <string name="stb_power">STB on/off</string>
      <string name="steps">Προσπάθεια #%d</string>
      <string name="stop_auto_tune">Διακοπή αυτόματου συντονισμού</string>
@@ -922,7 +915,6 @@
      <string name="temprature_frame">%1$d ℃</string>
      <string name="third_app_launch_failed">Αποτυχία εκκίνησης εφαρμογής</string>
      <string name="time_error">Σφάλμα χρονομέτρου</string>
-     <string name="time_interval_in_sec">%1$d</string>
      <string name="timer">Χρονόμετρο</string>
      <string name="timer_turn_off">Απενεργοποίηση χρονομέτρου</string>
      <string name="timer_turn_on">Ενεργοποίηση χρονομέτρου</string>

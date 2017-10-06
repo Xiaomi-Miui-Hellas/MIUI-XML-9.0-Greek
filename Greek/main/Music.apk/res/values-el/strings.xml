@@ -435,7 +435,6 @@
      <string name="list_detail_title">Λεπτομέρειες</string>
      <string name="list_item_play_FM_radio">Πατήστε για να παίξει το ραδιόφωνο FM</string>
      <string name="list_item_play_all_tracks">Αναπαραγωγή όλων</string>
-     <string name="listview_index_of_total">%1$d/%2$d</string>
      <string name="load_shuffle">Φόρτωση…</string>
      <string name="loadercontainer_loading">Μισό λεπτό…</string>
      <string name="loading_hint">Φόρτωση</string>

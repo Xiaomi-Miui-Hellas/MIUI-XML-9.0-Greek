@@ -189,7 +189,6 @@
      <string name="file_size">Μέγεθος:</string>
      <string name="file_title">Όνομα:</string>
      <string name="file_width_height">Μέγεθος:</string>
-     <string name="flatshow_page_no">%1$d</string>
      <string name="force_touch_new_message_title">Νέο μήνυμα</string>
      <string name="forward_from">Προώθηση από:</string>
      <string name="forward_prefix">"Fwd: "</string>
@@ -557,7 +556,6 @@
      <string name="send_sms">Αποστολή μηνύματος</string>
      <string name="send_to">Προς:</string>
      <string name="send_to_count">Απεσταλμένα %1$s μηνύματα</string>
-     <string name="send_to_index_contact">%1$s/%2$s</string>
      <string name="sent_label">"Απεστάλη: "</string>
      <string name="service_message_not_found">Το Μήνυμα έχει λήξει ή δεν είναι διαθέσιμο</string>
      <string name="service_network_problem">Αδυναμία αποστολής λόγω σφάλματος δικτύου</string>

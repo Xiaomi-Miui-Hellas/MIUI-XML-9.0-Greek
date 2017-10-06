@@ -334,11 +334,8 @@
      <string name="user_notice_message">Ορισμένες λειτουργίες απαιτούν πρόσβαση στο Internet για να λειτουργήσουν κανονικά.</string>
      <string name="user_notice_title">Ειδοποίηση χρήστη</string>
      <string name="wifi_title">Ρυθμίσεις Wi‑Fi</string>
-     <string name="xiaomi_bytes_unit">%1$sB</string>
      <string name="xiaomi_connect_download_manager_fail">Αποτυχία σύνδεσης Διαχειριστή Λήψεων. Παρακαλώ ελέγξτε την κατάσταση του Διαχειριστή Λήψεων στη Διαχείριση Εφαρμογών.</string>
      <string name="xiaomi_external_storage_unavailable">Ο χώρος αποθήκευσης δεν είναι διαθέσιμος. Παρακαλώ ελέγξτε την κάρτα SD.</string>
-     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-     <string name="xiaomi_megabytes_unit">%1$sMB</string>
      <string name="xiaomi_router">Mi Router</string>
      <string name="xiaomi_router_location">Mi Router %s</string>
      <string name="xiaomi_update_dialog_message">"Σας παρουσιάζουμε την έκδοση %1$s

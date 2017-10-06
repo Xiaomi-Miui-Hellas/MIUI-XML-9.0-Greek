@@ -1043,7 +1043,6 @@
      <string name="pref_new_installed_preconfig_title">Προεπιλεγμένες ρυθμίσεις για νέες εφαρμογές</string>
      <string name="pref_normal_traffic_limit">Όταν το ημερήσιο όριο εξαντληθεί</string>
      <string name="pref_open_adjust_traffic">Ενημέρωση στατιστικών χρήσης δεδομένων καθημερινά από το φορέα σας</string>
-     <string name="pref_operator_setting">%1$s%2$s</string>
      <string name="pref_package_traffic_settings">Όριο δεδομένων κινητής</string>
      <string name="pref_pkg_begin_date">Ημερομηνία μηδενισμού χρήσης</string>
      <string name="pref_roaming_daily_limit_setting">Ορισμός ημερήσιου ορίου δεδομένων κατά την περιαγωγή</string>
