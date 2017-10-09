@@ -64,7 +64,6 @@
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> ακόλουθοι</item>
         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> ακόλουθος</item>
      </plurals>
-     </plurals>
      <plurals name="found_new_files">
         <item quantity="other">Βρέθηκαν %1$d νέα αρχεία</item>
         <item quantity="zero">Βρέθηκαν %1$d νέα αρχεία</item>
