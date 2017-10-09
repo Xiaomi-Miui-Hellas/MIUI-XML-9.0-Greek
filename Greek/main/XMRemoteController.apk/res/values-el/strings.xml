@@ -45,8 +45,8 @@
      <string name="add_new_tv_power_only">Προσθήκη διακόπτη on/off TV…</string>
      <string name="adjust_auto_tune_interval">Αυτόματη ρύθμιση διαστήματος αλλαγής καναλιού</string>
      <string name="agree">Συμφωνώ</string>
-     <string name="airkan_disconnect">Δεν συνδεδεμένη η συσκευή</string>
-     <string name="airkan_disconnect_display_name">Δεν υπάρχει συνδεδεμένη συσκευή</string>
+     <string name="airkan_disconnect">Οι συσκευές δεν είναι συνδεδεμένες</string>
+     <string name="airkan_disconnect_display_name">Οι συσκευές δεν είναι συνδεδεμένες</string>
      <string name="airrc_device_not_connected">Δεν έχει συνδεθεί</string>
      <string name="all">Όλα</string>
      <string name="all_brand">Όλες οι μάρκες</string>
@@ -66,7 +66,7 @@
      <string name="app_detail_no_comments">Δεν υπάρχουν σχόλια!</string>
      <string name="app_detail_recomments_title_text">Σχετικές εφαρμογές</string>
      <string name="app_detail_title_info">Λεπτομέρειες εφαρμογής</string>
-     <string name="app_detail_title_recomment">Συστάσεις</string>
+     <string name="app_detail_title_recomment">Σχετικές εφαρμογές</string>
      <string name="app_exit_tip">Πιέστε ξανά για έξοδο</string>
      <string name="app_frequency_little">Συχνότητα</string>
      <string name="app_frequency_more">Συχνά</string>

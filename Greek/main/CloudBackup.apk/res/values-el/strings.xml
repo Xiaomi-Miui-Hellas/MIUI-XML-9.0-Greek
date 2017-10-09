@@ -61,7 +61,7 @@
      <string name="cloud_backup_detail_manage_summary">%1$s αντίγραφα. Μέγεθος:%2$s</string>
      <string name="cloud_backup_detail_state">Αντ.ασφαλείας Mi Cloud</string>
      <string name="cloud_backup_detail_state_summary">Εφαρμογές, Αρχική οθόνη και ρυθμίσεις συστήματος</string>
-     <string name="cloud_backup_detail_time">, χρόνος αντιγράφου:%1$s</string>
+     <string name="cloud_backup_detail_time">Τελευταίο αντίγραφο: %1$s</string>
      <string name="cloud_backup_have_data">Βρέθηκε αντίγραφο στο Mi Cloud</string>
      <string name="cloud_backup_select_recover">Επιλέξτε αντίγραφο από το Mi Cloud</string>
      <string name="cloud_restore_from_other_device">"Διακοπή επαναφοράς από %s και διαγραφή αυτού του αντιγράφου; Δεν μπορείτε να αντιστρέψετε αυτήν την ενέργεια."</string>
