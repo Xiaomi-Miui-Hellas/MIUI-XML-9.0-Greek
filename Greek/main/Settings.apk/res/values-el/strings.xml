@@ -198,7 +198,7 @@
      <string name="android_beam_tips">Βεβαιωθείτε ότι οι δύο συσκευές είναι κολλητά και στη συνέχεια επιλέξτε το περιεχόμενο που θέλετε να μεταβιβάσετε.</string>
      <string name="android_beam_witch_label">Ενεργοποίηση Android Beam</string>
      <string name="animator_duration_scale_title">Κλίμακα διάρκειας Animator</string>
-     <string name="another_migration_already_in_progress">Μια άλλη διαδικασία μεταφοράς είναι ήδη σε εξέλιξη..</string>
+     <string name="another_migration_already_in_progress">Μια άλλη διαδικασία μεταφοράς είναι ήδη σε εξέλιξη.</string>
      <string name="anti_spam">Λίστα φραγών</string>
      <string name="apn_apn">APN</string>
      <string name="apn_auth_type">Τύπος ταυτοποίησης</string>
@@ -2246,7 +2246,6 @@
      <string name="menu_use_uss">Χρήση Uss</string>
      <string name="misc_files">Διάφορα αρχεία</string>
      <string name="misc_files_selected_count">επιλεγμένα %1$d από %2$d</string>
-     <string name="misc_files_selected_count_bytes">%1$s από %2$s</string>
      <string name="miui_allow_alarm">Συναγερμός</string>
      <string name="miui_allow_light">LED ειδοποίησης</string>
      <string name="miui_allow_music">Πολυμέσα</string>
@@ -3696,7 +3695,7 @@
      <string name="strict_mode_summary">Flash της οθόνης, όταν η εφαρμογή κάνει μεγάλη χρήση πόρων</string>
      <string name="sum_carrier_select">Επιλέξτε ένα φορέα δικτύου</string>
      <string name="summary_divider_text">", "</string>
-     <string name="summary_range_verbal_combination">%1$s to %2$s</string>
+     <string name="summary_range_verbal_combination">%1$s έως %2$s</string>
      <string name="supl_not_set">&lt;Δεν έχει οριστεί></string>
      <string name="supplicant_state_label">Supplicant state:</string>
      <string name="suspend_gesture_enabled">Αναποδογυρίστε το τηλέφωνο για να απενεργοποιήσετε την οθόνη</string>
