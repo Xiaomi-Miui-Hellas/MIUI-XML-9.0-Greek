@@ -288,7 +288,7 @@
     <string name="settings_home_lock_desc">Κλείδωμα εφαρμογών στην αρχική οθόνη και ρυθμίσεις κλειδώματος εφαρμογών</string>
     <string name="settings_sms_voice_desc">Διαβάστε το περιεχόμενο των εισερχόμενων μηνυμάτων κειμένου φωναχτά</string>
     <string name="settings_dial_voice_desc">Διαβάστε τα ψηφία δυνατά κατά την κλήση</string>
-    <string name="settings_status_bar_desc">Για να τραβήξτε προς τα κάτω τον πίνακα ειδοποιήσεων, σύρετε προς τα κάτω με ένα δάχτυλο</string>
+    <string name="settings_status_bar_desc">Για να κατεβάσετε τον πίνακα ειδοποιήσεων, σύρετε προς τα κάτω με ένα δάχτυλο</string>
     <string name="settings_speak_income_desc">Διαβάστε το όνομα της εισερχόμενης κλήσης δυνατά</string>
     <string name="settings_income_phone_cover_desc">Χρησιμοποιήστε το απλοποιημένο μενού και μεγάλες γραμματοσειρές στην οθόνη εισερχόμενης κλήσης (δεν είναι συμβατό με συσκευές)</string>
     <string name="settings_mobile_internet_lock_desc">Απενεργοποίηση της σύνδεσης δεδομένων κινητής (δίκτυα 2G/3G)</string>
