@@ -11,8 +11,8 @@
      <string name="android_lockscreen_glogin_instructions">Για ξεκλείδωμα, συνδεθείτε με τον λογαριασμό σας</string>
      <string name="app_name">Μεταφορά</string>
      <string name="app_no_notification">τίποτα</string>
-     <string name="app_notificaiton_on_notificationBar">Μπάρα ειδοποιήσεων</string>
-     <string name="app_notificaiton_on_statusBar_and_notificationBar">Γραμμή κατάστασης, μπάρα ειδοποιήσεων</string>
+     <string name="app_notificaiton_on_notificationBar">Πίνακας ειδοποιήσεων</string>
+     <string name="app_notificaiton_on_statusBar_and_notificationBar">Γραμμή κατάστασης, πίνακας ειδοποιήσεων</string>
      <string name="button_last">Έναρξη τώρα</string>
      <string name="button_next">Επόμενο</string>
      <string name="button_pre">Πίσω</string>

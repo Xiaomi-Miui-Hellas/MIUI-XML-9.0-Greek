@@ -162,7 +162,7 @@
      <string name="desktop_lyric_dialog_msg">Ανοίξτε το, στο Η μουσική μου-Ρυθμίσεις-Προχωρημένες ρυθμίσεις</string>
      <string name="desktop_lyric_dialog_positive_button">Δοκιμάστε το τώρα</string>
      <string name="desktop_lyric_dialog_title">Δοκιμάστε τους στίχους στην επιφάνειας εργασίας</string>
-     <string name="desktop_lyric_lock_toast">Κλειδωμένο. Χρησιμοποιήστε τον έλεγχο μουσικής στη μπάρα ειδοποιήσεων για να το ξεκλειδώσετε</string>
+     <string name="desktop_lyric_lock_toast">Κλειδωμένο. Μπορείτε να ξεκλειδώσετε τη Μουσική στον πίνακα Ειδοποιήσεων.</string>
      <string name="desktop_lyric_setting_summary">Εμφάνιση αναδυόμενων στίχων στην επιφάνεια εργασίας</string>
      <string name="desktop_lyric_setting_title">Στίχοι στην επιφάνεια εργασίας</string>
      <string name="desktop_lyric_textsize">Κείμενο</string>
@@ -585,7 +585,7 @@
      <string name="notification_headset_settings">Συνδεδεμένα ακουστικά</string>
      <string name="notification_need_wifi_for_size">Το μέγεθος λήψης απαιτεί Wi‑Fi.</string>
      <string name="notification_play_summary">Δείτε το τρέχον και το επόμενο τραγούδι καθώς και τους στίχους στην Αρχική οθόνη</string>
-     <string name="notification_play_title">Widget μπάρας ειδοποιήσεων</string>
+     <string name="notification_play_title">Widget πίνακα ειδοποιήσεων</string>
      <string name="notification_recommend_summary">Μάθετε για τις νέες μουσικές τάσεις και τις προσφορές εφαρμογών</string>
      <string name="notification_recommend_title">Σημαντικές ειδοποιήσεις</string>
      <string name="notification_setting">Ρυθμίσεις ειδοποιήσεων</string>
@@ -741,8 +741,8 @@
      <string name="set_ringtones_successful">%s ορίστηκε ως ήχος κλήσης</string>
      <string name="setting_feature_setting">Ρύθμιση λειτουργίας</string>
      <string name="settings">Ρυθμίσεις</string>
-     <string name="settings_notification_text">Εμφάνιση του widget αναπαραγωγής στη μπάρα ειδοποιήσεων</string>
-     <string name="settings_notification_title">Widget μπάρας ειδοποιήσεων</string>
+     <string name="settings_notification_text">Εμφάνιση του widget αναπαραγωγής στον πίνακα ειδοποιήσεων</string>
+     <string name="settings_notification_title">Widget πίνακα ειδοποιήσεων</string>
      <string name="settings_search_key_desktop_lyric">Στίχοι Αρχικής οθόνης;Στίχοι;Μουσική;Τραγούδια</string>
      <string name="settings_search_key_download_quality">Ποιότητα λήψης;Ποιότητα;Μουσική;Λήψη;Τραγούδια</string>
      <string name="settings_search_key_download_when_favorite">Λήψη αγαπημένων;Λήψη;Αγαπημένα;Μουσική;Τραγούδια</string>

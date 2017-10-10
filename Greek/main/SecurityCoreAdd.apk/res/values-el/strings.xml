@@ -117,8 +117,8 @@
      <string name="not_support_multiple_users">Πολλαπλά προφίλ δεν υποστηρίζονται</string>
      <string name="notificationSetPassword">Ορισμός κωδικού</string>
      <string name="notificationSetPasswordDes">Προστατέψτε τα δεδομένα του Δεύτερου προφίλ</string>
-     <string name="notificationSummary">Εναλλαγή μεταξύ των προφίλ από την μπάρα ειδοποιήσεων</string>
-     <string name="notificationTitle">Συντόμευση μπάρας ειδοποιήσεων</string>
+     <string name="notificationSummary">Εναλλαγή μεταξύ των προφίλ από τον πίνακα Ειδοποιήσεων</string>
+     <string name="notificationTitle">Συντόμευση πίνακα ειδοποιήσεων</string>
      <string name="notification_recommend_title">Οι 12 καλύτερες εφαρμογές για το Δεύτερο προφίλ</string>
      <string name="notification_setting_second_space">Ρύθμιση Δεύτερου προφίλ</string>
      <string name="notification_setting_second_space_desc">Προσθέστε κωδικό στο Δεύτερο προφίλ και μεταφέρετε δεδομένα</string>
@@ -177,7 +177,7 @@
      <string name="settings_msg_remove_shortcut">Η συντόμευση αφαιρέθηκε από το Πρώτο προφίλ</string>
      <string name="settings_notification_and_switch">Εναλλαγή &amp; ειδοποιήσεις</string>
      <string name="settings_space_data">Δεδομένα</string>
-     <string name="settings_status_icon_summary">Εμφάνιση εικονιδίου Δεύτερου προφίλ στη μπάρα ειδοποιήσεων</string>
+     <string name="settings_status_icon_summary">Εμφάνιση εικονιδίου Δεύτερου προφίλ στη γραμμή κατάστασης</string>
      <string name="settings_status_icon_title">Εικονίδιο Δεύτερου προφίλ</string>
      <string name="settings_switch_shortcut_summary">Εμφάνιση συντόμευσης Αρχικής οθόνης στο Πρώτο προφίλ</string>
      <string name="settings_switch_shortcut_title">Πατήστε τη συντόμευση για εναλλαγή</string>

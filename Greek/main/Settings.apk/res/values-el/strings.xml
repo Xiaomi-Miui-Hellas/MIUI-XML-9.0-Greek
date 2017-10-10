@@ -3474,7 +3474,7 @@
      <string name="starting_android">Εκκίνηση του Android</string>
      <string name="status_awaiting_tap">Πατήστε μια ετικέτα για εγγραφή...</string>
      <string name="status_awake_time">Χρόνος σε αφύπνιση</string>
-     <string name="status_bar_and_notification_bar">Μπάρα ειδοποιήσεων και γραμμή κατάστασης</string>
+     <string name="status_bar_and_notification_bar">Πίνακας ειδοποιήσεων και γραμμή κατάστασης</string>
      <string name="status_bar_app_des_separator">", "</string>
      <string name="status_bar_app_disable_notification">Κενό</string>
      <string name="status_bar_app_enable_floating">Αναδυόμενες ειδοποιήσεις</string>
@@ -3501,14 +3501,14 @@
      <string name="status_bar_settings_long_click_sort">Πατήστε &amp; κρατήστε για μετακίνηση</string>
      <string name="status_bar_settings_manage_notification">Διαχείριση ειδοποιήσεων</string>
      <string name="status_bar_settings_no_carrier">Κανένα</string>
-     <string name="status_bar_settings_notification_bar">Μπάρα ειδοποιήσεων</string>
+     <string name="status_bar_settings_notification_bar">Πίνακας ειδοποιήσεων</string>
      <string name="status_bar_settings_notification_led">LED ειδοποίησης</string>
      <string name="status_bar_settings_notification_priority">Προτεραιότητα</string>
      <string name="status_bar_settings_notification_priority_summary">Εμφάνιση ειδοποιήσεων στην κορυφή της λίστας</string>
      <string name="status_bar_settings_notification_sound">Ήχος</string>
      <string name="status_bar_settings_notification_vibrate">Δόνηση</string>
      <string name="status_bar_settings_show_carrier">Προβολή ονόματος παρόχου</string>
-     <string name="status_bar_settings_show_carrier_summary">Το όνομα παρόχου θα εξακολουθεί να εμφανίζεται στην Οθόνη κλειδώματος και στη μπάρα ειδοποιήσεων όταν αυτή η λειτουργία είναι ανενεργή</string>
+     <string name="status_bar_settings_show_carrier_summary">Το όνομα παρόχου θα εξακολουθεί να εμφανίζεται στην Οθόνη κλειδώματος και στον πίνακα ειδοποιήσεων όταν αυτή η λειτουργία είναι ανενεργή</string>
      <string name="status_bar_settings_show_floating_notification">Αναδυόμενες ειδοποιήσεις</string>
      <string name="status_bar_settings_show_floating_notification_summary">Οι αναδυόμενες ειδοποιήσεις θα εξαφανιστούν αυτόματα αφού εμφανιστούν στο πάνω μέρος της οθόνης</string>
      <string name="status_bar_settings_show_flow_info">Προβολή χρήσης δεδομένων</string>

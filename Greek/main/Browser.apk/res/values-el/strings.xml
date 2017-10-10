@@ -653,7 +653,7 @@
      <string name="save_form_data_confirm_message">Η απενεργοποίηση αυτής της λειτουργίας μπορεί να επηρεάσει τη χρήση.</string>
      <string name="save_image_failed">Αποτυχία αποθήκευσης εικόνας</string>
      <string name="save_image_success">Επιτυχία αποθήκευσης εικόνας</string>
-     <string name="save_page_capture_tip">Ανοίξτε τη μπάρα ειδοποιήσεων για να δείτε το στιγμιότυπο.</string>
+     <string name="save_page_capture_tip">Ανοίξτε τον πίνακα ειδοποιήσεων για να δείτε το στιγμιότυπο.</string>
      <string name="save_page_capture_to_camera">Το στιγμιότυπο αποθηκεύτηκε</string>
      <string name="save_password_message">Θέλετε το πρόγραμμα περιήγησης να θυμάται αυτό τον κωδικό πρόσβασης;</string>
      <string name="save_password_never">Ποτέ</string>

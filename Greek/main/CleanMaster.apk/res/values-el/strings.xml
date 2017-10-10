@@ -96,7 +96,7 @@
      <string name="clean_content_zero">Μην καθαρίσεις τίποτα</string>
      <string name="clear_bigfiles">Διαγράψτε μεγάλα αρχεία, διπλότυπες φωτογραφίες και άλλα άχρηστα αντικείμενα</string>
      <string name="clear_immediately">Καθαρισμός τώρα</string>
-     <string name="clear_safe_notify">Μπάρα ειδοποιήσεων ασφαλείας</string>
+     <string name="clear_safe_notify">Widget πίνακα ειδοποιήσεων</string>
      <string name="clip_board_history_desc">Περιεχόμενα αντιγραφής/αποκοπής</string>
      <string name="clipboard">Πρόχειρο</string>
      <string name="close">Κλείσιμο</string>
@@ -284,7 +284,7 @@
      <string name="msg_update_error_code_unknown_error">Άγνωστο σφάλμα</string>
      <string name="name_debuglog_dir">Bsp Debug Log</string>
      <string name="name_optimizer">Πολιτική Απορρήτου Cheetah Mobile</string>
-     <string name="nb_clear_set">Καθαρίστε την ROM και δείτε πληροφορίες για την μπαταρία και την λίστα φραγών στην μπάρα ειδοποιήσεων</string>
+     <string name="nb_clear_set">Καθαρισμός cache, προβολή πληροφοριών μπαταρίας και λίστας φραγών στον πίνακα ειδοποιήσεων</string>
      <string name="net_assistant_detail">Χρησιμοποιήθηκαν %1$s, εξοικονομήθηκαν %2$s</string>
      <string name="net_assistant_title">Χρησιμοποιήθηκαν %s δεδομένα κινητής αυτό τον μήνα</string>
      <string name="network_not_available">"Αδυναμία σύνδεσης στο δίκτυο"</string>
@@ -391,7 +391,7 @@
      <string name="tips_of_network_speed_set">Δείτε την ταχύτητα δικτύου στην γραμμή κατάστασης</string>
      <string name="tips_of_operators_set">Ρυθμίστε αυτόματα τα στατιστικά χρήσης δεδομένων</string>
      <string name="tips_of_package_set">Ρυθμίστε το πρόγραμμα δεδομένων σας και ελέγξτε το ποσό της κίνησης που χρησιμοποιείτε</string>
-     <string name="tips_of_traffic_notification">Δείτε τα στατιστικά δεδομένων κινητής στη μπάρα ειδοποιήσεων</string>
+     <string name="tips_of_traffic_notification">Προβολή στατιστικών για τα δεδομένα κινητής στον πίνακα ειδοποιήσεων</string>
      <string name="tips_of_traffic_pack_threshold">"Αγοράστε περισσότερα δεδομένα όταν πλησιάζετε το όριο κίνησής σας"</string>
      <string name="tips_of_virus_scan">Σαρώστε τη συσκευή σας για ιούς τακτικά για να την κρατήσετε ασφαλή</string>
      <string name="title_auto_cleaner">Αυτόματος καθαρισμός;</string>

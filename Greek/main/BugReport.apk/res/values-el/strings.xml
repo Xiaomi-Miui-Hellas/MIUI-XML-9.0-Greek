@@ -253,7 +253,7 @@
      <string name="submit_feedback_info_failed">Αδυναμία αποστολής αναφοράς</string>
      <string name="suggestion_description">"Γράψτε εδώ τις προτάσεις σας (στα Αγγλικά) πχ I hope you'll add X feature, because…"</string>
      <string name="system_app_select">Ενσωματωμένες εφαρμογές</string>
-     <string name="systemui">Μπάρα ειδοποιήσεων</string>
+     <string name="systemui">Πίνακας ειδοποιήσεων</string>
      <string name="tab_title_chat">FAQ</string>
      <string name="tab_title_my_reports">Οι αναφορές μου</string>
      <string name="tab_title_report">Σχόλια</string>

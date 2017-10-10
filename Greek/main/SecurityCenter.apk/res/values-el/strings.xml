@@ -760,7 +760,7 @@
      <string name="menu_item_notification_antispam_text_normal">Spam</string>
      <string name="menu_item_notification_garbage_text">%s</string>
      <string name="menu_item_notification_power_text">Ενέργεια</string>
-     <string name="menu_item_notification_title">Εργαλεία στη μπάρα ειδοποιήσεων</string>
+     <string name="menu_item_notification_title">Εμφάνιση μενού στον πίνακα ειδοποιήσεων</string>
      <string name="menu_item_shortcut_summary">Τοποθετήστε συχνά χρησιμοποιούμενες λειτουργίες στην Αρχική Οθόνη</string>
      <string name="menu_item_shortcut_title">Διαχείριση συντομεύσεων</string>
      <string name="menu_item_uninstall">Κατάργηση</string>
@@ -1175,8 +1175,8 @@
      <string name="settings_category_overheat">Θερμοκρασία</string>
      <string name="settings_choice_no_notification">Ανενεργό</string>
      <string name="settings_power_save_ontime_title">Χρονοδιάγραμμα</string>
-     <string name="show_traffic_dialog_message">Οι πληροφορίες χρήσης δεδομένων θα εμφανίζονται στη μπάρα ειδοποιήσεων. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή τη δυνατότητα οποιαδήποτε στιγμή από τη Χρήση Δεδομένων > Ρυθμίσεις</string>
-     <string name="show_traffic_dialog_title">Εμφάνιση χρήσης στη μπάρα ειδοποιήσεων</string>
+     <string name="show_traffic_dialog_message">Οι πληροφορίες χρήσης δεδομένων θα εμφανίζονται στον πίνακα ειδοποιήσεων. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή τη δυνατότητα οποιαδήποτε στιγμή από τη Χρήση Δεδομένων > Ρυθμίσεις</string>
+     <string name="show_traffic_dialog_title">Εμφάνιση χρήσης στον πίνακα ειδοποιήσεων</string>
      <string name="showpattern">Εμφάνιση μοτίβου</string>
      <string name="shutdown_cancel_reminder">Δεν απενεργοποιήθηκε</string>
      <string name="shutdown_cancel_reminder_detail">"Η συσκευή δεν απενεργοποιήθηκε  γιατί ήσασταν στη μέση μιας κλήσης"</string>
@@ -1321,7 +1321,7 @@
      <string name="summary_data_flow">Αποφύγετε να ξεπεράσετε το μηνιαίο όριο δεδομένων του φορέα σας</string>
      <string name="summary_dev">Αποφύγετε την κλοπή προσωπικών δεδομένων</string>
      <string name="summary_find_device">Εντοπίστε και κλειδώσετε τη συσκευή σας από οπουδήποτε</string>
-     <string name="summary_flow_notification">Εμφάνιση μηνιαίων στατιστικών στοιχείων χρήσης των δεδομένων σας στη μπάρα ειδοποιήσεων</string>
+     <string name="summary_flow_notification">Εμφάνιση στατιστικών μηνιαίας χρήσης δεδομένων στον πίνακα ειδοποιήσεων</string>
      <string name="summary_flow_purchase">"Φαίνεται ότι δεν έχουν απομείνει αρκετά δεδομένα. Αγοράστε δεδομένα για να μείνετε συνδεδεμένοι."</string>
      <string name="summary_flow_verify_failed">Βαθμονόμηση</string>
      <string name="summary_garbage_clean">Καθαρίστε την cache για να ελευθερώσετε χώρο</string>
@@ -1336,7 +1336,7 @@
      <string name="summary_permission_root">Η συσκευή σας και τα προσωπικά δεδομένα είναι πιο ευάλωτα σε επιθέσεις από εφαρμογές που έχουν πρόσβαση root</string>
      <string name="summary_power_optimizer">Μειώστε την απόδοση της συσκευής σας όταν η μπαταρία είναι χαμηλή</string>
      <string name="summary_realname_verify">Επιβεβαιώστε την ταυτότητά σας για να κάνετε τις πληρωμές σας πιο ασφαλείς.</string>
-     <string name="summary_show_notification">Καρφίτσωμα εργαλείων του Κέντρου Ασφαλείας στη μπάρα ειδοποιήσεων</string>
+     <string name="summary_show_notification">Καθαρισμός cache, προβολή κατάστασης μπαταρίας και φραγή στοιχείων στον πίνακα Ειδοποιήσεων</string>
      <string name="summary_telecom_operator">Πάρτε τα μηνιαία στατιστικά στοιχεία χρήσης των δεδομένων από το φορέα σας</string>
      <string name="summary_usb">Αποφύγετε την εξάπλωση των ιών μέσω USB</string>
      <string name="summary_virus">Αφαιρέστε τους ιούς για να κρατήσετε τη συσκευή σας ασφαλή</string>
@@ -1463,7 +1463,7 @@
      <string name="title_permission_yes">Ενεργή η χορήγηση άδειας</string>
      <string name="title_power_optimizer">Εξοικονόμηση μπαταρίας</string>
      <string name="title_realname_verify">Επαλήθευση ταυτότητας</string>
-     <string name="title_show_notification">Εργαλεία στη μπάρα ειδοποιήσεων</string>
+     <string name="title_show_notification">Widget πίνακα ειδοποιήσεων</string>
      <string name="title_telecom_operator">Χρήση στατιστικών στοιχείων του φορέα</string>
      <string name="title_usb_no">USB debugging ενεργό</string>
      <string name="title_usb_yes">USB debugging ανενεργό</string>
@@ -1489,7 +1489,7 @@
      <string name="toast_root_apply_accept">Παραχώρηση πρόσβασης root στο %s</string>
      <string name="toast_root_apply_reject">Άρνηση πρόσβασης root στο %s</string>
      <string name="toast_set_success">Επιτυχές άνοιγμα!</string>
-     <string name="toast_show_notification">Καρφιτσώθηκε στη μπάρα ειδοποιήσεων</string>
+     <string name="toast_show_notification">Καρφιτσώθηκε στον πίνακα ειδοποιήσεων</string>
      <string name="traffic_alert_auto_modify_notification_sumarry">Το μηνιαίο πρόγραμμα άλλαξε σε %s.</string>
      <string name="traffic_alert_auto_modify_notification_titile">Ενημερώθηκε το πρόγραμμα δεδομένων</string>
      <string name="traffic_alert_auto_modify_package_summary">Αυτόματη προσαρμογή πακέτου δεδομένων, σύμφωνα με τις πληροφορίες του φορέα</string>

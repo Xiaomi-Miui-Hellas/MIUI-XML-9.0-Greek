@@ -355,7 +355,7 @@ d MMMM"</string>
      <string name="usb_storage_stop_notification_title">Απενεργοποίηση αποθ.χώρου USB.</string>
      <string name="usb_storage_stop_title">Ο αποθ.χώρος USB είναι σε χρήση</string>
      <string name="usb_storage_title">Το USB συνδέθηκε</string>
-     <string name="user_guide_for_notification">Σύρετε προς τα κάτω με το ένα δάκτυλο για να κατεβάσετε τη μπάρα ειδοποιήσεων</string>
+     <string name="user_guide_for_notification">Σύρετε προς τα κάτω για άνοιγμα του πίνακα Ειδοποιήσεων</string>
      <string name="user_guide_for_toggle">Η λίστα διακοπτών μπορεί να μετακινηθεί οριζοντίως</string>
      <string name="user_guide_for_toggle_list">Διαχείριση διακοπτών</string>
      <string name="vpn_text">Πατήστε για να δείτε τις ρυθμίσεις.</string>
