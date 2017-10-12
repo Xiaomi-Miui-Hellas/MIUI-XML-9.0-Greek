@@ -26,11 +26,8 @@
      <string name="apply">Εφαρμογή</string>
      <string name="apply_action">Εφαρμογή</string>
      <string name="apply_as_lock_screen">Οθόνη κλειδώματος</string>
-     <string name="apply_as_lock_wallpaper_message">Εφαρμογή αυτής της ταπετσαρίας και στην Οθόνη κλειδώματος;</string>
-     <string name="apply_as_lockwallpaper_action">Οθόνη κλειδώματος</string>
      <string name="apply_as_wallpaper">Αρχική οθόνη</string>
      <string name="apply_both">Και τα δύο</string>
-     <string name="apply_negative_action">"Να μην εφαρμοστεί"</string>
      <string name="aqi_quality_index_dangerous">Επικίνδυνο</string>
      <string name="aqi_quality_index_good">Καλό</string>
      <string name="aqi_quality_index_hazardous">Πολύ επικίνδυνο</string>
@@ -46,11 +43,6 @@
      <string name="cant_remove_retained_app">Αδύνατη η απεγκατάσταση διατηρητέας εφαρμογής</string>
      <string name="cant_remove_system_app">Αδύνατη η διαγραφή εφαρμογής συστήματος</string>
      <string name="change_wallpaper">Αλλαγή</string>
-     <string name="children_folder_title">Παιδιά</string>
-     <string name="children_mode_exit">Έξοδος</string>
-     <string name="children_mode_tips">Επιστροφή στις Ρυθμίσεις και διαχείριση πρόσβασης στις εφαρμογές.</string>
-     <string name="children_mode_tips_message">Δεν υπάρχει εφαρμογή στην λειτουργία Παιδιού. Παρακαλώ επιλέξτε εφαρμογή.</string>
-     <string name="children_mode_tips_title">Παρακαλώ επιλέξτε εφαρμογή</string>
      <string name="choose_wallpaper">Επιλογή ταπετσαρίας</string>
      <string name="chooser_wallpaper">Επιλογή ταπετσαρίας από</string>
      <string name="cloud_app_restore_title">Σε αναμονή</string>
@@ -67,20 +59,16 @@
      <string name="default_folder_title_recommend">Περισσότερες εφαρμογές</string>
      <string name="default_folder_title_security">Σύστημα</string>
      <string name="default_folder_title_tools">Εργαλεία</string>
+     <string name="default_screen_preview_title">Πατήστε για ορισμό προεπιλεγμένης οθόνης</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_screen">Διαγραφή οθόνης</string>
      <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
-     <string name="delete_wallpapers_message">Διαγραφή %1$d επιλεγμένων ταπετσαριών;</string>
      <string name="deselect_all">Αποεπιλογή όλων</string>
      <string name="disable_wallpaper_scroll">Απενεργοποίηση κύλισης ταπετσαρίας</string>
      <string name="download_action">Λήψη</string>
-     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-     <string name="durationformatshort">%2$2d:%5$02d</string>
-     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
      <string name="edit_folder_title">Επεξεργασία ονόματος φακέλου</string>
      <string name="editing_add_widget_tips">Επεξεργασία widgets</string>
      <string name="editing_mode_enter_tip_text">Αγγίξτε για επεξεργασία Αρχικής Οθόνης</string>
-     <string name="editing_mode_title">%1$d επιλεγμένα</string>
      <string name="editing_mode_title_empty">Επιλέξτε κάτι</string>
      <string name="editing_set_screen_layout_cells">Επιλέξτε εφέ διάταξης οθόνης</string>
      <string name="editing_set_transition_effect_tips">Επιλέξτε το εφέ μετάβασης οθόνης</string>
@@ -92,7 +80,6 @@
      <string name="failed_to_delete_temporary">Αποτυχία διαγραφής, δοκιμάστε ξανά.</string>
      <string name="failed_to_drop">Αποτυχία μετακίνησης!</string>
      <string name="failed_to_drop_widget_invalid">Λάθος Widget</string>
-     <string name="failed_to_drop_widget_nospace">Αποτυχία μετακίνησης, χωρίς ελεύθερο χώρο!</string>
      <string name="failed_to_load_image">"Αδυναμία φόρτωσης εικόνας"</string>
      <string name="folder_name">Φάκελος</string>
      <string name="frame_load_failed">Μη έγκυρη κορνίζα!</string>
@@ -115,7 +102,6 @@
      <string name="gadget_clear_button_label">Καθαρισμός εργασιών</string>
      <string name="gadget_clock_12_label">Ρολόι 2x1</string>
      <string name="gadget_clock_14_label">Ρολόι 4x1</string>
-     <string name="gadget_clock_22_label">Ρολόι 2x2</string>
      <string name="gadget_clock_24_label">Ρολόι 4x2</string>
      <string name="gadget_clock_label">Ρολόι</string>
      <string name="gadget_error_text">Πρόβλημα φόρτωσης widget</string>
@@ -166,23 +152,30 @@
      <string name="lock_screen_success_message">Εφαρμόστηκε</string>
      <string name="lock_screen_wallpaper">Ταπετσαρία οθόνης κλειδώματος</string>
      <string name="menu_add">Προσθήκη</string>
+     <string name="menu_auto_fill">Συμπλήρωση κενών κελιών</string>
      <string name="menu_back_desktop">Πίσω στην αρχική οθόνη</string>
+     <string name="menu_cell_setting">Διάταξη Αρχικής οθόνης</string>
      <string name="menu_customize">Προσαρμογή ρυθμίσεων</string>
+     <string name="menu_default_screen_preview">Ορισμός προεπιλεγμένης οθόνης</string>
      <string name="menu_edit">Επεξεργασία widgets</string>
      <string name="menu_exit_scene">Έξοδος από το MiSpace</string>
      <string name="menu_item_add_item">Προσθήκη στην αρχική οθόνη</string>
      <string name="menu_launcher_setting">Ρυθμίσεις Launcher</string>
+     <string name="menu_lock">Κλείδωμα διάταξης Αρχικής οθόνης</string>
+     <string name="menu_more">Περισσότερα</string>
      <string name="menu_picktheme">Επιλογή θέματος</string>
      <string name="menu_reset_scene">Επαναφορά στην προεπιλεγμένη σκηνή</string>
      <string name="menu_search">Αναζήτηση</string>
      <string name="menu_settings">Ρυθμίσεις</string>
      <string name="menu_sort">Ταξινόμηση εικονιδίων εφαρμογών</string>
+     <string name="menu_trans_effect">Εφέ μετάβασης</string>
      <string name="menu_wallpaper">Ταπετσαρία</string>
      <string name="menu_workspace_preview">Προεπισκόπηση</string>
      <string name="mi_wallpaper">Ταπετσαρία MIUI</string>
      <string name="mtzgadget_missing_text">"Δεν είναι πλέον διαθέσιμο. Παρακαλώ προσθέστε ξανά"</string>
      <string name="multi_selecting_tips">Για να πάρετε μια εφαρμογή, πατήστε το εικονίδιό της</string>
      <string name="no_detail_page">Δεν υπάρχουν λεπτομέρειες</string>
+     <string name="no_space_toast">Δεν υπάρχει αρκετός χώρος</string>
      <string name="normal_wallpaper">Ταπετσαρία</string>
      <string name="notification_installed">Επιτυχής εγκατάσταση</string>
      <string name="notification_open_button">Άνοιγμα</string>
@@ -203,8 +196,8 @@
      <string name="photo_load_failed">Αδυναμία φόρτωσης της εικόνας!</string>
      <string name="pref_cell_layout_size">Διάταξη εικονιδίων εφαρμογών</string>
      <string name="pref_enable_drawing_cache_summary">Κλείστε το για απελευθέρωση μνήμης (εμφάνιση lag)</string>
-     <string name="pref_enable_drawing_cache_title">Cache σχεδιασμού</string>
-     <string name="pref_icon_shadow_summary">Θέστε on/off τις σκιές εικονιδίων στην Αρχική οθόνη</string>
+     <string name="pref_enable_drawing_cache_title">Cache γραφικών</string>
+     <string name="pref_icon_shadow_summary">Ενεργοποίηση σκίασης εφαρμογών και εφέ αντανάκλασης συρταριού Αγαπημένων</string>
      <string name="pref_icon_shadow_title">Σκιά εικονιδίου</string>
      <string name="pref_keep_in_memory_summary">Κρατήστε τον launcher ενεργό όταν η μνήμη είναι χαμηλή.</string>
      <string name="pref_keep_in_memory_title">Κράτημα στη μνήμη</string>
@@ -225,7 +218,6 @@
      <string name="reset_scene_prompt">H σκηνή θα επανέλθει στην προεπιλεγμένη διάταξη</string>
      <string name="screen_locked_toast">Η διάταξη Αρχική οθόνης είναι κλειδωμένη</string>
      <string name="screen_number">Η %d οθόνη</string>
-     <string name="scroll_tip_format_when_announce_accessibility">Σελίδα %1$d, %2$d εφαρμογές</string>
      <string name="select_all">Επιλογή όλων</string>
      <string name="select_frame">Κάδρο</string>
      <string name="select_photo">Φωτογραφία</string>
@@ -238,7 +230,7 @@
      <string name="sort_by_abc">Ταξινόμηση ανά όνομα</string>
      <string name="sort_by_frequency">Ταξινόμηση ανά χρήση</string>
      <string name="sort_by_not_defined">Ταξινόμηση από προεπιλογή</string>
-     <string name="start_activity_failed">Αποτυχία εκκίνησης, παρακαλώ δοκιμάστε πάλι</string>
+     <string name="start_activity_failed">Αδυναμία εκκίνησης launcher</string>
      <string name="starting_preset_app">Εκκίνηση</string>
      <string name="status_downloaded">Έχει ληφθεί</string>
      <string name="status_downloading">Λήψη…</string>
@@ -253,7 +245,7 @@
      <string name="transformation_type_classic">Κλασικό</string>
      <string name="transformation_type_classic_no_overshoot">Κλασικό (Χωρίς Υπέρβαση)</string>
      <string name="transformation_type_crossfade">Σβήσιμο</string>
-     <string name="transformation_type_cube">3D Κύβος</string>
+     <string name="transformation_type_cube">Κύβος</string>
      <string name="transformation_type_falldown">Πέφτοντας</string>
      <string name="transformation_type_leftpage">Σελίδα</string>
      <string name="transformation_type_rotate">Περιστροφή</string>
@@ -261,12 +253,8 @@
      <string name="uninstall">Απεγκατάσταση</string>
      <string name="uninstall_dialog_message">Η απεγκατάσταση θα διαγράψει όλα τα δεδομένα</string>
      <string name="uninstall_dialog_title_format">Διαγραφή \"%s\"</string>
-     <string name="uninstall_dialog_title_multi_format" formatted="false">Απεγκατάσταση %s και %d άλλων εφαρμογών;</string>
      <string name="uninstall_result_failed">Αδυναμία απεγκατάστασης %s</string>
-     <string name="uninstall_result_multi_succeeded">Απεγκαταστάθηκαν %1$d εφαρμογές</string>
-     <string name="uninstall_result_other_failed" formatted="false">Αδυναμία απεγκατάστασης %s και %d άλλων εφαρμογών</string>
      <string name="uninstall_result_succeeded">Η εφαρμογή απεγκαταστάθηκε</string>
-     <string name="uninstall_result_two_failed">Αδυναμία απεγκατάστασης %s και 1 άλλης εφαρμογής</string>
      <string name="uninstall_with_xspace_dialog_message">Οι αντίστοιχες διπλές εφαρμογές θα απεγκατασταθούν μαζί με τα δεδομένα τους.</string>
      <string name="uninstall_xspace_dialog_message">Η απεγκατάσταση της διπλής εφαρμογής θα διαγράψει όλα τα δεδομένα της.</string>
      <string name="uninstall_xspace_dialog_title_format">Απεγκατάσταση κλώνου \"%s\"</string>
@@ -284,4 +272,5 @@
      <string name="widget_favorite_contacts_style">Εναλλαγή μεγέθους</string>
      <string name="widget_gadget_player">Μουσική</string>
      <string name="widget_global_search">Παγκόσμια αναζήτηση</string>
+     <string name="widget_quick_function">Γρήγορες λειτουργίες</string>
 </resources>

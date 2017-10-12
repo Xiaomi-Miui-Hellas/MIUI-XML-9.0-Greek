@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">πριν %d λεπτά</item>
-        <item quantity="one">πριν %d λεπτό</item>
-    </plurals>
-    <plurals name="activity_main_update_time_in_one_day">
+     <plurals name="activity_main_update_time_in_one_day">
         <item quantity="other">πριν %d ώρες</item>
         <item quantity="one">πριν %d ώρα</item>
-    </plurals>
-    <plurals name="activity_main_update_time_one_day_ago">
+     </plurals>
+     <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">πριν %d λεπτά</item>
+        <item quantity="one">πριν %d λεπτό</item>
+     </plurals>
+     <plurals name="activity_main_update_time_one_day_ago">
         <item quantity="other">πριν %d ημέρες</item>
         <item quantity="one">πριν %d ημέρα</item>
-    </plurals>
+     </plurals>
+     <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">Πρόβλεψη %1$s ημερών</item>
+        <item quantity="one">Πρόβλεψη %1$s ημέρας</item>
+     </plurals>
+     <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s δευτερόλεπτα μετά τα σχόλια</item>
+        <item quantity="one">%1$s δευτερόλεπτο μετά τα σχόλια</item>
+     </plurals>
+     <plurals name="no_vote_num">
+        <item quantity="other">%1$s άτομα | </item>
+        <item quantity="one">%1$s άτομο | </item>
+     </plurals>
+     <plurals name="total_voted_num_text">
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> άτομα ψήφισαν"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> άτομο ψήφισε"</item>
+     </plurals>
      <plurals name="view_realtime_clear">
         <item quantity="other">Καθαρός</item>
         <item quantity="one">Λιακάδα</item>
+     </plurals>
+     <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s άτομα</item>
+        <item quantity="one"> | %1$s άτομο</item>
      </plurals>
 </resources>

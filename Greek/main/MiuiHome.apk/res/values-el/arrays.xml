@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string-array name="gadget_weather_image">
+     <string-array name="editing_mode_entries">
+        <item>Ταπετσαρία</item>
+        <item>Widgets</item>
+        <item>Ρυθμίσεις</item>
+     </string-array>
+     <string-array name="gadget_weather_image">
         <item>Καθαρός</item>
         <item>Νεφελώδης</item>
         <item>Ομιχλώδης</item>

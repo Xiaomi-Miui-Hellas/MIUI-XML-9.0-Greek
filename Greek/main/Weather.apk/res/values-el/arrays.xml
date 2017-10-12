@@ -36,6 +36,20 @@
         <item>Μέτριο</item>
         <item>Ισχυρό</item>
      </string-array>
+     <string-array name="minute_rain_array">
+        <item>Έντονη</item>
+        <item>Μέτρια</item>
+        <item>Ελαφρά</item>
+     </string-array>
+     <string-array name="pollution_level_desc_arr">
+        <item>Εξαιρετική</item>
+        <item>Καλή</item>
+        <item>Ελαφρά μόλυνση</item>
+        <item>Μέτρια μόλυνση</item>
+        <item>Βαριά μόλυνση</item>
+        <item>Σοβαρή μόλυνση</item>
+        <item>Εκτός ορίων</item>
+     </string-array>
      <string-array name="weather_type">
         <item>Λιακάδα</item>
         <item>Νεφελώδης</item>
@@ -67,13 +81,13 @@
      </string-array>
      <string-array name="wind_direction">
         <item>Βόρειος</item>
-        <item>Βορειοανατολικός</item>
+        <item>Β/Ανατολικός</item>
         <item>Ανατολικός</item>
-        <item>Νοτιοανατολικός</item>
+        <item>Ν/Ανατολικός</item>
         <item>Νότιος</item>
-        <item>Νοτιοδυτικός</item>
+        <item>Ν/Δυτικός</item>
         <item>Δυτικός</item>
-        <item>Βορειοδυτικός</item>
+        <item>Β/Δυτικός</item>
      </string-array>
      <string-array name="wind_direction_simple">
         <item>Β</item>
