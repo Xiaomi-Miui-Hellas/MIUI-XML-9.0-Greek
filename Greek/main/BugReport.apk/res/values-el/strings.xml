@@ -19,7 +19,7 @@
      <string name="close_feedback_main">Απόκρυψη</string>
      <string name="cta_cancel">Άκυρο</string>
      <string name="cta_confirm">OK</string>
-     <string name="cta_dialog_content">Αυτή η εφαρμογή χρειάζεται να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>
+     <string name="cta_dialog_content">Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>
      <string name="cta_dialog_title">Σύνδεση στο Internet</string>
      <string name="cta_not_show_again">Να μην εμφανιστεί ξανά</string>
      <string name="description">Εάν δεν βλέπετε το πρόβλημα στα κοινά σφάλματα, περιγράψτε το εδώ (στα Αγγλικά)</string>

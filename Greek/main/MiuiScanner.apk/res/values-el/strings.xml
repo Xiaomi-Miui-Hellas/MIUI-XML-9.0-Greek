@@ -65,7 +65,7 @@
      <string name="flash_lable">Φλας</string>
      <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
      <string name="import_contact">Εισαγωγή επαφής</string>
-     <string name="impunity_declaration_content">Αυτή η εφαρμογή χρειάζεται να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>
+     <string name="impunity_declaration_content">Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>
      <string name="impunity_declaration_negative_text">Έξοδος</string>
      <string name="impunity_declaration_positive_text">Επίτρεψε</string>
      <string name="impunity_declaration_title">Όροι Χρήσης</string>

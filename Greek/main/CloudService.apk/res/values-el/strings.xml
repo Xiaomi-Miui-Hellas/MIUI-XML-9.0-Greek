@@ -115,7 +115,7 @@
      <string name="header_find_device_settings">Εύρεση συσκευής</string>
      <string name="i_know">ΟΚ</string>
      <string name="input_password_hint">Εισάγετε τον κωδικό πρόσβασης</string>
-     <string name="internet_access_dspt">Αυτή η εφαρμογή χρειάζεται να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>
+     <string name="internet_access_dspt">Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>
      <string name="license_host_unreachable">Αδυναμία σύνδεσης στο δίκτυο. Για να δείτε αυτή την πληροφορία, πηγαίνετε τώρα στο %s.</string>
      <string name="loading">Φόρτωση…</string>
      <string name="loading_hint">Φόρτωση</string>
