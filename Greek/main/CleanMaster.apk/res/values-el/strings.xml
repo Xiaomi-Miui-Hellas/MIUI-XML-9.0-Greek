@@ -400,7 +400,7 @@
      <string name="title_delete_deepclean">Διαγραφή</string>
      <string name="title_delete_large_file">Διαγραφή αυτού του αρχείου;</string>
      <string name="title_of_app_manage">Εφαρμογές</string>
-     <string name="title_of_auto_launch_manage">Αυτόματη εκκίνηση</string>
+     <string name="title_of_auto_launch_manage">Αυτόματη έναρξη</string>
      <string name="title_of_cloud_service">Υπηρεσίες Cloud</string>
      <string name="title_of_garbage_cloud_scan">Σάρωση Cloud</string>
      <string name="title_of_garbage_data_set">Ενημερώσεις βάσης Cleaner</string>

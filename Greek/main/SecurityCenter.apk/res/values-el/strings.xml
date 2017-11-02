@@ -21,6 +21,7 @@
      <string name="access_control_need_password">"Επιτυχής προσθήκη %s
 "</string>
      <string name="access_control_need_to_unlock_nofingerprint">Εισάγετε κωδικό ξεκλειδώματος</string>
+     <string name="accessibility_service_description" />
      <string name="action_button_text_100">Βελτιστοποίηση</string>
      <string name="action_button_text_60">Διόρθωση</string>
      <string name="action_button_text_60_80">Διόρθωση</string>
@@ -87,6 +88,7 @@
      <string name="antivirus_choose_engine_title">Βάση ιών</string>
      <string name="antivirus_longtime_no_update">Φαίνεται ότι η βάση ιών είναι παλιά. Οι τακτικές ενημερώσεις συμβάλλουν στην επίτευξη καλύτερων αποτελεσμάτων σάρωσης. Να επιτρέπεται στην Ασφάλεια η σύνδεση στο διαδίκτυο και η ενημέρωση της βάσης ιών;</string>
      <string name="antivirus_longtime_no_update1">Φαίνεται ότι η βάση ιών είναι παλιά. Οι τακτικές ενημερώσεις συμβάλλουν στην επίτευξη καλύτερων αποτελεσμάτων σάρωσης. Ενημερώστε τη βάση ιών και δοκιμάστε ξανά.</string>
+     <string name="antivirus_main_activity_back">Επιστροφή από σάρωση ασφαλείας</string>
      <string name="antivirus_monitor_btn_text_clean_risk">Διαγραφή επικίνδυνων εφαρμογών</string>
      <string name="antivirus_monitor_btn_text_clean_virus">Διαγραφή ιών</string>
      <string name="antivirus_monitor_clean_tips">Διαγράφηκαν %s στοιχεία</string>
@@ -133,6 +135,7 @@
      <string name="app_manager_back">Πίσω</string>
      <string name="app_manager_bipartition">Διπλές εφαρμογές</string>
      <string name="app_manager_card_permission_title">Δικαιώματα</string>
+     <string name="app_manager_clear_cache">Καθαρισμός cache</string>
      <string name="app_manager_clear_data_dlg_message">Όλα τα δεδομένα αυτής της εφαρμογής θα διαγραφούν μόνιμα. Αυτό περιλαμβάνει όλα τα αρχεία, ρυθμίσεις, λογαριασμούς, βάσεις δεδομένων κλπ.</string>
      <string name="app_manager_clear_data_dlg_title">Διαγραφή δεδομένων εφαρμογής;</string>
      <string name="app_manager_clear_failed_dlg_message">Αδυναμία καθαρισμού δεδομένων εφαρμογής.</string>
@@ -142,22 +145,104 @@
      <string name="app_manager_default_open">Άνοιγμα από προεπιλογή</string>
      <string name="app_manager_default_open_summary">Επιλέξατε της εκκίνηση αυτής της εφαρμογής από προεπιλογή για κάποιες ενέργειες.</string>
      <string name="app_manager_default_open_title">Καθαρισμός προεπιλογών</string>
+     <string name="app_manager_defaults_setting">Προεπιλογές</string>
      <string name="app_manager_details_electric_title">Μπαταρία</string>
      <string name="app_manager_details_storage_title">Αποθ.χώρος</string>
      <string name="app_manager_details_traffic_title">Χρήση δεδομένων αυτό το μήνα</string>
      <string name="app_manager_disable">Να μην επιτρέπεται</string>
+     <string name="app_manager_disable_dlg_text">Εάν απενεργοποιήσετε αυτήν την εφαρμογή, άλλες εφαρμογές ενδέχεται να μην λειτουργούν πλέον όπως προβλέπεται.</string>
+     <string name="app_manager_disable_dlg_title">Απενεργοποίηση προεγκατεστημένης εφαρμογής;</string>
+     <string name="app_manager_disable_text">Απενεργοποίηση</string>
+     <string name="app_manager_disabled">Απενεργοποιήθηκε</string>
      <string name="app_manager_dlg_cancel">Ακύρωση</string>
      <string name="app_manager_dlg_ok">OK</string>
+     <string name="app_manager_enable_text">Ενεργοποίηση</string>
+     <string name="app_manager_enabled">Ενεργοποιήθηκε</string>
      <string name="app_manager_factory_reset">Απεγκατάσταση ενημερώσεων</string>
      <string name="app_manager_factory_reset_dlg_msg">Όλες οι ενημερώσεις αυτής της εφαρμογής συστήματος Android θα απεγκατασταθούν.</string>
      <string name="app_manager_factory_reset_dlg_title">Απεγκατάσταση ενημερώσεων;</string>
+     <string name="app_manager_force_stop_dlg_text">Εάν κάνετε αναγκαστική διακοπή σε μία εφαρμογή, ίσως να μην συμπεριφέρεται σωστά.</string>
+     <string name="app_manager_force_stop_dlg_title">Αναγκαστική διακοπή;</string>
+     <string name="app_manager_globel_other_perm_title">Άλλα δικαιώματα</string>
+     <string name="app_manager_globel_perm_summary">Διαχείριση δικαιωμάτων σχετικά με τοποθεσία, αποθήκευση, τηλέφωνο, μηνύματα και επαφές.</string>
+     <string name="app_manager_globel_perm_title">Δικαιώματα εφαρμογών</string>
+     <string name="app_manager_have_not_consume">Τίποτα</string>
+     <string name="app_manager_hide_system_server">Απόκρυψη υπηρεσιών συστήματος</string>
+     <string name="app_manager_instruction">Οδηγίες</string>
+     <string name="app_manager_loading_data">Φόρτωση δεδομένων…</string>
+     <string name="app_manager_manage_space">Διαχείριση χώρου</string>
+     <string name="app_manager_menu_clear_data">Καθαρισμός δεδομένων</string>
+     <string name="app_manager_net_control_title">Περιορισμός χρήσης δεδομένων</string>
+     <string name="app_manager_net_mobile">Δεδομένα</string>
+     <string name="app_manager_net_wifi">Wi‑Fi</string>
+     <string name="app_manager_not_record">Δεν βρέθηκαν εφαρμογές που να χρειάζονται δικαιώματα</string>
+     <string name="app_manager_notify_bar">Εικονίδια</string>
+     <string name="app_manager_notify_floating">Αναδυόμενες ειδοποιήσεις</string>
+     <string name="app_manager_notify_keyguard">Οθόνη κλειδώματος</string>
+     <string name="app_manager_perm">Δικαιώματα</string>
+     <string name="app_manager_permission_manager_title">Δικαιώματα</string>
+     <string name="app_manager_permission_notify_title">Ειδοποιήσεις</string>
+     <string name="app_manager_permission_power_saving_summary">Εξοικ.μπαταρίας MIUI</string>
+     <string name="app_manager_permission_power_saving_title">Εξοικ.μπαταρίας</string>
+     <string name="app_manager_permission_startself_summary">Οι εφαρμογές που ξεκινούν αυτόματα καταλαμβάνουν RAM και εξαντλούν γρηγορότερα τη μπαταρία</string>
+     <string name="app_manager_permission_startself_title">Αυτόματη έναρξη</string>
+     <string name="app_manager_permission_summary_reject">Περιορισμός όλων</string>
+     <string name="app_manager_powerkeeper_miui_auto">Εξοικ.μπαταρίας MIUI</string>
+     <string name="app_manager_powerkeeper_no_bg">Περιορισμός δραστηριότητας παρασκηνίου</string>
+     <string name="app_manager_powerkeeper_no_restrict">Χωρίς περιορισμούς</string>
+     <string name="app_manager_powerkeeper_restrict_bg">Περιορισμός εφαρμογών παρασκηνίου</string>
+     <string name="app_manager_pref_ads">Συστάσεις</string>
+     <string name="app_manager_rebide_wakepath">Περιορισμός</string>
+     <string name="app_manager_reduce_wakepath_dialog">Ελαχιστοποίηση αλυσιδωτής έναρξης</string>
+     <string name="app_manager_reduce_wakepath_summary">Ο περιορισμός της αυτόματης έναρξης θα ελαχιστοποιήσει την αλυσιδωτή έναρξη. Περιορισμός αυτόματης έναρξης για το %s;</string>
+     <string name="app_manager_reject_count_over">Αποκλείστηκε 100000+ φορές</string>
+     <string name="app_manager_reset_app_preferences">Επαναφορά προτιμήσεων εφαρμογής</string>
+     <string name="app_manager_reset_app_preferences_button">Επαναφορά εφαρμογών</string>
+     <string name="app_manager_reset_app_preferences_desc">"Αυτό θα επαναφέρει όλες τις προτιμήσεις για:
+
+ "<li>Απενεργοποιημένες εφαρμογές</li>"
+ "<li>Απενεργοποιημένες ειδοποιήσεις εφαρμογών</li>"
+ "<li>Προεπιλεγμένες εφαρμογές για ενέργειες</li>"
+ "<li>Περιορισμούς δεδομένων παρασκηνίου εφαρμογών</li>"
+
+ Δεν θα χάσετε δεδομένα εφαρμογών."</string>
+     <string name="app_manager_reset_app_preferences_title">Επαναφορά προτιμήσεων εφαρμογής;</string>
+     <string name="app_manager_show_all_apps">Εμφάνιση όλων των εφαρμογών</string>
+     <string name="app_manager_show_detail_infos">Προβολή όλων</string>
+     <string name="app_manager_sort">Ταξινόμηση κατά</string>
+     <string name="app_manager_start_by">Ξεκίνησε από %s</string>
+     <string name="app_manager_start_count_over">100000+ φορές</string>
+     <string name="app_manager_stop_wakepath_dialog_summary">Απεγκατάσταση %s για περιορισμό αλυσιδωτής έναρξης;</string>
+     <string name="app_manager_stop_wakepath_dialog_title">Περιορισμός αλυσιδωτής έναρξης</string>
+     <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Η απεγκατάσταση αυτής της εφαρμογής θα περιορίσει την αλυσιδωτή έναρξη. Σχετικές Διπλές εφαρμογές θα απεγκατασταθούν επίσης. Απεγκατάσταση %s;</string>
+     <string name="app_manager_stop_wakepath_success">Επιτυχής περιορισμός</string>
+     <string name="app_manager_stop_wp_dialog_cancel">Άκυρο</string>
+     <string name="app_manager_stop_wp_dialog_uninstall">Απεγκατάσταση</string>
+     <string name="app_manager_system_mobile_disable">Απενεργοποίηση δεδομένων</string>
+     <string name="app_manager_title">Διαχείριση εφαρμογών</string>
+     <string name="app_manager_uninstall_protected_dlg_msg">Η απεγκατάσταση εφαρμογών συστήματος ενδέχεται να αποτρέψει τη σωστή λειτουργία ορισμένων στοιχείων του MIUI. Απεγκατάσταση ούτως ή άλλως;</string>
+     <string name="app_manager_uninstall_protected_dlg_title">Απεγκατάσταση εφαρμογών συστήματος</string>
+     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Οι αντίστοιχες διπλές εφαρμογές θα καταργηθούν μαζί με δεδομένα εφαρμογών.</string>
+     <string name="app_manager_uninstall_xspace_app_dlg_msg">Η απεγκατάσταση της διπλής εφαρμογής θα διαγράψει όλα τα δεδομένα της.</string>
+     <string name="app_manager_uninstall_xspace_app_dlg_title">Απεγκατάσταση διπλής εφαρμογής;</string>
+     <string name="app_manager_unstall_application">Απεγκατάσταση</string>
+     <string name="app_manager_wake_path_card_title">Ιστορικό αλυσιδωτής έναρξης (2 ημέρες)</string>
+     <string name="app_manager_wakepath_dialog_buttontext">Το κατάλαβα</string>
+     <string name="app_manager_wakepath_dialog_summary">Η αλυσιδωτή έναρξη συμβαίνει όταν μια εφαρμογή ξεκινήσει μια άλλη εφαρμογή στο παρασκήνιο. Μπορεί να αδειάσει τη μπαταρία και να μειώσει την απόδοση του συστήματος. Το MIUI κανονικά θα εμποδίσει την αλυσιδωτή έναρξη.</string>
+     <string name="app_manager_wakepath_dialog_title">Σχετικά με την αλυσιδωτή έναρξη</string>
+     <string name="app_managere_not_have_app">Κενό</string>
+     <string name="app_manger_des_separator">", "</string>
      <string name="app_mobile">Κινητή</string>
      <string name="app_name">Κλείδωμα Εφαρμογής</string>
      <string name="app_name_na">Χρήση δεδομένων</string>
      <string name="app_name_securitycenter">Ασφάλεια</string>
      <string name="app_not_installed_toast">Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας.</string>
+     <string name="app_usage_never">Καμία χρήση</string>
+     <string name="app_usage_recently">Χρησιμοποιήθηκε πρόσφατα</string>
      <string name="app_version">Έκδοση</string>
      <string name="app_wifi">Wi‑Fi</string>
+     <string name="application_item_already_permission">Επιτράπηκε</string>
+     <string name="application_item_disable">Περιορίστηκε</string>
      <string name="apps_item_sign_dialog_content">Η υπογραφή του \"%s\" είναι διαφορετική από την έκδοση στο App Store. Διαγραφή της εφαρμογής και εγκατάσταση της επίσημης έκδοσης; Σημείωση: εγκαθιστώντας μια εφαρμογή με αντιφατική υπογραφή μπορεί να οδηγήσει σε απώλεια δεδομένων.</string>
      <string name="apps_item_sign_dialog_title">Εγκατάσταση επίσημης έκδοσης εφαρμογής</string>
      <string name="apps_item_sign_install_button_text">Αντικατάσταση</string>
@@ -958,7 +1043,7 @@
      <string name="pm_auto_start_by_other_app">Επιτρέψτε την εκκίνηση της εφαρμογής από άλλες εφαρμογές</string>
      <string name="pm_auto_start_by_system">Έναρξη εφαρμογών</string>
      <string name="pm_auto_start_by_system_event">Επιτρέψτε στις εφαρμογές να ξεκινάνε αυτόματα</string>
-     <string name="pm_auto_start_proc_is_running">Τρέχουν</string>
+     <string name="pm_auto_start_proc_is_running">Εκτελείται</string>
      <string name="pm_remember_choice">Απομνημόνευση επιλογής</string>
      <string name="pm_root_success_notification_infomation">Βεβαιωθείτε ότι κατανοείτε τους κινδύνους σχετικά με την πρόσβαση root</string>
      <string name="pm_root_success_notification_title">Πρόσβαση root ενεργή</string>
@@ -1456,7 +1541,7 @@
      <string name="title_mms_yes">Ενεργό φιλτράρισμα μηνυμάτων</string>
      <string name="title_network_switch">Πρόσβαση στο Internet</string>
      <string name="title_of_app_manage">Εφαρμογές</string>
-     <string name="title_of_auto_launch_manage">Αυτόματη εκκίνηση</string>
+     <string name="title_of_auto_launch_manage">Αυτόματη έναρξη</string>
      <string name="title_payment_risk">Βρέθηκαν κίνδυνοι πληρωμών</string>
      <string name="title_permission_no">Ανενεργή η χορήγηση άδειας</string>
      <string name="title_permission_root">Προειδοποίηση πρόσβασης root</string>

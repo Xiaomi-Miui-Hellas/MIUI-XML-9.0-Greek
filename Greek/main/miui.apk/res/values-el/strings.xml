@@ -4,7 +4,7 @@
      <string name="abc_action_bar_up_description">Πλοήγηση προς τα πάνω</string>
      <string name="action_mode_deselect_all">Αποεπιλογή</string>
      <string name="action_mode_select_all">Επιλογή όλων</string>
-     <string name="action_mode_title_empty">Επιλογή αντικειμένων</string>
+     <string name="action_mode_title_empty">Επιλογή στοιχείων</string>
      <string name="activate">Ενεργοποίηση</string>
      <string name="activate_fail_notification_title">Επανενεργοποίηση συγχρονισμού</string>
      <string name="activating">Ενεργοποίηση…</string>

@@ -404,7 +404,7 @@
      <string name="facetan">Μαύρισμα</string>
      <string name="fail_hint">Αποτυχία ενέργειας.</string>
      <string name="fail_init_gallery_db_helper">Η εφαρμογή τερματίστηκε, αδύνατο το άνοιγμα της βάσης δεδομένων, ο αποθ.χώρος είναι γεμάτος.</string>
-     <string name="fail_to_download_n_items">Δεν ήταν δυνατή η λήψη %s αντικειμένων</string>
+     <string name="fail_to_download_n_items">Δεν ήταν δυνατή η λήψη %s στοιχείων</string>
      <string name="fail_to_pick_email">Δεν επιλέξατε σωστό E-mail</string>
      <string name="fail_to_sync_album">Αποτυχία συγχρονισμού του άλμπουμ με τον διακομιστή. κάντε έλεγχο στην σύνδεσή σας!</string>
      <string name="family_member_invitation_text">Άλλο μέλος της οικογένειας</string>
