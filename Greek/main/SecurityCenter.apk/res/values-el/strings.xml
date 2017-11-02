@@ -184,7 +184,7 @@
      <string name="app_manager_permission_notify_title">Ειδοποιήσεις</string>
      <string name="app_manager_permission_power_saving_summary">Εξοικ.μπαταρίας MIUI</string>
      <string name="app_manager_permission_power_saving_title">Εξοικ.μπαταρίας</string>
-     <string name="app_manager_permission_startself_summary">Οι εφαρμογές που ξεκινούν αυτόματα καταλαμβάνουν RAM και εξαντλούν γρηγορότερα τη μπαταρία</string>
+     <string name="app_manager_permission_startself_summary">Οι εφαρμογές που ξεκινούν αυτόματα καταλαμβάνουν μνήμη και εξαντλούν γρηγορότερα τη μπαταρία</string>
      <string name="app_manager_permission_startself_title">Αυτόματη έναρξη</string>
      <string name="app_manager_permission_summary_reject">Περιορισμός όλων</string>
      <string name="app_manager_powerkeeper_miui_auto">Εξοικ.μπαταρίας MIUI</string>
