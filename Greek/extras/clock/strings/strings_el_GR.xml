@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources> 
+<resources>
     <string name="date_time">EEEE d MMM</string>
     <string name="date_time_12">EEEE d MMM</string>
-    <string name="language">el</string>
     <string name="desc_date_format">EEEE, dd MMM</string>
+    <string name="desc_date_format_12">EEEE, dd MMM</string>
     <string name="desc_time">'τρέχουσα ώρα' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', διπλό πάτημα για το άνοιγμα της εφαρμογής'</string>
-    <string name="desc_time_1">'τρέχουσα ώρα' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', διπλό πάτημα για το άνοιγμα της εφαρμογής'</string>
+    <string name="weather_type_null">'Δεν υπάρχουν δεδομένα'</string>
     <string name="weather_type_0">Καθαρός</string>
     <string name="weather_type_1">Νεφελώδης</string>
     <string name="weather_type_2">Ομιχλώδης</string>
@@ -31,4 +31,5 @@
     <string name="weather_type_22">Χαλάζι</string>
     <string name="weather_type_23">Αιωρούμενη σκόνη</string>
     <string name="weather_type_24">Ομίχλη</string>
+    <string name="weather_type_25">Παγωμένη βροχή</string>
 </resources>
