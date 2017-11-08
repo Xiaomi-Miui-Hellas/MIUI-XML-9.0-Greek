@@ -51,7 +51,7 @@
         <item>Εκτός ορίων</item>
      </string-array>
      <string-array name="weather_type">
-        <item>Λιακάδα</item>
+        <item>Καθαρός</item>
         <item>Νεφελώδης</item>
         <item>Νεφελώδης</item>
         <item>Ομιχλώδης</item>
@@ -76,7 +76,7 @@
         <item>Χαλάζι</item>
         <item>Σκόνη</item>
         <item>Ομίχλη</item>
-        <item>Παγωμένη Βροχή</item>
+        <item>Παγωμένη βροχή</item>
         <item></item>
      </string-array>
      <string-array name="wind_direction">
