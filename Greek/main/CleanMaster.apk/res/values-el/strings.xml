@@ -83,8 +83,8 @@
      <string name="buy_immediately">Αγορά</string>
      <string name="buy_traffic_pack">Αγοράστε περισσότερα δεδομένα</string>
      <string name="byteShort">B</string>
-     <string name="cache_title_empty_folder">Άδειασμα φακέλου (%d)</string>
-     <string name="cache_title_empty_folder2">Άδειασμα φακέλου</string>
+     <string name="cache_title_empty_folder">Κενός φάκελος (%d)</string>
+     <string name="cache_title_empty_folder2">Κενός φάκελος</string>
      <string name="cache_title_system_cache">Cache συστήματος</string>
      <string name="cached_garbage">Cache</string>
      <string name="call_log">Αρχεία κλήσεων</string>
