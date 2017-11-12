@@ -109,7 +109,7 @@
      <string name="feedback_result_fail_no_choice">Επιλέξτε τις τρέχουσες συνθήκες καιρού</string>
      <string name="feedback_result_success">Επιτυχής υποβολή. Ευχαριστούμε για τα σχόλιά σας.</string>
      <string name="feedback_sand">Άμμος</string>
-     <string name="feedback_sunny">Λιακάδα</string>
+     <string name="feedback_sunny">Καθαρός</string>
      <string name="first_start_network_msg">Για να πάρετε τις πληροφορίες καιρού, θα πρέπει να συνδεθείτε στο Internet.</string>
      <string name="first_start_network_title">Ειδοποίηση σύνδεσης</string>
      <string name="global_aqi" />
