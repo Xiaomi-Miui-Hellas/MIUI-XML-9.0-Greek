@@ -34,6 +34,14 @@
         <item>Αφύπνιση σε %2$s και %3$s</item>
         <item>Αφύπνιση σε %1$s , %2$s και %3$s</item>
      </string-array>
+     <string-array name="aqi_value">
+        <item>Καλός</item>
+        <item>Ικανοποιητικός</item>
+        <item>Μέτρια μόλυνση</item>
+        <item>Κακός</item>
+        <item>Πολύ κακός</item>
+        <item>Σοβαρή ρύπανση</item>
+     </string-array>
      <string-array name="auto_silence_entries">
         <item>Ανενεργό</item>
         <item>1 λεπτό</item>
@@ -67,5 +75,15 @@
         <item>Καμία ενέργεια</item>
         <item>Αναβολή αφύπνισης</item>
         <item>Διακοπή αφύπνισης</item>
+     </string-array>
+     <string-array name="weather_tips_value">
+        <item>Μειώστε τις υπαίθριες δραστηριότητες</item>
+        <item>Οι δρόμοι είναι ολισθηροί</item>
+        <item>Ο καιρός είναι θυελλώδης. Να προσέχετε!</item>
+        <item>Ο αέρας είναι μολυσμένος. Φορέστε μάσκα!</item>
+        <item>Πάρτε μια ομπρέλα όταν βγείτε έξω</item>
+        <item>Να είστε προσεκτικοί στο δρόμο</item>
+        <item>Πλησιάζει αμμοθύελλα. Φορέστε μάσκα!</item>
+        <item>Καλή σας ημέρα!</item>
      </string-array>
 </resources>
