@@ -59,9 +59,18 @@
      <string name="add_account_button_label">Προσθήκη λογαριασμού</string>
      <string name="add_account_label">Προσθήκη λογαριασμού</string>
      <string name="aerr_application">Δυστυχώς, η εφαρμογή %1$s έχει σταματήσει.</string>
+     <string name="aerr_application_repeated">Το %1$s σταματά επανειλημμένα</string>
+     <string name="aerr_close">Κλείσιμο</string>
+     <string name="aerr_close_app">Κλείσιμο εφαρμογής</string>
+     <string name="aerr_mute">Σίγαση μέχρι την επανεκκίνηση της συσκευής</string>
      <string name="aerr_process">Δυστυχώς, η διαδικασία %1$s έχει σταματήσει.</string>
+     <string name="aerr_process_repeated">Το %1$s σταματά επανειλημμένα</string>
+     <string name="aerr_report">Αποστολή σχολίωνS</string>
+     <string name="aerr_restart">Άνοιγμα της εφαρμογής ξανά</string>
      <string name="aerr_title" />
+     <string name="aerr_wait">Αναμονή</string>
      <string name="allow">Να επιτρέπεται</string>
+     <string name="allow_button">Επίτρεψε</string>
      <string name="alwaysUse">Χρήση από προεπιλογή για αυτήν την ενέργεια.</string>
      <string name="android_preparing_apk">Προετοιμασία %1$s.</string>
      <string name="android_start_title">Εκκίνηση Android…</string>
@@ -69,6 +78,8 @@
      <string name="android_upgrading_apk">Βελτιστοποίηση της εφαρμογής %1$d από %2$d.</string>
      <string name="android_upgrading_complete">Ολοκλήρωση εκκίνησης.</string>
      <string name="android_upgrading_fstrim">Βελτιστοποίηση αποθηκευτικού χώρου.</string>
+     <string name="android_upgrading_notification_body">Ορισμένες εφαρμογές ενδέχεται να μην λειτουργούν σωστά μέχρι να ολοκληρωθεί η αναβάθμιση</string>
+     <string name="android_upgrading_notification_title">Το Android αναβαθμίζεται</string>
      <string name="android_upgrading_starting_apps">Έναρξη εφαρμογών.</string>
      <string name="android_upgrading_title">Το Android αναβαθμίζεται…</string>
      <string name="anr_activity_application">"Η εφαρμογή %2$s δεν ανταποκρίνεται.
@@ -82,10 +93,13 @@
 
 Θέλετε να την κλείσετε;"</string>
      <string name="anr_title" />
+     <string name="app_info">Πληροφορίες εφαρμογής</string>
      <string name="app_no_restricted_accounts">Αυτή η εφαρμογή δεν υποστηρίζει λογαριασμούς για περιορισμένα προφίλ</string>
      <string name="app_not_found">Δεν υπάρχει εφαρμογή για τη διαχείριση αυτής της ενέργειας</string>
      <string name="app_running_notification_text">Αγγίξτε για περισσότερες πληροφορίες ή για να διακόψετε την εκτέλεση της εφαρμογής.</string>
      <string name="app_running_notification_title">Η εφαρμογή %1$s εκτελείται</string>
+     <string name="audit_safemode_notification">Κάντε επαναφορά εργοστασιακών ρυθμίσεων για χρήση αυτής της συσκευής χωρίς περιορισμούς</string>
+     <string name="audit_safemode_notification_details">Πατήστε για να μάθετε περισσότερα.</string>
      <string name="autofill_address_name_separator">" "</string>
      <string name="autofill_address_summary_format">$1$2$3</string>
      <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -112,14 +126,22 @@
      <string name="beforeOneMonthDurationPast">Παλαιότερα από 1 μήνα</string>
      <string name="bluetooth_a2dp_audio_route_name">Ήχος Bluetooth</string>
      <string name="bugreport_message">Θα συλλέξει πληροφορίες σχετικά με την τρέχουσα κατάσταση της συσκευής σας και θα τις στείλει μέσω μηνύματος ηλεκτρονικού ταχυδρομείου. Απαιτείται λίγος χρόνος για τη σύνταξη της αναφοράς σφάλματος και την αποστολή της. Κάντε λίγη υπομονή.</string>
+     <string name="bugreport_option_full_summary">Χρησιμοποιήστε αυτήν την επιλογή για την ελάχιστη δυνατή παρεμβολή συστήματος όταν η συσκευή σας δεν ανταποκρίνεται ή είναι πολύ αργή ή όταν χρειάζεστε όλες τις ενότητες αναφορών. Δεν σας επιτρέπει να προσθέσετε περισσότερες λεπτομέρειες ή να τραβήξετε επιπρόσθετα στιγμιότυπα οθόνης.</string>
+     <string name="bugreport_option_full_title">Πλήρης αναφορά</string>
+     <string name="bugreport_option_interactive_summary">Χρησιμοποιήστε αυτή την επιλογή στις περισσότερες περιπτώσεις. Σας επιτρέπει να παρακολουθείτε την πρόοδο της αναφοράς, να προσθέσετε περισσότερες λεπτομέρειες σχετικά με το πρόβλημα και να τραβήξετε στιγμιότυπα οθόνης. Μπορεί να παραλείψει ορισμένες ενότητες με σπάνια χρήση για τις οποίες απαιτείται μεγάλο χρονικό διάστημα για τη δημιουργία μιας αναφοράς.</string>
+     <string name="bugreport_option_interactive_title">Διαδραστική αναφορά</string>
      <string name="bugreport_title">Λήψη αναφοράς σφάλματος</string>
      <string name="byteShort">B</string>
      <string name="cancel">Ακύρωση</string>
      <string name="candidates_style"><u>υποψήφιοι</u></string>
+     <string name="capability_desc_canControlMagnification">Ελέγξτε το επίπεδο ζουμ και τη θέση της οθόνης.</string>
+     <string name="capability_desc_canPerformGestures">Μπορεί να πατήσει, να σύρει, να πιάσει και να εκτελέσει άλλες χειρονομίες.</string>
      <string name="capability_desc_canRequestEnhancedWebAccessibility">Ενδέχεται να εγκατασταθούν σενάρια για τη βελτίωση της πρόσβασης στο περιεχόμενο της εφαρμογής.</string>
      <string name="capability_desc_canRequestFilterKeyEvents">Περιλαμβάνει προσωπικά δεδομένα, όπως είναι οι αριθμοί πιστωτικών καρτών και οι κωδικοί πρόσβασης.</string>
      <string name="capability_desc_canRequestTouchExploration">Τα στοιχεία που αγγίζετε θα εκφωνούνται και η εξερεύνηση της οθόνης μπορεί να γίνει με κινήσεις.</string>
      <string name="capability_desc_canRetrieveWindowContent">Έλεγχος του περιεχομένου ενός παραθύρου με το οποίο αλληλεπιδράτε.</string>
+     <string name="capability_title_canControlMagnification">Έλεγχος μεγέθυνσης οθόνης</string>
+     <string name="capability_title_canPerformGestures">Εκτέλεση χειρονομιών</string>
      <string name="capability_title_canRequestEnhancedWebAccessibility">Ενεργοποίηση της βελτιωμένης προσβασιμότητας ιστού</string>
      <string name="capability_title_canRequestFilterKeyEvents">Παρακολούθηση του κειμένου που πληκτρολογείτε</string>
      <string name="capability_title_canRequestTouchExploration">Ενεργοποίηση της \"Εξερεύνησης με άγγιγμα\"</string>
@@ -128,6 +150,11 @@
      <string name="capital_on">Ενεργό</string>
      <string name="car_mode_disable_notification_message">Αγγίξτε για έξοδο από τη λειτουργία αυτοκινήτου.</string>
      <string name="car_mode_disable_notification_title">Η λειτουργία αυτοκινήτου είναι ενεργοποιημένη</string>
+     <string name="carrier_app_dialog_button">ΛΗΨΗ ΕΦΑΡΜΟΓΗΣ</string>
+     <string name="carrier_app_dialog_message">Για να λειτουργήσει σωστά η νέα σας κάρτα SIM, θα πρέπει να εγκαταστήσετε και να ανοίξετε μια εφαρμογή από τον πάροχό σας.</string>
+     <string name="carrier_app_dialog_not_now">ΟΧΙ ΤΩΡΑ</string>
+     <string name="carrier_app_notification_text">Πατήστε για ρύθμιση</string>
+     <string name="carrier_app_notification_title">Τοποθετήθηκε νέα SIM</string>
      <string name="cfTemplateForwarded">{0}: {1}</string>
      <string name="cfTemplateForwardedTime">{0}: {1} μετά από {2} δευτερόλεπτα</string>
      <string name="cfTemplateNotForwarded">{0}: Δεν προωθήθηκε</string>
@@ -138,6 +165,7 @@
      <string name="choose_account_label">Επιλέξτε λογαριασμό</string>
      <string name="chooser_wallpaper">Αλλαγή ταπετσαρίας</string>
      <string name="clearDefaultHintMsg">Εκκαθάριση προεπιλογής στις Ρυθμίσεις συστήματος > Εφαρμογές > Ληφθείσες.</string>
+     <string name="close_button_text">Κλείσιμο</string>
      <string name="common_last_name_prefixes" />
      <string name="common_name">Κοινό όνομα:</string>
      <string name="configure_input_methods">Ρύθμιση μεθόδων εισαγωγής</string>
@@ -148,9 +176,13 @@
      <string name="continue_to_enable_accessibility">Αγγίξτε παρατεταμένα με δύο δάχτυλα για να ενεργοποιήσετε τη λειτουργία προσβασιμότητας.</string>
      <string name="copy">Αντιγραφή</string>
      <string name="copyUrl">Αντιγραφή διεύθυνσης URL</string>
+     <string name="country_selection_title">Προτίμηση περιοχής</string>
      <string name="create_contact_using">"Δημιουργία επαφής
 με τη χρήση του %s"</string>
      <string name="cut">Αποκοπή</string>
+     <string name="data_saver_description">Προκειμένου να μειωθεί η χρήση δεδομένων, η Εξοικονόμηση δεδομένων αποτρέπει σε ορισμένες εφαρμογές την αποστολή ή λήψη δεδομένων στο παρασκήνιο. Μια εφαρμογή που χρησιμοποιείτε αυτήν τη στιγμή μπορεί να έχει πρόσβαση στα δεδομένα αλλά με μικρότερη συχνότητα. Αυτό για παράδειγμα μπορεί να σημαίνει ότι οι εικόνες μπορεί να μην εμφανίζονται μέχρι να τις πατήσετε.</string>
+     <string name="data_saver_enable_button">Ενεργοποίηση</string>
+     <string name="data_saver_enable_title">Ενεργοποίηση Εξοικ.δεδομένων;</string>
      <string name="data_usage_3g_limit_snoozed_title">Υπέρβαση ορίου δεδομένων 2G-3G</string>
      <string name="data_usage_3g_limit_title">Φτάσατε το όριο χρήσης δεδομένων 2G-3G</string>
      <string name="data_usage_4g_limit_snoozed_title">Υπέρβαση ορίου δεδομένων 4G</string>
@@ -180,6 +212,8 @@
      <string name="day">ημέρα</string>
      <string name="days">ημέρες</string>
      <string name="decline">Απόρριψη</string>
+     <string name="decline_remote_bugreport_action">ΑΠΟΡΡΙΨΗ</string>
+     <string name="defaultVoiceMailAlphaTag">Τηλεφωνητής</string>
      <string name="default_audio_route_category_name">Σύστημα</string>
      <string name="default_audio_route_name">Τηλέφωνο</string>
      <string name="default_audio_route_name_dock_speakers">Ηχεία βάσης σύνδεσης</string>
@@ -190,6 +224,7 @@
      <string name="deleteText">Διαγραφή</string>
      <string name="deleted_key">Το %1$s διαγράφηκε</string>
      <string name="deny">Άρνηση</string>
+     <string name="deny_button">Απόρριψη</string>
      <string name="description_direction_down">Κύλιση προς τα κάτω για %s.</string>
      <string name="description_direction_left">Κύλιση προς τα αριστερά για %s.</string>
      <string name="description_direction_right">Κύλιση προς τα δεξιά για %s.</string>
