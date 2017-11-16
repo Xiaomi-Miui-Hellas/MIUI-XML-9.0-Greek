@@ -270,7 +270,7 @@
      <string name="express_inquiry_status_delivered">Παραδόθηκε</string>
      <string name="express_inquiry_status_difficult_goods">Άγνωστο</string>
      <string name="express_inquiry_status_dispatch">Αποστέλλεται</string>
-     <string name="express_inquiry_status_on_the_way">Καθ 'οδόν</string>
+     <string name="express_inquiry_status_on_the_way">Καθοδόν</string>
      <string name="express_inquiry_status_receipted">Παρελήφθη</string>
      <string name="express_inquiry_status_return">Επιστροφή</string>
      <string name="express_inquiry_status_sign_out">Απορρίφθηκε</string>
