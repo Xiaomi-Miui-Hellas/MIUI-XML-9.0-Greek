@@ -39,7 +39,7 @@
      <string name="ad_block_hint">%d φραγμένα</string>
      <string name="ad_install_monitor">Παρακολούθηση εφαρμογών για adware</string>
      <string name="ad_install_monitor_hint">Έλεγχος για adware κατά την εγκατάσταση εφαρμογών</string>
-     <string name="ad_permission_hint">Η χρήση του Ad Blocker μπορεί να επηρεάσει τις επιδόσεις, ή την σωστή λειτουργία των εφαρμογών.</string>
+     <string name="ad_permission_hint">Η χρήση του Ad Blocker μπορεί να επηρεάσει τις επιδόσεις, ή τη σωστή λειτουργία των εφαρμογών.</string>
      <string name="ad_relative_setting">Σχετικές ρυθμίσεις</string>
      <string name="ad_single_block_hint">Φραγμένα</string>
      <string name="ad_update_setting">Ενημέρωση</string>
@@ -83,7 +83,7 @@
      <string name="dlg_add_keyword">Προσθήκη λέξεων-κλειδιών</string>
      <string name="dlg_add_manual_hint">Εισάγετε αριθμό τηλεφώνου</string>
      <string name="dlg_add_manual_ok">Προσθήκη</string>
-     <string name="dlg_antispam_mode_delete_message">Δεν μπορείτε να επανακτήσετε τους κανόνες μετά την διαγραφή τους.</string>
+     <string name="dlg_antispam_mode_delete_message">Δεν μπορείτε να επανακτήσετε τους κανόνες μετά τη διαγραφή τους.</string>
      <string name="dlg_antispam_mode_delete_title">Διαγραφή κανόνων;</string>
      <string name="dlg_antispam_using_mode_delete_message">Διαγραφή των κανόνων που είναι σε ισχύ και επιστροφή στους προεπιλεγμένους κανόνες της λίστας φραγών;</string>
      <string name="dlg_antispam_using_mode_international_delete_message">ιαγραφή των κανόνων που είναι σε ισχύ και επιστροφή στους προεπιλεγμένους κανόνες της λίστας φραγών;</string>
@@ -109,7 +109,7 @@
      <string name="dlg_no_block_ok">Άρση φραγής</string>
      <string name="dlg_remove_address_blacklist">Διαγραφή αυτής της τοποθεσίας από τις φραγές;</string>
      <string name="dlg_remove_address_whitelist">Διαγραφή αυτής της τοποθεσίας από τις εξαιρέσεις;</string>
-     <string name="dlg_remove_blacklist">Διαγραφή αυτών των αριθμών από την λίστα;</string>
+     <string name="dlg_remove_blacklist">Διαγραφή αυτών των αριθμών από τη λίστα;</string>
      <string name="dlg_remove_blacklist_ing">Αφαίρεση…</string>
      <string name="dlg_remove_blacklist_ok">Αφαίρεση</string>
      <string name="dlg_remove_whitelist_content">Αφαίρεση αυτών των αριθμών από τις εξαιρέσεις;</string>
@@ -158,7 +158,7 @@
      <string name="mark_number_sell">Τηλεπωλητής</string>
      <string name="mark_number_setting_guide_content1">Φραγή κλήσεων από αριθμούς που αναφέρθηκαν;</string>
      <string name="mark_number_setting_guide_content2">Αυτόματη φραγή κλήσεων από αριθμούς που έχουν αναφερθεί από άλλους χρήστες</string>
-     <string name="mark_number_setting_guide_content3">Έχετε αναφέρει έναν αριθμό ως %1$s. Θέλετε την φραγή κλήσεων από αριθμούς που αναφέρονται ως %2$s;</string>
+     <string name="mark_number_setting_guide_content3">Έχετε αναφέρει έναν αριθμό ως %1$s. Θέλετε τη φραγή κλήσεων από αριθμούς που αναφέρονται ως %2$s;</string>
      <string name="mark_number_setting_guide_forward">Αριθμός αναφορών</string>
      <string name="mark_number_setting_guide_title">Φραγή αναφερθέντων αριθμών</string>
      <string name="mark_sell">Τηλεπωλητής</string>
@@ -241,7 +241,7 @@
      <string name="st_antispam_des_uesless">Ανενεργό</string>
      <string name="st_antispam_mode_add_new">Προσθήκη κανόνων</string>
      <string name="st_antispam_mode_blacklist">Φραγμένοι αριθμοί</string>
-     <string name="st_antispam_mode_blacklist_sum">Φραγή κλήσεων και SMS από αριθμούς που έχετε προσθέσει στην λίστα φραγών</string>
+     <string name="st_antispam_mode_blacklist_sum">Φραγή κλήσεων και SMS από αριθμούς που έχετε προσθέσει στη λίστα φραγών</string>
      <string name="st_antispam_mode_customize_sum">Δημιουργία κανόνων λίστας φραγών</string>
      <string name="st_antispam_mode_denyownself_sum">Προσαρμοσμένοι κανόνες</string>
      <string name="st_antispam_mode_only_all_deny">Φραγή όλων</string>
@@ -321,11 +321,11 @@
      <string name="st_title_editblacklist">Επεξεργασία λίστας φραγών</string>
      <string name="st_title_editwhitelist">Επεξεργασία εξαιρέσεων</string>
      <string name="st_title_keywords_blacklist">Φίλτρο λέξεων-κλειδιών</string>
-     <string name="st_title_man_addblacklist">Προσθήκη αριθμού στην λίστα φραγών</string>
+     <string name="st_title_man_addblacklist">Προσθήκη αριθμού στη λίστα φραγών</string>
      <string name="st_title_man_addwhitelist">Προσθήκη αριθμού στις εξαιρέσεις</string>
-     <string name="st_title_man_editblacklist">Επιλέξτε έναν κωδικό τοποθεσίας για προσθήκη στην λίστα φραγών</string>
+     <string name="st_title_man_editblacklist">Επιλέξτε έναν κωδικό τοποθεσίας για προσθήκη στη λίστα φραγών</string>
      <string name="st_title_man_editwhitelist">Επιλέξτε έναν κωδικό τοποθεσίας για προσθήκη στις εξαιρέσεις</string>
-     <string name="st_title_man_head_addblacklist">Προσθήκη προθέματος στην λίστα φραγών</string>
+     <string name="st_title_man_head_addblacklist">Προσθήκη προθέματος στη λίστα φραγών</string>
      <string name="st_title_man_head_addwhitelist">Προσθήκη προθέματος στις εξαιρέσεις</string>
      <string name="st_title_markednumber_group">Αναφορά αριθμού για φραγή</string>
      <string name="st_title_mode_choose_group">Κανόνες λίστας φραγών</string>

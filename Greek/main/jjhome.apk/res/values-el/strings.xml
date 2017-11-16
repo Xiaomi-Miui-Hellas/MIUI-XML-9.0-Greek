@@ -174,7 +174,7 @@
     <string name="service_contact_name">Jeejen Υπηρεσία</string>
     <string name="service_contact_phone">4006380360</string>
     <string name="insert_contact_to_launcher_hint">Είστε βέβαιοι για την εισαγωγή του %1$s στο launcher;</string>
-    <string name="remove_contact_from_launcher_hint">Είστε βέβαιοι για την διαγραφή του %1$s από το launcher;</string>
+    <string name="remove_contact_from_launcher_hint">Είστε βέβαιοι για τη διαγραφή του %1$s από το launcher;</string>
     <string name="remove_loading">Διαγραφή...</string>
     <string name="contact_search_hint">Αναζήτηση</string>
     <string name="helper_app_name">Βοήθεια</string>
@@ -237,7 +237,7 @@
     <string name="box_app_name">Εφαρμογές</string>
     <string name="box_insert_to_launcher_hint">Προσθήκη %1$s στην αρχική οθόνη;</string>
     <string name="box_remove_from_launcher_hint">Διαγραφή %1$s από την αρχική οθόνη;</string>
-    <string name="tts_invalid_hint">Θα χρειαστεί να εγκαταστήσετε τα προγράμματα οδήγησης για τον βοηθό φωνής.</string>
+    <string name="tts_invalid_hint">Θα χρειαστεί να εγκαταστήσετε τα προγράμματα οδήγησης για το βοηθό φωνής.</string>
     <string name="alert_install_text">Εγκατάσταση</string>
     <string name="alert_go_text">Πηγαίνετε στις Ρυθμίσεις</string>
     <string name="alert_disable_dialog_text">Να μην εμφανιστεί ξανά</string>

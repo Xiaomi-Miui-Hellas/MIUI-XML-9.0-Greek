@@ -242,7 +242,7 @@
      <string name="mul">×</string>
      <string name="mulDesc">πολλαπλασιασμός</string>
      <string name="name">Όνομα</string>
-     <string name="network_confirm_content">"Ο μετατροπέας νομίσματος και οι υπολογιστές δανείων και φόρων χρειάζονται την σύνδεση δικτύου της συσκευής σας για να δουλέψουν κανονικά.</string>
+     <string name="network_confirm_content">"Ο μετατροπέας νομίσματος και οι υπολογιστές δανείων και φόρων χρειάζονται τη σύνδεση δικτύου της συσκευής σας για να δουλέψουν κανονικά.</string>
      <string name="network_confirm_title">Απαιτείται σύνδεση δικτύου</string>
      <string name="nickname">Ψευδώνυμο</string>
      <string name="night">ΜΜ</string>
@@ -301,7 +301,7 @@
      <string name="settingsDesc">ρυθμίσεις</string>
      <string name="sim_changed_reactivate_int_notice">Η τρέχουσα SIM είναι ανενεργή. Θα σταλθεί αυτόματα ένα κείμενο ενεργοποίησης (χρήση κανονικής χρέωσης).</string>
      <string name="sim_changed_reactivate_notice">Η τρέχουσα SIM είναι ανενεργή. Θα σταλθεί αυτόματα ένα κείμενο ενεργοποίησης (χρήση κανονικής χρέωσης).</string>
-     <string name="sim_in_airplane_mode">Παρακαλώ απενεργοποιήστε την λειτουργία πτήσης.</string>
+     <string name="sim_in_airplane_mode">Παρακαλώ απενεργοποιήστε τη λειτουργία πτήσης.</string>
      <string name="sim_locked">Κλειδωμένη κάρτα SIM.</string>
      <string name="sim_not_ready">SIM κάρτα σε χρήση. Δοκιμάστε αργότερα.</string>
      <string name="sim_unavailable">Μη διαθέσιμη κάρτα SIM.</string>

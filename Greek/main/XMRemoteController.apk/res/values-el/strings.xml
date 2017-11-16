@@ -34,7 +34,7 @@
      <string name="add_device">Σύζευξη νέας συσκευής</string>
      <string name="add_device_match_desc_bottom">    3. Επιλέξτε %1$s για επαλήθευση της σύνδεσης</string>
      <string name="add_device_match_desc_center">    2. Κάντε κλικ στο κουμπί για να στείλει εντολές IR</string>
-     <string name="add_device_match_desc_top">    1. Ευθυγραμμίστε την συσκευή %1$s</string>
+     <string name="add_device_match_desc_top">    1. Ευθυγραμμίστε τη συσκευή %1$s</string>
      <string name="add_device_remote">Ζεύξη %1$s</string>
      <string name="add_fav_channel">Προσθήκη στα αγαπημένα</string>
      <string name="add_fav_channel_hint">Προσθήκη καναλιού στα αγαπημένα για να βρίσκετε εύκολα τα αγαπημένα σας κανάλια</string>
@@ -525,7 +525,7 @@
      <string name="not_login">Δεν έχετε συνδεθεί</string>
      <string name="not_respond">Καμία απάντηση</string>
      <string name="not_updated_yet">Δεν έχει ενημερωθεί ακόμα</string>
-     <string name="notification_found_device_text">Μπορείτε να χρησιμοποιήσετε το τηλεχειριστήριο του τηλεφώνου για να ελέγξετε την συσκευή. Δοκιμάστε το!</string>
+     <string name="notification_found_device_text">Μπορείτε να χρησιμοποιήσετε το τηλεχειριστήριο του τηλεφώνου για να ελέγξετε τη συσκευή. Δοκιμάστε το!</string>
      <string name="notification_found_device_title">Συσκευές που βρέθηκαν: %1$s</string>
      <string name="notification_found_shared_remote_text">Πατήστε για να το ελέγξετε</string>
      <string name="notification_found_shared_remote_title">Βρέθηκε το %1$s σε κοντινή απόσταση</string>
@@ -621,7 +621,7 @@
      <string name="passport_login_notice">Σύνδεση…</string>
      <string name="passport_login_short">Σύνδεση</string>
      <string name="passport_login_title">Σύνδεση στο λογαριασμό Mi</string>
-     <string name="passport_login_with_email_or_id"><u>Συνδεθείτε με την διεύθυνση email ή με το Mi Account ID</u></string>
+     <string name="passport_login_with_email_or_id"><u>Συνδεθείτε με τη διεύθυνση email ή με το Mi Account ID</u></string>
      <string name="passport_next">Επόμενο</string>
      <string name="passport_notification_title">Σφάλμα σύνδεσης για %1$s</string>
      <string name="passport_password_req_notice">Κωδικός από 8 έως 16 χαρακτήρες με αριθμούς και γράμματα (γίνεται διάκριση πεζών).</string>
@@ -639,7 +639,7 @@
      <string name="passport_reg_new">Δημιουργήστε ένα λογαριασμό Mi δωρεάν</string>
      <string name="passport_reg_sms_send_prompt">Αποστολή κωδικού επαλήθευσης στο %s</string>
      <string name="passport_reg_success">Ο λογαριασμός δημιουργήθηκε</string>
-     <string name="passport_reg_success_summary">%1$s έχει προστεθεί στον λογαριασμό σας. Μπορείτε να το χρησιμοποιήσετε για είσοδο ή επαναφορά του κωδικού σας.</string>
+     <string name="passport_reg_success_summary">Το %1$s έχει προστεθεί στο λογαριασμό σας. Μπορείτε να το χρησιμοποιήσετε για είσοδο ή επαναφορά του κωδικού σας.</string>
      <string name="passport_reg_type_email">Χρήση email</string>
      <string name="passport_reg_type_other_ways"><u>Χρησιμοποιείστε το email σας ή έναν άλλο αριθμό</u></string>
      <string name="passport_reg_type_other_ways_title">Δημιουργία λογαριασμού Mi</string>
@@ -651,7 +651,7 @@
      <string name="passport_register">Δημιουργία λογαριασμού</string>
      <string name="passport_register_account_goto_email">Μετάβαση στα εισερχόμενα</string>
      <string name="passport_register_account_verified_confirm">Ο λογαριασμός επαληθεύτηκε</string>
-     <string name="passport_register_by_email"><u>Δημιουργία λογαριασμού με την χρήση διεύθυνσης email</u></string>
+     <string name="passport_register_by_email"><u>Δημιουργία λογαριασμού με τη χρήση διεύθυνσης email</u></string>
      <string name="passport_register_restricted">Πάρα πολλοί λογαριασμοί έχουν συνδεθεί με αυτόν τον αριθμό. Δοκιμάστε έναν διαφορετικό</string>
      <string name="passport_register_restricted_title">"Αδυναμία χρήσης αυτού του αριθμού"</string>
      <string name="passport_reject_recycle_account">Όχι</string>
@@ -664,14 +664,14 @@
      <string name="passport_reset_password_prompt">Λανθασμένος κωδικός πρόσβασης</string>
      <string name="passport_reset_password_title">Επαναφορά κωδικού πρόσβασης</string>
      <string name="passport_restart">Ξεκινήστε από την αρχή</string>
-     <string name="passport_restart_register_prompt">Ένα άλλο μήνυμα επαλήθευσης μπορεί να χρειαστεί για να δημιουργήσετε τον λογαριασμό σας.</string>
+     <string name="passport_restart_register_prompt">Ένα άλλο μήνυμα επαλήθευσης μπορεί να χρειαστεί για να δημιουργήσετε το λογαριασμό σας.</string>
      <string name="passport_restart_register_title">Δημιουργία λογαριασμού Mi</string>
      <string name="passport_send_too_many_code">Έχουν αποσταλεί πάρα πολλοί κωδικοί επαλήθευσης σε αυτόν τον αριθμό. Περιμένετε 24 ώρες και προσπαθήστε ξανά.</string>
      <string name="passport_setting">Ρύθμιση…</string>
      <string name="passport_sim_index_info">Κάρτα SIM %1$d - %2$s</string>
      <string name="passport_skip_login">Παράλειψη σύνδεσης</string>
      <string name="passport_skip_register">Παράλειψη</string>
-     <string name="passport_skip_setup_account_msg">Μπορείτε να ρυθμίσετε τον λογαριασμό σας αργότερα από τις Ρυθμίσεις.</string>
+     <string name="passport_skip_setup_account_msg">Μπορείτε να ρυθμίσετε το λογαριασμό σας αργότερα από τις Ρυθμίσεις.</string>
      <string name="passport_skip_setup_account_title">Παράλειψη ρύθμισης</string>
      <string name="passport_title_reg">Δημιουργία λογαριασμού</string>
      <string name="passport_trust_device">Έμπιστη συσκευή</string>
@@ -689,7 +689,7 @@
      <string name="passport_wrong_password">Λανθασμένος κωδικός πρόσβασης</string>
      <string name="passport_wrong_phone_number_format">Η μορφή του αριθμού τηλεφώνου δεν είναι έγκυρη</string>
      <string name="passport_wrong_vcode">Λανθασμένος κωδικός επαλήθευσης</string>
-     <string name="passport_xiaomi_account_dspt">Χρησιμοποιήστε τον λογαριασμό Mi για να συνδεθείτε στο Mi Cloud, κατάστημα θεμάτων MIUI και στις άλλες υπηρεσίες Mi από παντού.</string>
+     <string name="passport_xiaomi_account_dspt">Χρησιμοποιήστε το λογαριασμό Mi για να συνδεθείτε στο Mi Cloud, κατάστημα θεμάτων MIUI και στις άλλες υπηρεσίες Mi από παντού.</string>
      <string name="passport_xiaomi_account_sec_dspt" />
      <string name="passport_xiaomi_account_sec_dspt2">Απαιτείται σύνδεση στο Internet για να συνδεθείτε στο Mi λογαριασμό σας. Πρόσβαση τοποθεσίας και Mi Cloud θα ενεργοποιηθούν αυτόματα.</string>
      <string name="passport_xiaomi_account_sec_dspt2_vip">Απαιτείται σύνδεση στο Internet για να συνδεθείτε στο Mi λογαριασμό σας. Πρόσβαση τοποθεσίας, Mi Cloud και Mi VIP θα ενεργοποιηθούν αυτόματα.</string>
@@ -918,7 +918,7 @@
      <string name="timer">Χρονόμετρο</string>
      <string name="timer_turn_off">Απενεργοποίηση χρονομέτρου</string>
      <string name="timer_turn_on">Ενεργοποίηση χρονομέτρου</string>
-     <string name="title_nodata_feedback">Λείπουν σχόλια για την συσκευή</string>
+     <string name="title_nodata_feedback">Λείπουν σχόλια για τη συσκευή</string>
      <string name="to_be_used_in_these_modes">&lt;%1$s>Χρήση μόνο %2$s λειτουργίας</string>
      <string name="to_qq">Ανοίξτε το QQ και γίνετε μέλος της ομάδας μας</string>
      <string name="to_qq_maintext">Γίνετε μέλος της QQ ομάδας μας και στείλτε μας τα σχόλιά σας</string>

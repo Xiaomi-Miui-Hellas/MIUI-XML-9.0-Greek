@@ -158,7 +158,7 @@
      <string name="upcoming_alarm_hint">Μπορείτε να κλείσετε αυτή την αφύπνιση εκ των προτέρων</string>
      <string name="vibrate_pref_summary">Δόνηση όταν ηχεί το ξυπνητήρι</string>
      <string name="vibrate_when_ringing">Ενεργή δόνηση</string>
-     <string name="volume_button_setting_summary">Ορίστε τις ενέργειες των κουμπιών, κατά την διάρκεια της αφύπνισης</string>
+     <string name="volume_button_setting_summary">Ορίστε τις ενέργειες των κουμπιών, κατά τη διάρκεια της αφύπνισης</string>
      <string name="volume_button_setting_title">Κουμπιά έντασης</string>
      <string name="workday_alarm_clock">Αφύπνιση εργάσιμης ημέρας</string>
      <string name="worldclock_empty_text">Χωρίς ρολόι</string>

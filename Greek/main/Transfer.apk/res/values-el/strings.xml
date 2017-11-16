@@ -8,7 +8,7 @@
      <string name="activate_fail_notification_title">Επανενεργοποίηση υπηρεσίας συγχρονισμού Xiaomi</string>
      <string name="activating">Ενεργοποίηση…</string>
      <string name="alwaysUsePrompt">Ορισμός ως προεπιλογή (καμία ερώτηση την επόμενη φορά)</string>
-     <string name="android_lockscreen_glogin_instructions">Για ξεκλείδωμα, συνδεθείτε με τον λογαριασμό σας</string>
+     <string name="android_lockscreen_glogin_instructions">Για ξεκλείδωμα, συνδεθείτε με το λογαριασμό σας</string>
      <string name="app_name">Μεταφορά</string>
      <string name="app_no_notification">τίποτα</string>
      <string name="app_notificaiton_on_notificationBar">Πίνακας ειδοποιήσεων</string>
@@ -54,7 +54,7 @@
      <string name="error_general">Συνέβη ένα γενικό σφάλμα</string>
      <string name="error_network">Σφάλμα Δικτύου</string>
      <string name="error_not_acceptable">Δυσλειτουργία διακομιστή. Ο συγχρονισμός απενεργοποιήθηκε.</string>
-     <string name="error_not_enough_space">Δεν υπάρχει χώρος στην συσκευή</string>
+     <string name="error_not_enough_space">Δεν υπάρχει χώρος στη συσκευή</string>
      <string name="error_not_selected">Δεν επιλέχθηκε αρχείο</string>
      <string name="error_peer_disconnected">Αποσύνδεση ομότιμου</string>
      <string name="error_select">Σφάλμα αρχείου ή δεν επιλέξατε αρχείο</string>
@@ -80,18 +80,18 @@
 Παρακαλώ εισάγετε την κάρτα SIM"</string>
      <string name="find_device_turn_off_flight_mode">Απενεργοποίηση λειτουργίας πτήσης</string>
      <string name="find_device_turn_off_flight_mode_instructions">"Η συσκευή σας έχει κλειδωθεί
-Παρακαλώ απενεργοποιήστε την λειτουργία πτήσης"</string>
+Παρακαλώ απενεργοποιήστε τη λειτουργία πτήσης"</string>
      <string name="finish">Ολοκληρώθηκε</string>
      <string name="firewall_setting">AntiSpam</string>
-     <string name="first_back_long_press_message">"Θέλετε να ενεργοποιήσετε την λειτουργία με την οποία πατώντας παρατεταμένα το πλήκτρο \"Πίσω\" τερματίζεται η τρέχουσα διεργασία και οι υπηρεσίες της που τρέχουν στο παρασκήνιο; 
+     <string name="first_back_long_press_message">"Θέλετε να ενεργοποιήσετε τη λειτουργία με την οποία πατώντας παρατεταμένα το πλήκτρο \"Πίσω\" τερματίζεται η τρέχουσα διεργασία και οι υπηρεσίες της που τρέχουν στο παρασκήνιο; 
 
 Ενεργοποίηση μέσω της επιλογής Ρυθμίσεις > Πρόσθετες ρυθμίσεις > Πλήκτρα"</string>
-     <string name="first_in_tip">Χρησιμοποιώντας την Μεταφορά για πρώτη φορά</string>
+     <string name="first_in_tip">Χρησιμοποιώντας τη Μεταφορά για πρώτη φορά</string>
      <string name="fm_record_smaple_prefix_miui">Ηχογράφηση Ραδιοφώνου</string>
      <string name="force_exit_message">Έκλεισε με επιτυχία \"%1$s\"</string>
      <string name="forget_password_string">Ξέχασα τον κωδικό</string>
      <string name="format_time_in_12_hours">hh:mma</string>
-     <string name="global_action_privacy_mode_dialog_message">Στην λειτουργία Φρουρού, οι κλήσεις, σημειώσεις, δεδομένα άλμπουμ και τα μηνύματα κειμένου θα είναι κρυμμένα και ο launcher δεν θα είναι σε θέση να εισέλθει σε κατάσταση επεξεργασίας. Μπορείτε να ορίσετε τον κωδικό πρόσβασης για την προστασία σε περιβάλλον ελέγχου πρόσβασης.</string>
+     <string name="global_action_privacy_mode_dialog_message">Στη λειτουργία Φρουρού, οι κλήσεις, σημειώσεις, δεδομένα άλμπουμ και τα μηνύματα κειμένου θα είναι κρυμμένα και ο launcher δεν θα είναι σε θέση να εισέλθει σε κατάσταση επεξεργασίας. Μπορείτε να ορίσετε τον κωδικό πρόσβασης για την προστασία σε περιβάλλον ελέγχου πρόσβασης.</string>
      <string name="global_action_toggle_privacy_mode">Φρουρός</string>
      <string name="goback">Πίσω</string>
      <string name="grant_permissions_account">Αίτημα πρόσβασης λογαριασμού</string>
@@ -173,7 +173,7 @@
      <string name="ok">ΟΚ</string>
      <string name="open_wifi_settings">Άνοιγμα ρυθμίσεων Wi-Fi</string>
      <string name="operation_delete">Διαγραφή</string>
-     <string name="operation_goto_folder">Στον φάκελο</string>
+     <string name="operation_goto_folder">Στο φάκελο</string>
      <string name="operation_info">Πληροφορίες αρχείου</string>
      <string name="operation_send">Αποστολή</string>
      <string name="payphone">Καρτοτηλέφωνο</string>
@@ -197,7 +197,7 @@
      <string name="reboot_confirm_title">Είστε σίγουροι ότι θέλετε να κάνετε επανεκκίνηση του τηλεφώνου σας;</string>
      <string name="reboot_progress">Επανεκκίνηση…</string>
      <string name="receive">Λήψη</string>
-     <string name="receive_cancel_tip">Ακύρωση λήψης. Θέλετε σίγουρα να σταματήσετε την λήψη και να βγείτε;</string>
+     <string name="receive_cancel_tip">Ακύρωση λήψης. Θέλετε σίγουρα να σταματήσετε τη λήψη και να βγείτε;</string>
      <string name="receive_cancel_tip2">Ακύρωση λήψης. Λήφθηκαν %1$d / %2$d αρχείο(α)</string>
      <string name="receive_canceled">Ακυρώθηκε</string>
      <string name="receive_cannot_created_file">Αποτυχία δημιουργίας αρχείου</string>

@@ -54,8 +54,8 @@
         <item quantity="one">%d τραγούδι</item>
      </plurals>
      <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d τραγούδια διαγράφηκαν από την λίστα</item>
-        <item quantity="one">1 τραγούδι διαγράφηκε από την λίστα</item>
+        <item quantity="other">%d τραγούδια διαγράφηκαν από τη λίστα</item>
+        <item quantity="one">1 τραγούδι διαγράφηκε από τη λίστα</item>
      </plurals>
      <plurals name="Ntracks_search_result">
         <item quantity="other">Βρέθηκαν %d τραγούδια</item>

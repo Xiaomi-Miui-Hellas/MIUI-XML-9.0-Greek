@@ -43,7 +43,7 @@
      <string name="already_download">Λήψη…</string>
      <string name="already_download_btn">Λήψη…</string>
      <string name="already_favorited">Ήδη στα αγαπημένα</string>
-     <string name="android_sdk_too_low">Η έκδοση Android είναι πολύ παλιά για να ενημερώσετε την Μουσική. Μεταβείτε στην πιο πρόσφατη έκδοση για να λαμβάνετε ενημερώσεις.</string>
+     <string name="android_sdk_too_low">Η έκδοση Android είναι πολύ παλιά για να ενημερώσετε τη Μουσική. Μεταβείτε στην πιο πρόσφατη έκδοση για να λαμβάνετε ενημερώσεις.</string>
      <string name="apk_filter">APK</string>
      <string name="app_downloads">%s λήψεις</string>
      <string name="app_label">Λήψεις</string>
@@ -623,7 +623,7 @@
      <string name="pay_now">Τρέχουσα υπηρεσία</string>
      <string name="payment_fail">Αποτυχία πληρωμής</string>
      <string name="payment_success">Ολοκλήρωση πληρωμής</string>
-     <string name="permission_declaration_message">Επιτρέψτε την πρόσβαση στον αποθηκευτικό χώρο στην Ασφάλεια > Δικαιώματα > Δικαιώματα > Αποθήκευση > Μουσική, για να μπορείτε να χρησιμοποιήσετε την Μουσική κανονικά.</string>
+     <string name="permission_declaration_message">Επιτρέψτε την πρόσβαση στον αποθηκευτικό χώρο στην Ασφάλεια > Δικαιώματα > Δικαιώματα > Αποθήκευση > Μουσική, για να μπορείτε να χρησιμοποιήσετε τη Μουσική κανονικά.</string>
      <string name="permission_declaration_negative_text">Αργότερα</string>
      <string name="permission_declaration_positive_text">Μετάβαση στην Ασφάλεια</string>
      <string name="permission_declaration_title">Επιτρέψτε την πρόσβαση</string>
@@ -889,7 +889,7 @@
      <string name="upgrade_waringing">Θα είστε είναι σε θέση να ακούσετε μουσική που είναι αποθηκευμένη εκτός σύνδεσης.</string>
      <string name="valid_period">Έγκυρο: %s</string>
      <string name="version_info">Έκδοση</string>
-     <string name="vip_auto_renew_message">Η συνδρομή σας στη Μουσική θα ανανεωθεί αυτόματα το βράδυ. Βεβαιωθείτε ότι έχετε αρκετά Mi Credits στον λογαριασμό σας για να ολοκληρώσετε την πληρωμή.</string>
+     <string name="vip_auto_renew_message">Η συνδρομή σας στη Μουσική θα ανανεωθεί αυτόματα το βράδυ. Βεβαιωθείτε ότι έχετε αρκετά Mi Credits στο λογαριασμό σας για να ολοκληρώσετε την πληρωμή.</string>
      <string name="vip_auto_renew_notification_message">Προσθέστε Mi Credits για να ανανεώσετε τη συνδρομή σας στη Μουσική.</string>
      <string name="vip_auto_renew_notification_title">Πληρωμή συνδρομής</string>
      <string name="vip_auto_renew_title">Ανανέωση συνδρομής</string>

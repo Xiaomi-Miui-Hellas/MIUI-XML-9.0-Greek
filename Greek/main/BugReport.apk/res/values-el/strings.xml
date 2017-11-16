@@ -133,7 +133,7 @@
      <string name="michat_comment_submit">Βαθμολογήστε και πηγαίνετε πίσω</string>
      <string name="michat_comment_thx">Ευχαριστούμε για τα σχόλιά σας!</string>
      <string name="michat_customer_join">Πάρτε μέρος στη συζήτηση</string>
-     <string name="michat_customer_quit">Το προσωπικό υποστήριξης έφυγε από την συνομιλία</string>
+     <string name="michat_customer_quit">Το προσωπικό υποστήριξης έφυγε από τη συνομιλία</string>
      <string name="michat_customer_text">Υποστήριξη πελατών</string>
      <string name="michat_data_error">Παρουσιάστηκε σφάλμα. Δοκιμάστε ξανά αργότερα</string>
      <string name="michat_error_need_login_btn">Σύνδεση</string>
@@ -147,7 +147,7 @@
      <string name="michat_invation_invite_fail">Συγνώμη, οι εργαζόμενοι στην υποστήριξη είναι απασχολημένοι τώρα. Δοκιμάστε ξανά αργότερα.</string>
      <string name="michat_invation_invite_full">Συγνώμη, όλοι οι εργαζόμενοι στην υποστήριξη είναι απασχολημένοι τώρα. Δοκιμάστε ξανά αργότερα.</string>
      <string name="michat_kefu_welcome">Καλωσορίσατε στην online υποστήριξη της Xiaomi!</string>
-     <string name="michat_lose_artificial">Παρουσιάστηκε σφάλμα δικτύου. Φύγατε από την συνομιλία</string>
+     <string name="michat_lose_artificial">Παρουσιάστηκε σφάλμα δικτύου. Φύγατε από τη συνομιλία</string>
      <string name="michat_menu_copy_text">Αντιγραφή</string>
      <string name="michat_message_copy_info">Αντιγράφτηκε στο πρόχειρο</string>
      <string name="michat_message_error_network">Αδυναμία σύνδεσης στο δίκτυο</string>
@@ -177,7 +177,7 @@
      <string name="michat_try_again">Προσπαθήστε ξανά</string>
      <string name="michat_type_list_null">Αδυναμία λήψης πληροφοριών. Δοκιμάστε ξανά αργότερα</string>
      <string name="michat_type_picture">Εικόνα</string>
-     <string name="michat_user_quit">Φύγατε από την συνομιλία</string>
+     <string name="michat_user_quit">Φύγατε από τη συνομιλία</string>
      <string name="michat_wait_for_a_moment">Μισό λεπτό. Έρχεται βοήθεια!</string>
      <string name="michat_webview_title">Δείτε λεπτομέρειες</string>
      <string name="min_error">Ο %1$s σας πρέπει να είναι μεγαλύτερος.</string>
@@ -201,7 +201,7 @@
      <string name="module_tools">Εργαλεία συστήματος</string>
      <string name="modules">Επιλογή στοιχείου</string>
      <string name="multi_graph_more">Σύνολο στοιχείων: %d</string>
-     <string name="network_err">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε την σύνδεσή σας και ανανεώστε.</string>
+     <string name="network_err">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεσή σας και ανανεώστε.</string>
      <string name="network_errorbtntip_custom">Προσπαθήστε ξανά</string>
      <string name="network_errorbtntip_login">Σύνδεση</string>
      <string name="network_errorbtntip_noconnection">Ελέγξτε τις ρυθμίσεις δικτύου</string>

@@ -190,7 +190,7 @@
      <string name="empty_health_card_btn_get">Λήψη Mi Fit</string>
      <string name="empty_health_card_btn_login">Σύνδεση</string>
      <string name="empty_health_card_login_tip">Συνδεθείτε στο Mi Fit και συζεύξτε το Mi Band.</string>
-     <string name="empty_health_card_login_tip_vip">Συνδεθείτε στο Mi Fit και ενεργοποιήστε τον μετρητή βημάτων.</string>
+     <string name="empty_health_card_login_tip_vip">Συνδεθείτε στο Mi Fit και ενεργοποιήστε το μετρητή βημάτων.</string>
      <string name="empty_health_card_tip">Εγκατάσταση Mi Fit και σύζευξη Mi Band.</string>
      <string name="empty_health_card_tip_vip">Εγκατάσταση Mi Fit και ενεργοποίηση του μετρητή βημάτων.</string>
      <string name="empty_recharge_card_btn">Πηγαίνετε στις Ρυθμίσεις</string>
@@ -279,7 +279,7 @@
      <string name="express_install_cainiao_hidden"><u>Να μην εμφανιστεί ξανά</u></string>
      <string name="express_install_cainiao_ok">Εγκατάσταση</string>
      <string name="express_install_cainiao_title">Εγκατάσταση Cainiao</string>
-     <string name="express_install_delivery_service">Παρακολουθήστε την παραγγελία σας, επικοινωνήστε με τον διανομέα και πολλά άλλα.</string>
+     <string name="express_install_delivery_service">Παρακολουθήστε την παραγγελία σας, επικοινωνήστε με το διανομέα και πολλά άλλα.</string>
      <string name="express_install_open_locker">Άνοιγμα</string>
      <string name="express_install_order_detail">Προβολή στοιχείων παραγγελίας</string>
      <string name="express_install_schedule_delivery">Υπηρεσία παράδοσης παραγγελιών</string>
@@ -326,7 +326,7 @@
      <string name="function_qq_scan">Σαρωτής</string>
      <string name="function_qq_title">QQ</string>
      <string name="function_tools_parent">Εργαλεία</string>
-     <string name="go_to_school">Προς και από την δουλειά ή το σχολείο</string>
+     <string name="go_to_school">Προς και από τη δουλειά ή το σχολείο</string>
      <string name="greeting_alarm_desc">Το ξυπνητήρι θα χτυπήσει αύριο στις %1$s</string>
      <string name="greeting_alarm_desc_with_duration">Το ξυπνητήρι θα χτυπήσει αύριο στις %1$s. Πηγαίνετε τώρα στο κρεβάτι τώρα για να έχετε %2$s ύπνου.</string>
      <string name="greeting_birth_desc">"Σήμερα είναι τα γενέθλια του/ης %1$s's</string>
@@ -373,7 +373,7 @@
      <string name="launch_setting_alipay_login">Σύνδεση</string>
      <string name="launch_setting_alipay_logout">Αποσύνδεση</string>
      <string name="launch_setting_alipay_logout_fail">Αδυναμία αποσύνδεσης</string>
-     <string name="launch_setting_alipay_logout_msg">Αποσύνδεση από τον λογαριασμό Alipay;</string>
+     <string name="launch_setting_alipay_logout_msg">Αποσύνδεση από το λογαριασμό Alipay;</string>
      <string name="launch_setting_alipay_logout_posi">Αποσύνδεση</string>
      <string name="launch_setting_alipay_logout_success">επιτυχής αποσύνδεση</string>
      <string name="launch_top">Ανοίξτε συγκεκριμένα λειτουργίες δημοφιλών εφαρμογών</string>

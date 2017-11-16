@@ -71,15 +71,15 @@
         <item quantity="other">Τα επιλεγμένα στοιχεία είναι φωτογραφίες ή βίντεο στο Mi Cloud. Διαγραφή στοιχείων από το Mi Cloud;</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">Τα επιλεγμένα στοιχεία περιλαμβάνουν φωτογραφίες στο Mi Cloud. Διαγραφή φωτογραφιών από την συσκευή και το Mi Cloud;</item>
-        <item quantity="one">Το επιλεγμένο στοιχείο περιλαμβάνει φωτογραφία στο Mi Cloud. Διαγραφή φωτογραφίας από την συσκευή και το Mi Cloud;</item>
+        <item quantity="other">Τα επιλεγμένα στοιχεία περιλαμβάνουν φωτογραφίες στο Mi Cloud. Διαγραφή φωτογραφιών από τη συσκευή και το Mi Cloud;</item>
+        <item quantity="one">Το επιλεγμένο στοιχείο περιλαμβάνει φωτογραφία στο Mi Cloud. Διαγραφή φωτογραφίας από τη συσκευή και το Mi Cloud;</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">Τα επιλεγμένα στοιχεία περιλαμβάνουν φωτογραφίες ή βίντεο στο Mi Cloud. Διαγραφή στοιχείων από την συσκευή και το Mi Cloud;</item>
+        <item quantity="other">Τα επιλεγμένα στοιχεία περιλαμβάνουν φωτογραφίες ή βίντεο στο Mi Cloud. Διαγραφή στοιχείων από τη συσκευή και το Mi Cloud;</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">Τα επιλεγμένα στοιχεία περιλαμβάνουν βίντεο στο Mi Cloud. Διαγραφή βίντεο από την συσκευή και το Mi Cloud;</item>
-        <item quantity="one">Το επιλεγμένο στοιχείο περιλαμβάνει βίντεο στο Mi Cloud. Διαγραφή βίντεο από την συσκευή και το Mi Cloud;</item>
+        <item quantity="other">Τα επιλεγμένα στοιχεία περιλαμβάνουν βίντεο στο Mi Cloud. Διαγραφή βίντεο από τη συσκευή και το Mi Cloud;</item>
+        <item quantity="one">Το επιλεγμένο στοιχείο περιλαμβάνει βίντεο στο Mi Cloud. Διαγραφή βίντεο από τη συσκευή και το Mi Cloud;</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
         <item quantity="other">Διαγραφή βίντεο από το άλμπουμ;</item>

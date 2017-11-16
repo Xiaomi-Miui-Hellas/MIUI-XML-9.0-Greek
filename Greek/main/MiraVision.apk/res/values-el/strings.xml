@@ -47,5 +47,5 @@
      <string name="reset_dialog_message">Θα γίνει επαναφορά όλων των ρυθμίσεων του MiraVision™</string>
      <string name="reset_item">Επαναφορά προεπιλεγμένων ρυθμίσεων</string>
      <string name="sensitivity_title">Ευαισθησία</string>
-     <string name="user_mode_warning_msg">Η λειτουργία χρήστη επιτρέπει την χειροκίνητη ρύθμιση των εφέ προβολής εικόνας ανάλογα με τις προτιμήσεις σας.</string>
+     <string name="user_mode_warning_msg">Η λειτουργία χρήστη επιτρέπει τη χειροκίνητη ρύθμιση των εφέ προβολής εικόνας ανάλογα με τις προτιμήσεις σας.</string>
 </resources>

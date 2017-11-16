@@ -42,7 +42,7 @@
      <string name="email_need_sign_yes">Ναι</string>
      <string name="email_outbound_label">"Εξερχόμενα: "</string>
      <string name="email_pop3_app_name">Email-POP3</string>
-     <string name="email_rt_address_label">"Απάντηση στην διεύθυνση: "</string>
+     <string name="email_rt_address_label">"Απάντηση στη διεύθυνση: "</string>
      <string name="email_secure_label">"Ασφάλεια: "</string>
      <string name="email_setting_name_label">"Όνομα ρύθμισης: "</string>
      <string name="email_smtp_app_name">Email-SMTP</string>

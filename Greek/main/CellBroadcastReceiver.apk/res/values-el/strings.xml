@@ -13,7 +13,7 @@
      <string name="category_etws_settings_title">Ρυθμίσεις ETWS</string>
      <string name="category_india_settings_title">Ρυθμίσεις για την Ινδία</string>
      <string name="cb_other_message_identifiers">Εκπομπή κυψέλης</string>
-     <string name="cell_broadcast_settings_not_available">Οι ρυθμίσεις Εκπομπών Κυψέλης δεν είναι διαθέσιμες για αυτόν τον χρήστη</string>
+     <string name="cell_broadcast_settings_not_available">Οι ρυθμίσεις Εκπομπών Κυψέλης δεν είναι διαθέσιμες για αυτόν το χρήστη</string>
      <string name="cmas_amber_alert">Απαγωγή παιδιών (Amber alert)</string>
      <string name="cmas_category_cbrne">Χημικά/Βιολογικά/Πυρηνική ενέργεια/Εκρηκτικές</string>
      <string name="cmas_category_env">Περιβαλλοντική</string>

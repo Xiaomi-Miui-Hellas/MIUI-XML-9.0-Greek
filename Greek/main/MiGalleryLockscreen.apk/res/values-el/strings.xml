@@ -51,8 +51,8 @@
      <string name="sst_subscribe_title">Οι κατηγορίες μου</string>
      <string name="sst_wifi_only_desc">Απενεργ. τη λειτουργία για εξοικονόμηση δεδομένων</string>
      <string name="sst_wifi_only_title">Ενημ. με χρήση δεδομένων κινητής</string>
-     <string name="summary">"Με την χρήση αυτής της υπηρεσίας, συμφωνείτε με την &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Συμφωνία Χρήστη&lt;/a> και την  &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Πολιτική απορρήτου&lt;/a> μας. Αυτή η λειτουργία χρειάζεται σύνδεση στο Internet για να λειτουργήσει κανονικά."</string>
-     <string name="summary_international">"Με την χρήση αυτής της υπηρεσίας, συμφωνείτε με την &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Συμφωνία Χρήστη&lt;/a> και την &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Πολιτική Απορρήτου&lt;/a> μας. Αυτή η λειτουργία χρειάζεται σύνδεση στο Internet για να λειτουργήσει κανονικά.​"</string>
+     <string name="summary">"Με τη χρήση αυτής της υπηρεσίας, συμφωνείτε με την &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Συμφωνία Χρήστη&lt;/a> και την  &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Πολιτική απορρήτου&lt;/a> μας. Αυτή η λειτουργία χρειάζεται σύνδεση στο Internet για να λειτουργήσει κανονικά."</string>
+     <string name="summary_international">"Με τη χρήση αυτής της υπηρεσίας, συμφωνείτε με την &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Συμφωνία Χρήστη&lt;/a> και την &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Πολιτική Απορρήτου&lt;/a> μας. Αυτή η λειτουργία χρειάζεται σύνδεση στο Internet για να λειτουργήσει κανονικά.​"</string>
      <string name="theme_apply_failured">"Αδυναμία εφαρμογής. Δοκιμάστε ξανά αργότερα"</string>
      <string name="theme_apply_success">Εφαρμόστηκε στην Οθόνη κλειδώματος</string>
      <string name="theme_applying">Εφαρμογή…</string>

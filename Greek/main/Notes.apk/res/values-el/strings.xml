@@ -60,7 +60,7 @@
      <string name="error_widget_exist_for_send_to_desktop">Η σημείωση υπάρχει ήδη στην Αρχική Οθόνη</string>
      <string name="folder_exist">Υπάρχει ήδη ένας φάκελος με το ίδιο όνομα</string>
      <string name="force_touch_menu_add">Προσθήκη σημείωσης</string>
-     <string name="format_move_notes_out_folder">Μεταφέρθηκαν %1$s έξω από τον φάκελο</string>
+     <string name="format_move_notes_out_folder">Μεταφέρθηκαν %1$s έξω από το φάκελο</string>
      <string name="format_move_notes_to_folder">Μεταφέρθηκαν %1$s σημειώσεις στο %2$s</string>
      <string name="hidden_notes_fragment_title">Κρυφές σημειώσεις</string>
      <string name="hint_cannot_view_hidden_note_content">Δεν είναι δυνατή η προβολή περιεχομένων των κρυφών σημειώσεων</string>
@@ -113,7 +113,7 @@
      <string name="pref_title_recover_help">Ανάκτηση σημειώσεων</string>
      <string name="pref_title_show_root_folder_in_homepage">Εμφάνιση γρήγορων σημειώσεων στην Αρχική οθόνη</string>
      <string name="pref_title_skip_confirm_for_quick_delete">Γρήγορη διαγραφή</string>
-     <string name="privacy_hint">Ιδιωτικότητα</string>
+     <string name="privacy_hint">Απόρρητο</string>
      <string name="privacy_notes_fragment_title">Κρυφές σημειώσεις</string>
      <string name="recover_notes_hint">Βρέθηκαν σφάλματα στις σημειώσεις. Προσπαθήστε να τις ανακτήσετε στο i.mi.com</string>
      <string name="redo">Ακύρωση αναίρεσης</string>

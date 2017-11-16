@@ -9,7 +9,7 @@
      <string name="cit_ac_charger_in">Φόρτιση μέσω AC</string>
      <string name="cit_ac_charger_out">Φορτιστής AC αποσυνδέθηκε</string>
      <string name="cit_accelermeter_sensor_check_summary">"Μετακινήστε τη συσκευή γρήγορα σε μία κατεύθυνση. Οι τιμές συντεταγμένων Χ, Υ, Ζ θα εμφανίζονται παρακάτω. (όταν το τηλέφωνο είναι σε κίνηση: το Χ  αντιπροσωπεύει το αριστερά/δεξιά, το Υ αντιπροσωπεύει το εμπρός/πίσω και το Ζ αντιπροσωπεύει το πάνω/κάτω).
-Πριν την βαθμονόμηση της συσκευής, τοποθετήστε την σε μια επίπεδη επιφάνεια."</string>
+Πριν τη βαθμονόμηση της συσκευής, τοποθετήστε την σε μια επίπεδη επιφάνεια."</string>
      <string name="cit_accelermeter_sensor_check_title">Επιταχυνσιόμετρο</string>
      <string name="cit_aud_spkcal">Βαθμονόμηση</string>
      <string name="cit_audio_cali_done">Η βαθμονόμηση ολοκληρώθηκε!</string>
@@ -25,7 +25,7 @@
      <string name="cit_audio_lb_phonecall_title">Εξομοίωση κλήσης</string>
      <string name="cit_audio_lb_summary_backmic_to_speaker">"Δοκιμή πίσω μικροφώνου στο ηχείο.
 
-Γυρίστε το τηλέφωνο και μιλήστε στο πίσω μικρόφωνο. Θα πρέπει να ακούσετε την φωνή σας στο ηχείο "</string>
+Γυρίστε το τηλέφωνο και μιλήστε στο πίσω μικρόφωνο. Θα πρέπει να ακούσετε τη φωνή σας στο ηχείο "</string>
      <string name="cit_audio_lb_summary_frontmic_to_speaker">"Δοκιμή μπροστινού μικροφώνου στο ηχείο. 
 
 Μιλήστε στο μπροστινό μικρόφωνο. Θα πρέπει να ακούσετε τη φωνή σας στο ηχείο"</string>
@@ -87,7 +87,7 @@
      <string name="cit_charger_plugout_check_summary">Όταν ο φορτιστής USB είναι αποσυνδεδεμένος το κείμενο \"Φορτιστής USB (ή AC) αποσυνδέθηκε\" θα πρέπει να εμφανίζεται παρακάτω.</string>
      <string name="cit_charger_plugout_check_title">Αποσύνδεση Φορτιστή</string>
      <string name="cit_charger_waiting_in">Συνδέστε το φορτιστή</string>
-     <string name="cit_charger_waiting_out">Αφαιρέστε τον φορτιστή τώρα</string>
+     <string name="cit_charger_waiting_out">Αφαιρέστε το φορτιστή τώρα</string>
      <string name="cit_display_check_summary">Επιβεβαιώστε ότι το απαιτούμενο αρχείο BMP είναι στην κάρτα SD. Επιβεβαιώστε ότι τα χρώματα εμφανίζονται ομαλά και με συνέχεια σε όλη την οθόνη και ότι δεν υπάρχουν ακανόνιστα φωτεινά ή σκοτεινά σημεία.</string>
      <string name="cit_display_check_title">Οθόνη</string>
      <string name="cit_display_continue">Αγγίξτε την οθόνη για να ξεκινήσει η δοκιμή</string>
@@ -109,7 +109,7 @@
      <string name="cit_fm_start_service">Ενεργοποίηση FM Ράδιο</string>
      <string name="cit_front_camera_check_summary">"Οδηγίες δοκιμής:
 
-1.Πατήστε στο κουμπί \"Κάμερα\" για να ανοίξετε την μπροστινή κάμερα
+1.Πατήστε στο κουμπί \"Κάμερα\" για να ανοίξετε τη μπροστινή κάμερα
 2.Πατήστε το κουμπί του κλείστρου
 3.Πατήστε το κουτάκι ελέγχου. Το σύστημα θα σώσει τη φωτογραφία αυτόματα.
 4.Η φωτογραφία που τραβήξατε πρέπει να εμφανίζετε παρακάτω. Πατήστε \"Διαγραφή\" για να ολοκληρώσετε το τεστ."</string>
@@ -181,7 +181,7 @@
      <string name="cit_notificationlight">Φωτεινή ένδειξη ειδοποίησης</string>
      <string name="cit_notificationlight_off">Φωτισμός ειδοποίησης ανενεργός</string>
      <string name="cit_notificationlight_on">Φωτισμός ειδοποίησης ενεργός</string>
-     <string name="cit_otg_not_supported">Αυτή η συσκευή δεν υποστηρίζει την δοκιμή OTG.</string>
+     <string name="cit_otg_not_supported">Αυτή η συσκευή δεν υποστηρίζει τη δοκιμή OTG.</string>
      <string name="cit_pass">Πέρασε</string>
      <string name="cit_play_sd_mp3_hifi_summary">Επιβεβαιώστε ότι υπάρχει ένα αρχείο με το όνομα \"music.mp3\" αποθηκευμένο στην κάρτα SD. The file \"music.mp3\" θα πρέπει να παίξει μέσω της διαδρομής HIFI της συσκευής όταν ανοίγετε αυτό το τεστ.</string>
      <string name="cit_play_sd_mp3_hifi_title">Αναπαραγωγή MP3(HIFI)</string>
@@ -327,7 +327,7 @@
      <string name="cit_vibrator_play_touch_pattern">Δόνηση</string>
      <string name="cit_vibrator_short">Σύντομη δόνηση</string>
      <string name="cit_vibrator_show_advanced">Εμφάνιση προηγμένων επιλογών</string>
-     <string name="cit_wifi_address_check_summary">Η δοκιμή θα εμφανίσει την διεύθυνση δικτύου WLAN που είστε τώρα συνδεδεμένοι. Επιβεβαιώστε ότι οι πληροφορίες που επισημαίνονται με πράσινο χρώμα είναι σωστές.</string>
+     <string name="cit_wifi_address_check_summary">Η δοκιμή θα εμφανίσει τη διεύθυνση δικτύου WLAN που είστε τώρα συνδεδεμένοι. Επιβεβαιώστε ότι οι πληροφορίες που επισημαίνονται με πράσινο χρώμα είναι σωστές.</string>
      <string name="cit_wifi_address_check_title">Διεύθυνση Wi-Fi</string>
      <string name="cit_wifi_address_error">Αδυναμία λήψης διεύθυνσης Wi-Fi, ελέγξτε εάν είναι ενεργό το Wi-Fi.</string>
      <string name="cit_wifi_ap_scan_check_summary">Η δοκιμή θα εμφανίσει μια λίστα με όλα τα διαθέσιμα Wi-Fi access points. Επιβεβαιώστε ότι οι πληροφορίες που επισημαίνονται με πράσινο χρώμα είναι σωστές.</string>

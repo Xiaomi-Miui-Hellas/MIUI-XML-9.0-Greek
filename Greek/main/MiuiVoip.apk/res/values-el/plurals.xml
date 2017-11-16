@@ -5,7 +5,7 @@
         <item quantity="one">Απομένει %1$d βήμα για να γίνετε προγραμματιστής VoIP.</item>
      </plurals>
     <plurals name="show_nondev_countdown">
-        <item quantity="other">Απομένουν %1$d βήματα για να βγείτε από την λειτουργία προγραμματιστή VoIP.</item>
-        <item quantity="one">Απομένει %1$d βήμα για να βγείτε από την λειτουργία προγραμματιστή VoIP.</item>
+        <item quantity="other">Απομένουν %1$d βήματα για να βγείτε από τη λειτουργία προγραμματιστή VoIP.</item>
+        <item quantity="one">Απομένει %1$d βήμα για να βγείτε από τη λειτουργία προγραμματιστή VoIP.</item>
     </plurals>
 </resources>

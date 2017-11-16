@@ -287,7 +287,7 @@
      <string name="error_console_eval_text_hint">Αξιολόγηση JavaScript </string>
      <string name="error_console_header_text_maximized">JavaScript κονσόλα </string>
      <string name="error_console_header_text_minimized">Εμφάνιση JavaScript κονσόλας</string>
-     <string name="error_forbidden">Ο συγχρονισμός απενεργοποιήθηκε λόγω προβλημάτων με τον λογαριασμό σας.</string>
+     <string name="error_forbidden">Ο συγχρονισμός απενεργοποιήθηκε λόγω προβλημάτων με το λογαριασμό σας.</string>
      <string name="error_not_acceptable">Ο συγχρονισμός έχει απενεργοποιηθεί.</string>
      <string name="error_title">"Αδυναμία συγχρονισμού"</string>
      <string name="error_unauthorized">Ο συγχρονισμός απενεργοποιήθηκε λόγω πολλών προσπαθειών σύνδεσης.</string>
@@ -304,7 +304,7 @@
      <string name="find_on_page_next">Επόμενο</string>
      <string name="find_on_page_prev">Επιστροφή</string>
      <string name="find_previous">Εύρεση προηγούμενου</string>
-     <string name="fling_on_border_gesture_hint">Μπορείτε να επιλέξετε την λειτουργία αυτής της χειρονομίας στις Ρυθμίσεις</string>
+     <string name="fling_on_border_gesture_hint">Μπορείτε να επιλέξετε τη λειτουργία αυτής της χειρονομίας στις Ρυθμίσεις</string>
      <string name="force_quick_search_title">Αναζήτηση</string>
      <string name="force_touch_bookmark_history_title">Σελιδοδείκτες &amp; ιστορικό</string>
      <string name="force_touch_infoflow_title">Ειδήσεις</string>
@@ -437,8 +437,8 @@
      <string name="miuishare_account_login_cancel">Ακύρωση</string>
      <string name="miuishare_account_login_confirmation">Απαιτείται σύνδεση</string>
      <string name="miuishare_account_login_ok">Σύνδεση</string>
-     <string name="miuishare_account_need_activate">Το Weibo share, απαιτεί ο λογαριασμός σας στο Weibo να είναι συνδεδεμένος με τον λογαριασμό Xiaomi, ο οποίος δεν έχει ενεργοποιηθεί. Ενεργοποίηση του λογαριασμού σας;</string>
-     <string name="miuishare_account_need_login">Το Weibo share, απαιτεί ο λογαριασμός σας στο Weibo να είναι συνδεδεμένος με τον λογαριασμό Xiaomi, στο οποίο έχετε συνδεθεί. Σύνδεση τώρα για κοινή χρήση;</string>
+     <string name="miuishare_account_need_activate">Το Weibo share, απαιτεί ο λογαριασμός σας στο Weibo να είναι συνδεδεμένος με το λογαριασμό Mi, ο οποίος δεν έχει ενεργοποιηθεί. Ενεργοποίηση του λογαριασμού σας;</string>
+     <string name="miuishare_account_need_login">Το Weibo share, απαιτεί ο λογαριασμός σας στο Weibo να είναι συνδεδεμένος με το λογαριασμό Mi, στο οποίο έχετε συνδεθεί. Σύνδεση τώρα για κοινή χρήση;</string>
      <string name="miuishare_app_name">MiuiShare</string>
      <string name="miuishare_no_network">Δεν υπάρχει δίκτυο. Δεν μπορεί να γίνει κοινή χρήση</string>
      <string name="miuishare_publish">Αποστολή</string>
@@ -574,7 +574,7 @@
      <string name="pref_privacy_enable_geolocation_summary">Να επιτρέπεται σε σελίδες να έχουν πρόσβαση στην τοποθεσία σας</string>
      <string name="pref_privacy_formdata_title">Δεδομένα φόρμας</string>
      <string name="pref_privacy_location_title">Τοποθεσία</string>
-     <string name="pref_privacy_security_title">Ιδιωτικότητα &amp; ασφάλεια</string>
+     <string name="pref_privacy_security_title">Απόρρητο &amp; ασφάλεια</string>
      <string name="pref_save_bandwidth_mode_title">Μείωση δεδομένων κινητής</string>
      <string name="pref_security_accept_cookies">Αποδοχή cookies</string>
      <string name="pref_security_accept_cookies_summary">Να επιτρέπεται σε σελίδες να επεξεργάζονται cookies</string>

@@ -9,7 +9,7 @@
      <string name="accessibility_pick_start_date">Ημερομηνία έναρξης</string>
      <string name="accessibility_pick_start_time">ΑΠΟ</string>
      <string name="accessibility_pick_time_zone">Ζώνη ώρας</string>
-     <string name="accessibility_reminder_privacy">Ιδιωτικότητα</string>
+     <string name="accessibility_reminder_privacy">Απόρρητο</string>
      <string name="accessibility_reminder_showmeas">Να με δείξει ως</string>
      <string name="accessibility_reminder_time">Ώρα υπενθύμισης</string>
      <string name="accessibility_reminder_type">Τύπος υπενθύμισης</string>
@@ -261,7 +261,7 @@
      <string name="preferences_week_start_day_dialog">Η εβδομάδα ξεκινάει την</string>
      <string name="preferences_week_start_day_title">Η εβδομάδα ξεκινάει την</string>
      <string name="presence_label">Κατάσταση</string>
-     <string name="privacy_label">Ιδιωτικότητα</string>
+     <string name="privacy_label">Απόρρητο</string>
      <string name="quick_response_custom_msg">Προσωπικό μήνυμα…</string>
      <string name="quick_response_dialog_title">Επιλέξτε γρήγορη απάντηση</string>
      <string name="quick_response_email_failed">Αποτυχία εύρεσης εφαρμογής mail</string>
@@ -382,7 +382,7 @@
      <string name="user_notice_button_exit">Έξοδος</string>
      <string name="user_notice_button_ok">OK</string>
      <string name="user_notice_declaration_ignore">"Να μην εμφανιστεί ξανά"</string>
-     <string name="user_notice_message">"Με την χρήση αυτού του προϊόντος, συμφωνείτε με τα Xiaomi %1$s και %2$s. Ορισμένες λειτουργίες απαιτούν σύνδεση στο Internet και πρόσβαση στην τοποθεσία και στις επαφές για να δουλέψουν κανονικά."</string>
+     <string name="user_notice_message">"Με τη χρήση αυτού του προϊόντος, συμφωνείτε με τα Xiaomi %1$s και %2$s. Ορισμένες λειτουργίες απαιτούν σύνδεση στο Internet και πρόσβαση στην τοποθεσία και στις επαφές για να δουλέψουν κανονικά."</string>
      <string name="user_notice_title">Ειδοποίηση χρήστη</string>
      <string name="user_notification">Ειδοποίηση χρήστη</string>
      <string name="user_notification_descrip">Εμφάνιση ειδοποίησης χρήστη κάθε φορά που ανοίγετε το Ημερολόγιο</string>

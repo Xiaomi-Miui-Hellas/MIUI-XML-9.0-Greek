@@ -58,12 +58,12 @@
     <string name="cit_pressure_sensor_check_summary">Ελέγξτε την τιμή του αισθητήρα πίεσης</string>
     <string name="cit_leds_check_summary">Οπίσθιος φωτισμός οθόνης, LED ειδοποιήσεων, φλας και φωτισμός πλήκτρων, θα πρέπει να ανταποκρίνονται όταν πατηθεί το αντίστοιχο κουμπί.</string>
     <string name="cit_vibrator_check_summary">Δείτε αν η δόνηση (σύντομη και παρατεταμένη) λειτουργεί κανονικά</string>
-    <string name="cit_wifi_address_check_summary">Η δοκιμή θα εμφανίσει την διεύθυνση δικτύου WLAN που είστε τώρα συνδεδεμένοι. Επιβεβαιώστε ότι οι πληροφορίες που επισημαίνονται με πράσινο χρώμα είναι σωστές.</string>
+    <string name="cit_wifi_address_check_summary">Η δοκιμή θα εμφανίσει τη διεύθυνση δικτύου WLAN που είστε τώρα συνδεδεμένοι. Επιβεβαιώστε ότι οι πληροφορίες που επισημαίνονται με πράσινο χρώμα είναι σωστές.</string>
     <string name="cit_wifi_ap_scan_check_summary">Η δοκιμή θα εμφανίσει μια λίστα με όλα τα διαθέσιμα Wi-Fi access points. Επιβεβαιώστε ότι οι πληροφορίες που επισημαίνονται με πράσινο χρώμα είναι σωστές.</string>
     <string name="cit_blue_tooth_address_check_summary">Η δοκιμή θα εμφανίσει την MAC address του Bluetooth.</string>
     <string name="cit_blue_tooth_scan_check_summary">Η δοκιμή θα εμφανίσει μια λίστα με διαθέσιμες συσκευές Bluetooth που έχουν εντοπιστεί σε κοντινή απόσταση.</string>
     <string name="cit_accelermeter_sensor_check_summary">"Μετακινήστε τη συσκευή γρήγορα σε μία κατεύθυνση. Οι τιμές συντεταγμένων Χ, Υ, Ζ θα εμφανίζονται παρακάτω. (όταν το τηλέφωνο είναι σε κίνηση: το Χ  αντιπροσωπεύει το αριστερά/δεξιά, το Υ αντιπροσωπεύει το εμπρός/πίσω και το Ζ αντιπροσωπεύει το πάνω/κάτω).
-Πριν την βαθμονόμηση της συσκευής, τοποθετήστε την σε μια επίπεδη επιφάνεια."</string>
+Πριν τη βαθμονόμηση της συσκευής, τοποθετήστε την σε μια επίπεδη επιφάνεια."</string>
     <string name="cit_headset_plug_detect_summary">Όταν τα ακουστικά είναι συνδεδεμένα, το κείμενο \"Τα Ακουστικά είναι συνδεδεμένα\" θα πρέπει να εμφανίζεται παρακάτω.</string>
     <string name="cit_headset_button_check_summary">Όταν τα ακουστικά είναι συνδεδεμένα, η δοκιμή θα εμφανίσει με πράσινο χρώμα το αντίστοιχο επιλεγμένο πλήκτρο από τα ακουστικά όταν πατηθεί.</string>
     <string name="cit_headset_pull_detect_summary">Όταν τα ακουστικά είναι συνδεδεμένα, το κείμενο \"Τα ακουστικά αποσυνδέθηκαν\" θα πρέπει να εμφανίζεται παρακάτω.</string>
@@ -95,7 +95,7 @@
  5.Η φωτογραφία που τραβήξατε πρέπει να εμφανίζετε παρακάτω. Πατήστε \"Διαγραφή\" για να ολοκληρώσετε το τεστ"</string>
     <string name="cit_front_camera_check_summary">"Οδηγίες δοκιμής:
 
-1.Πατήστε στο κουμπί \"Κάμερα\" για να ανοίξετε την μπροστινή κάμερα
+1.Πατήστε στο κουμπί \"Κάμερα\" για να ανοίξετε τη μπροστινή κάμερα
 2.Πατήστε το κουμπί του κλείστρου
 3.Πατήστε το κουτάκι ελέγχου. Το σύστημα θα σώσει τη φωτογραφία αυτόματα.
 4.Η φωτογραφία που τραβήξατε πρέπει να εμφανίζετε παρακάτω. Πατήστε \"Διαγραφή\" για να ολοκληρώσετε το τεστ."</string>
@@ -167,14 +167,14 @@
     <string name="cit_charger_waiting_in">Συνδέστε το φορτιστή</string>
     <string name="cit_ac_charger_in">Φόρτιση μέσω AC</string>
     <string name="cit_usb_charger_in">Φόρτιση μέσω USB</string>
-    <string name="cit_charger_waiting_out">Αφαιρέστε τον φορτιστή τώρα</string>
+    <string name="cit_charger_waiting_out">Αφαιρέστε το φορτιστή τώρα</string>
     <string name="cit_ac_charger_out">Φορτιστής AC αποσυνδέθηκε</string>
     <string name="cit_usb_charger_out">Φορτιστής USB αποσυνδέθηκε</string>
     <string name="cit_usb_OTG_in">Ανιχνεύτηκε συσκευή USB OTG</string>
     <string name="cit_OTG_waiting_in">Συνδέστε τη συσκευή USB OTG τώρα.</string>
     <string name="cit_OTG_waiting_out">Αποσυνδέστε τη συσκευή USB OTG τώρα.</string>
     <string name="cit_usb_OTG_out">Η συσκευή USB OTG αφαιρέθηκε.</string>
-    <string name="cit_otg_not_supported">Αυτή η συσκευή δεν υποστηρίζει την δοκιμή OTG.</string>
+    <string name="cit_otg_not_supported">Αυτή η συσκευή δεν υποστηρίζει τη δοκιμή OTG.</string>
     <string name="cit_sd_mp3_not_existed">"Δεν υπάρχει αρχείο στην κάρτα SD που να ονομάζεται \"music.mp3\"
 Αφού τοποθετήσετε το \"music.mp3\" στον κατάλογο της κάρτας SD, πατήστε την οθόνη για να παίξει."</string>
     <string name="cit_playing_sd_mp3">Αναπαραγωγή music.mp3…</string>

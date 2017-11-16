@@ -93,7 +93,7 @@
      <string name="search_path_quicksearchbox">Ρυθμίσεις/Εφαρμογές/Αναζήτηση</string>
      <string name="search_settings">Ρυθμίσεις αναζήτησης</string>
      <string name="search_sources">Στοιχεία για αναζήτηση</string>
-     <string name="search_sources_summary">Επιλέξτε τι αναζητάτε στην συσκευή σας</string>
+     <string name="search_sources_summary">Επιλέξτε τι αναζητάτε στη συσκευή σας</string>
      <string name="search_suggestion">Συμβουλές</string>
      <string name="search_videos">Αναζήτηση βίντεο</string>
      <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>

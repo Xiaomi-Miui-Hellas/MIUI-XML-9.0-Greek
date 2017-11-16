@@ -44,7 +44,7 @@
      <string name="managed_provisioning_error_text">Δεν ήταν δυνατή η ρύθμιση του προφίλ εργασίας σας. Επικοινωνήστε με το τμήμα πληροφορικής ή δοκιμάστε ξανά αργότερα.</string>
      <string name="managed_provisioning_not_supported">Η συσκευή σας δεν υποστηρίζει τα προφίλ εργασίας</string>
      <string name="managed_provisioning_not_supported_by_launcher">Το προφίλ εργασίας σας δεν υποστηρίζεται από αυτήν την εφαρμογή εκκίνησης. Θα πρέπει να χρησιμοποιήσετε μια συμβατή εφαρμογή εκκίνησης.</string>
-     <string name="maximum_user_limit_reached">Αδυναμία δημιουργίας προφίλ εργασίας επειδή συμπληρώσατε τον μέγιστο αριθμό χρηστών στη συσκευή σας. Διαγράψτε τουλάχιστον έναν χρήστη και δοκιμάστε ξανά.</string>
+     <string name="maximum_user_limit_reached">Αδυναμία δημιουργίας προφίλ εργασίας επειδή συμπληρώσατε το μέγιστο αριθμό χρηστών στη συσκευή σας. Διαγράψτε τουλάχιστον έναν χρήστη και δοκιμάστε ξανά.</string>
      <string name="mdm_icon_label">Εικονίδιο %1$s</string>
      <string name="ok_setup">OK</string>
      <string name="opening_paragraph_delete_profile_known_company">Αυτό το προφίλ εργασίας διαχειρίζεται για %s χρησιμοποιώντας:</string>

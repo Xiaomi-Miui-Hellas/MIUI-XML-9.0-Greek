@@ -25,7 +25,7 @@ Tap to visit our website"</string>
 Παρακαλώ ανοίξτε το  Wi-Fi ή τα δεδομένα κινητής για να γίνει έλεγχος και κατέβασμα των ΟΤΑ ενημερώσεων."</string>
     <string name="alert_nodata_title">Χωρίς σύνδεση δεδομένων!</string>
     <string name="alert_noinstall_message">"Δυστηχώς, πρέπει να κάνετε flash μόνοι σας την ROM.
-Παρακαλώ επιλέξτε την σωστή μέθοδο για το flasη της ROM στην συσκευή σας.
+Παρακαλώ επιλέξτε τη σωστή μέθοδο για το flasη της ROM στη συσκευή σας.
 
 Το .zip αρχείο βρίσκεται στο: %1$s"</string>
     <string name="alert_nowifi_message">"Κάνετε χρήση δεδομένων κινητής.
@@ -139,7 +139,7 @@ Tap to visit our website"</string>
     <string name="prokey_error_init">Σφάλμα έναρξης αγοράς του PRO Key! Δοκιμάστε αργότερα.</string>
     <string name="prokey_error_other">Συνέβει κάποιο σφάλμα κατά την αγορά του PRO Key!</string>
     <string name="prokey_only_feature_message">"Αυτό το χαρακτηριστικό είναι διαθέσιμο σε κατόχους PRO Key.
-Παρακαλώ λάβετε ένα PRO Key, για την χρήση του χαρακτηριστικού."</string>
+Παρακαλώ λάβετε ένα PRO Key, για τη χρήση του χαρακτηριστικού."</string>
     <string name="prokey_only_feature_title">PRO-only Χαρακτηριστικό</string>
     <string name="prokey_only_get">Λήψη PRO Key</string>
     <string name="prokey_redeemed_thanks">"Γίνατε κάτοχος κωδικού PRO Key!
@@ -204,7 +204,7 @@ Tap to visit our website"</string>
     <string name="settings_wifidl_title">Λήψη μόνο από Wi-Fi</string>
     <string name="toast_blank_userpass_error">Παρακαλώ συμπληρώστε το όνομα και τον κωδικό!</string>
     <string name="toast_delete">Επιτυχής η διαγραφή αρχείου</string>
-    <string name="toast_delete_error">Υπήρξε πρόβλημα κατά την διαγραφή του επιλεγμένου αρχείου</string>
+    <string name="toast_delete_error">Υπήρξε πρόβλημα κατά τη διαγραφή του επιλεγμένου αρχείου</string>
     <string name="toast_downloading">Η λήψη είναι ενεργή, ελέγξτε τις ειδοποιήσεις για την εξέλιξη…</string>
     <string name="toast_file_error">Σφάλμα φόρτωσης αρχείου</string>
     <string name="toast_nosd_error">Δεν είναι διαθέσιμη η SD κάρτα</string>

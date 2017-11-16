@@ -752,7 +752,7 @@
      <string name="mmiCancelled">Ο κώδικας MMI ακυρώθηκε</string>
      <string name="mmiStarted">Έναρξη κώδικα MMI</string>
      <string name="mo_call_type_title">MO Call Type</string>
-     <string name="mobile_network_settings_not_available">Οι ρυθμίσεις δικτύου κινητής δεν είναι διαθέσιμες για αυτόν τον χρήστη</string>
+     <string name="mobile_network_settings_not_available">Οι ρυθμίσεις δικτύου κινητής δεν είναι διαθέσιμες για αυτόν το χρήστη</string>
      <string name="mobile_networks">Δίκτυα κινητής τηλεφωνίας</string>
      <string name="msim_apn_not_set">Δεν ορίστηκε</string>
      <string name="msim_disable_sim_card_btn_text">OK</string>
@@ -1008,7 +1008,7 @@
      <string name="phone_number_hint_text">Αριθμός τηλεφώνου.</string>
      <string name="phone_numbers">Εισάγετε αριθμούς Τηλεφώνων</string>
      <string name="pick_outgoing_call_phone_type">Πραγματοποίηση κλήσης</string>
-     <string name="pick_outgoing_sip_phone">Χρησιμοποιήστε τον λογαριασμό για κλήσεις Διαδικτύου:</string>
+     <string name="pick_outgoing_sip_phone">Χρησιμοποιήστε το λογαριασμό για κλήσεις Διαδικτύου:</string>
      <string name="pin2_attempts">"
 Έχουν απομείνει %d προσπάθειες."</string>
      <string name="pin2_changed">Το PIN2 άλλαξε με επιτυχία.</string>

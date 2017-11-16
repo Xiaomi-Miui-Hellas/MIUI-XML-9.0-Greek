@@ -39,7 +39,7 @@
      <string name="ok_button">OK</string>
      <string name="progress_scanning">Αναζήτηση…</string>
      <string name="reset_function_msg">Μηδενίζοντας αυτή τη λειτουργία, μπορεί να προκληθεί δυσλειτουργία στο %1$s.</string>
-     <string name="some_app_taking">(Το %1$s χρησιμοποιεί ήδη αυτή την λειτουργία)</string>
+     <string name="some_app_taking">(Το %1$s χρησιμοποιεί ήδη αυτή τη λειτουργία)</string>
      <string name="unbind_device_alert_cancel">Ακύρωση</string>
      <string name="unbind_device_alert_content">Χάθηκε η σύνδεση με το %1$s. Για εξοικονόμηση μπαταρίας, αποσυνδέστε τη συσκευή τώρα.</string>
      <string name="unbind_device_alert_ok">Αποσύνδεση</string>

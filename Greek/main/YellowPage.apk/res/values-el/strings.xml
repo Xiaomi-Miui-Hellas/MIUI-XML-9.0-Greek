@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="about_fraud_num_online_identification">Σχετικά με την φραγή τηλεπωλητών</string>
+     <string name="about_fraud_num_online_identification">Σχετικά με τη φραγή τηλεπωλητών</string>
      <string name="about_phone_event">Πληροφορίες σχετικά με την υπηρεσία</string>
      <string name="about_smart_antispam_summary">Σχετικά με αυτό το χαρακτηριστικό</string>
      <string name="about_telephone_fraud">Προσέχετε για απάτες</string>
@@ -10,7 +10,7 @@
      <string name="account_type_name">Λογαριασμός Mi</string>
      <string name="account_updating_device">Ενημέρωση…</string>
      <string name="account_updating_device_failed">Η σύνδεση στο Χρυσό Οδηγό απέτυχε, παρακαλώ προσπαθήστε ξανά</string>
-     <string name="account_verify_password">Χρησιμοποιείτε αυτή την υπηρεσία σε άλλη συσκευή. Για λόγους ασφαλείας, πρέπει να επαληθεύσετε τον λογαριασμό Mi σε αυτή την συσκευή.</string>
+     <string name="account_verify_password">Χρησιμοποιείτε αυτή την υπηρεσία σε άλλη συσκευή. Για λόγους ασφαλείας, πρέπει να επαληθεύσετε το λογαριασμό Mi σε αυτή τη συσκευή.</string>
      <string name="account_yellowpage_favorite">Αγαπημένα</string>
      <string name="account_yellowpage_followed">Επαληθευμένοι Λογαριασμοί</string>
      <string name="account_yellowpage_recent">Προβολή ιστορικού</string>
@@ -43,7 +43,7 @@
      <string name="confirm_delete_all_call_log_title">Διαγραφή όλου του αρχείου κλήσεων;</string>
      <string name="confirm_delete_call_log_title">Διαγραφή αρχείου κλήσεων;</string>
      <string name="confirm_to_add_blacklist">Φραγή αυτού του αριθμού;</string>
-     <string name="confirm_to_remove_blacklist">Διαγραφή αυτού του αριθμού από την λίστα φραγών;</string>
+     <string name="confirm_to_remove_blacklist">Διαγραφή αυτού του αριθμού από τη λίστα φραγών;</string>
      <string name="confirm_to_send_to_desktop">Τοποθέτηση %s στην Αρχική Οθόνη;</string>
      <string name="contact_detail_calllog_call_note_tips">Σημειώσεις κλήσεων</string>
      <string name="contact_detail_calllog_call_record_tips">Εγγραφή κλήσης</string>
@@ -87,7 +87,7 @@
      <string name="express_company_list_empty">Δεν υπάρχουν εταιρείες</string>
      <string name="express_company_phone_prefix">Επικοινωνία:</string>
      <string name="express_company_pricing_details">Λεπτομέρειες τιμολόγησης</string>
-     <string name="express_contact_address">Εισάγετε την διεύθυνσή σας</string>
+     <string name="express_contact_address">Εισάγετε τη διεύθυνσή σας</string>
      <string name="express_contact_address_finding">Εντοπισμός…</string>
      <string name="express_contact_label">Πληροφορίες για υπηρεσία παραλαβής πακέτου</string>
      <string name="express_contact_phone">Εισάγετε τον αριθμό του τηλεφώνου σας</string>
@@ -238,7 +238,7 @@
      <string name="menu_delete_one">Διαγραφή από το αρχείο κλήσεων</string>
      <string name="menu_enroll_in_yellow_page">Εγγραφή στο Χρυσό Οδηγό Mi</string>
      <string name="menu_follow_yellow_page">Ακολουθείστε</string>
-     <string name="menu_remove_black_list">Διαγραφή από την λίστα φραγών</string>
+     <string name="menu_remove_black_list">Διαγραφή από τη λίστα φραγών</string>
      <string name="menu_remove_from_favorite">Διαγραφή από τα αγαπημένα</string>
      <string name="menu_save_contact">Αποθήκευση αριθμού στις επαφές</string>
      <string name="menu_unfollow_yellow_page">Μην ακολουθείτε</string>
@@ -288,7 +288,7 @@
      <string name="payment_failed_common_problems">Παρουσιάστηκε σφάλμα κατά την πληρωμή</string>
      <string name="payment_unknown_status_summary">Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</string>
      <string name="payment_unknown_status_title">Δεν ήταν δυνατή η επιβεβαίωση της κατάστασης πληρωμής</string>
-     <string name="phone_event_setting_notice_text">"Η αναγνώριση άγνωστων αριθμών, σας βοηθά να καταλάβετε ποιος πάροχος υπηρεσιών σας κάλεσε ή σας έστειλε μήνυμα. Ένα μήνυμα με τις πληροφορίες του παρόχου υπηρεσιών θα αποσταλεί στο τηλέφωνό σας, αφού επιβεβαιωθεί από την Xiaomi. Θα πρέπει να διαβάσετε και να συμφωνήσετε με τα %1$s και %2$s για να χρησιμοποιήσετε αυτή την λειτουργία."</string>
+     <string name="phone_event_setting_notice_text">"Η αναγνώριση άγνωστων αριθμών, σας βοηθά να καταλάβετε ποιος πάροχος υπηρεσιών σας κάλεσε ή σας έστειλε μήνυμα. Ένα μήνυμα με τις πληροφορίες του παρόχου υπηρεσιών θα αποσταλεί στο τηλέφωνό σας, αφού επιβεβαιωθεί από την Xiaomi. Θα πρέπει να διαβάσετε και να συμφωνήσετε με τα %1$s και %2$s για να χρησιμοποιήσετε αυτή τη λειτουργία."</string>
      <string name="phone_info_divider">" ｜ "</string>
      <string name="photo_count">%d συνολικά</string>
      <string name="pull_to_refresh_pull_label">Τραβήξτε για ανανέωση…</string>
@@ -348,17 +348,17 @@
      <string name="sina_token_expired_warning">Ο λογαριασμός Weibo έχει λήξει: Παρακαλώ επανασυνδέστε τον</string>
      <string name="sina_token_invalid_warning">Ο λογαριασμός Weibo είναι άκυρος: Παρακαλώ επανασυνδέστε τον</string>
      <string name="smart_antispam">Εντοπισμός άγνωστων αριθμών</string>
-     <string name="toast_finish_delete_call_log">Αρχείο κλήσεων διαγράφτηκε</string>
+     <string name="toast_finish_delete_call_log">Το αρχείο κλήσεων διαγράφηκε</string>
      <string name="toast_text_copied">Το κείμενο αντιγράφτηκε</string>
      <string name="try_again">Προσπαθήστε ξανά</string>
      <string name="turn_off_hint_title">Σημείωση</string>
-     <string name="turn_off_phone_event_hint">"Εάν απενεργοποιήσετε αυτή τη λειτουργία, δεν θα είστε σε θέση να την χρησιμοποιήσετε αφού τερματίσετε την κλήση."</string>
+     <string name="turn_off_phone_event_hint">"Εάν απενεργοποιήσετε αυτή τη λειτουργία, δεν θα είστε σε θέση να τη χρησιμοποιήσετε αφού τερματίσετε την κλήση."</string>
      <string name="turn_off_smart_antispam_hint">Απενεργοποίηση προστασίας κλήσεων από αγνώστους;</string>
      <string name="turn_on_phone_event_dialog_title">Ενημέρωση βάσης δεδομένων αναγνώρισης αριθμών</string>
      <string name="turn_on_phone_event_summary">Αποστολή κατάστασης τηλεφώνου και αριθμών υπηρεσιών</string>
      <string name="turn_on_phone_event_title">Λήψη πληροφοριών υπηρεσίας</string>
      <string name="turn_on_smart_antispam_hint">Αναγνώριση κλήσης από άγνωστους αριθμούς με τη χρήση της βάσης δεδομένων της Mi</string>
-     <string name="turn_on_smart_antispam_summary_off">Αναζήτηση μόνο σε αριθμούς που είναι αποθηκευμένους στην συσκευή</string>
+     <string name="turn_on_smart_antispam_summary_off">Αναζήτηση μόνο σε αριθμούς που είναι αποθηκευμένους στη συσκευή</string>
      <string name="turn_on_smart_antispam_summary_on">Ανέβασμα και εντοπισμός άγνωστων αριθμών στα αρχεία κλήσεων και μηνυμάτων κειμένου</string>
      <string name="turn_on_smart_antispam_title">Εντοπισμός άγνωστων αριθμών</string>
      <string name="turn_on_yellowpage_service_title">Χρήση της υπηρεσίας Χρυσού Οδηγού</string>
@@ -379,6 +379,6 @@
      <string name="yellowpage_navigation_network_location_enable">Επιτρέψτε</string>
      <string name="yellowpage_navigation_network_location_enable_later">Όχι τώρα</string>
      <string name="yellowpage_navigation_network_location_enabled">Η πρόσβαση στην τοποθεσία σας είναι ενεργή. Μπορείτε να την απενεργοποιήσετε ανά πάσα στιγμή στις Ρυθμίσεις.</string>
-     <string name="yellowpage_navigation_network_location_not_enabled_summary">Βελτίωση των αποτελεσμάτων αναζήτησης, επιτρέποντας στον Χρυσό Οδηγό την πρόσβαση σε πληροφορίες για την τοποθεσίας σας.</string>
+     <string name="yellowpage_navigation_network_location_not_enabled_summary">Βελτίωση των αποτελεσμάτων αναζήτησης, επιτρέποντας στο Χρυσό Οδηγό την πρόσβαση σε πληροφορίες για την τοποθεσίας σας.</string>
      <string name="yellowpage_navigation_network_location_not_enabled_title">Πρόσβαση στην τοποθεσία</string>
 </resources>

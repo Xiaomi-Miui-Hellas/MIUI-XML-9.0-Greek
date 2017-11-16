@@ -92,7 +92,7 @@
      <string name="ok">OK</string>
      <string name="permission_group_title_charges_related">Χρεώσεις</string>
      <string name="permission_group_title_media_related">Πολυμέσα</string>
-     <string name="permission_group_title_privacy_related">Ιδιωτικότητα</string>
+     <string name="permission_group_title_privacy_related">Απόρρητο</string>
      <string name="permission_group_title_settings_related">Ρυθμίσεις</string>
      <string name="permission_warning_template">Επιτρέπετε στο %1$s να %2$s;</string>
      <string name="permission_warning_template_ask">Επιτρέπετε στο %1$s τα ακόλουθα δικαιώματα;</string>

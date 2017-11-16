@@ -30,7 +30,7 @@
      <string name="do_not_show_next_time">Να μην εμφανιστεί ξανά</string>
      <string name="error_camera_unavailable">Ελέγξτε αν άλλη εφαρμογή χρησιμοποιεί αυτήν τη στιγμή την Κάμερα.</string>
      <string name="error_camera_unavailable_title">Η Κάμερα δεν είναι διαθέσιμη</string>
-     <string name="first_using_dialog_message">"Η πυξίδα χρειάζεται να χρησιμοποιήσει τη σύνδεση δικτύου της συσκευής σας, την φωτογραφική μηχανή και τις υπηρεσίες τοποθεσίας για να λειτουργήσει κανονικά."</string>
+     <string name="first_using_dialog_message">"Η πυξίδα χρειάζεται να χρησιμοποιήσει τη σύνδεση δικτύου της συσκευής σας, τη φωτογραφική μηχανή και τις υπηρεσίες τοποθεσίας για να λειτουργήσει κανονικά."</string>
      <string name="first_using_dialog_title">Άδεια πρόσβασης</string>
      <string name="guide_toast">Βαθμονομήστε την πυξίδα, χρησιμοποιώντας την ακόλουθη κίνηση.</string>
      <string name="latitude">LAT</string>

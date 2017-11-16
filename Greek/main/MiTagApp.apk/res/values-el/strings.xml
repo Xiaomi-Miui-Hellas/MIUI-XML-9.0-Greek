@@ -55,7 +55,7 @@
   <string name="deleting">Διαγραφή…</string>
   <string name="detect_empty_tag">Άδειο ετικέτα ανιχνεύεται</string>
   <string name="detect_tag">Ανιχνεύθηκε Tag</string>
-  <string name="dialog_select_account">Επιλέξτε τον λογαριασμό</string>
+  <string name="dialog_select_account">Επιλέξτε το λογαριασμό</string>
   <string name="diselect_all">Αποεπιλογή όλων</string>
   <string name="display">Προβολή</string>
   <string name="disturb_mode">Νυχτερινή σίγαση</string>
@@ -77,7 +77,7 @@
   <string name="err_no_nfc">"Το τηλέφωνό σας δεν υποστηρίζει NFC. Αυτή η εφαρμογή δεν μπορεί να λειτουργήσει."</string>
   <string name="err_parse_external_data">Αυτός ο τύπος αρχείου δεν υποστηρίζεται</string>
   <string name="err_tag_not_supported">"Το τηλέφωνό σας δεν υποστηρίζει tagging"</string>
-  <string name="err_tag_protected">Αυτό το Tag προστατεύεται με κωδικό. Παρακαλώ εισάγετε τον σωστό κωδικό.</string>
+  <string name="err_tag_protected">Αυτό το Tag προστατεύεται με κωδικό. Παρακαλώ εισάγετε το σωστό κωδικό.</string>
   <string name="err_tag_read_only">"Δεν μπορείς να γράψεις σε αυτό το Tag"</string>
   <string name="error_password">Κωδικός λάθους</string>
   <string name="fail_get_contact_info">"Αδυναμία λήψης πληροφοριών επαφής. Βεβαιωθείτε ότι έχετε δώσει άδεια στο PonPonTag να βλέπει τις πληροφορίες των επαφών σας."</string>
@@ -113,7 +113,7 @@
   <string name="new_config">νέα καθήκοντα</string>
   <string name="new_configures">Νέες διαμορφώσεις</string>
   <string name="no_available_networks">Δεν υπάρχουν διαθέσιμα δίκτυα</string>
-  <string name="no_available_networks_summary">Δοκιμάστε ξανά μετά την σύνδεση σε WLAN</string>
+  <string name="no_available_networks_summary">Δοκιμάστε ξανά μετά τη σύνδεση σε WLAN</string>
   <string name="no_available_xiaomi_shop">Απέτυχε το άνοιγμα της αγοράς Xiaomi</string>
   <string name="not_save_btn">Όχι</string>
   <string name="null_task">Δεν υπάρχουν καθήκοντα</string>

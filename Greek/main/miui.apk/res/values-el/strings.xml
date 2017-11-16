@@ -115,7 +115,7 @@
      <string name="send_sms_for_sync_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="sim_changed_reactivate_int_notice">Η τρέχουσα SIM είναι ανενεργή. Θα σταλθεί αυτόματα ένα κείμενο ενεργοποίησης (χρήση κανονικής χρέωσης).</string>
      <string name="sim_changed_reactivate_notice">Η τρέχουσα SIM είναι ανενεργή. Θα σταλθεί αυτόματα ένα κείμενο ενεργοποίησης (χρήση κανονικής χρέωσης).</string>
-     <string name="sim_in_airplane_mode">Παρακαλώ απενεργοποιήστε την λειτουργία πτήσης.</string>
+     <string name="sim_in_airplane_mode">Παρακαλώ απενεργοποιήστε τη λειτουργία πτήσης.</string>
      <string name="sim_locked">Κλειδωμένη κάρτα SIM.</string>
      <string name="sim_not_ready">SIM κάρτα σε χρήση. Δοκιμάστε αργότερα.</string>
      <string name="sim_unavailable">Μη διαθέσιμη κάρτα SIM.</string>

@@ -3,7 +3,7 @@
     <string name="learn_title">Μάθε Περισσότερα</string>
     <string name="about">Περισσότερα για την εφαρμογή…</string>
     <string name="more_apps">Περισσότερες εφαρμογές…</string>
-    <string name="upgrade">Στηρίξτε τον δημιουργό…</string>
+    <string name="upgrade">Στηρίξτε το δημιουργό…</string>
     <string name="app_name">Number Fixer</string>
     <string name="intro">"Το Number Fixer περνά μέσα από τις επαφές σας και προσθέτει έναν κωδικό περιοχής για αριθμούς τηλεφώνου που τους λείπει.
 
@@ -17,8 +17,8 @@
     <string name="find_numbers_delete">Διαγραφή κωδικού περιοχής/χώρας</string>
     <string name="find_numbers_delete_progress">Εύρεση #ψήφιων αριθμών που αρχίζουν με ~…</string>
     <string name="number_list_title">Διόρθωση λίστας</string>
-    <string name="delete_dialog">Διαγραφή # από την λίστα;</string>
-    <string name="number_deleted">Ο αριθμός διαγράφηκε από την λίστα</string>
+    <string name="delete_dialog">Διαγραφή # από τη λίστα;</string>
+    <string name="number_deleted">Ο αριθμός διαγράφηκε από τη λίστα</string>
     <string name="delete">Διαγραφή</string>
     <string name="cancel">Άκυρο</string>
     <string name="go">Διόρθωση όλων</string>

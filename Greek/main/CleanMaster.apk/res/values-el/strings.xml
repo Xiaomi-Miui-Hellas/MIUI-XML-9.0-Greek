@@ -176,7 +176,7 @@
      <string name="empty_title_residual">Δεν βρέθηκαν υπολείμματα</string>
      <string name="empty_title_video">Δεν υπάρχουν βίντεο για διαγραφή</string>
      <string name="flow_rank_title">Χρήση δεδομένων</string>
-     <string name="function_app_lock_title">%d εφαρμογές περιέχουν κινδύνους για την ιδιωτικότητα</string>
+     <string name="function_app_lock_title">%d εφαρμογές περιέχουν κινδύνους απορρήτου</string>
      <string name="garbage_clean_detail">Λεπτομέρειες</string>
      <string name="garbage_cleanup_detail">%1$d φορές, καθαρίστηκαν %2$s</string>
      <string name="garbage_month">Καθαρίστηκαν %s αυτό το μήνα</string>
@@ -286,7 +286,7 @@
      <string name="name_optimizer">Πολιτική Απορρήτου Cheetah Mobile</string>
      <string name="nb_clear_set">Καθαρισμός cache, προβολή πληροφοριών μπαταρίας και λίστας φραγών στον πίνακα ειδοποιήσεων</string>
      <string name="net_assistant_detail">Χρησιμοποιήθηκαν %1$s, εξοικονομήθηκαν %2$s</string>
-     <string name="net_assistant_title">Χρησιμοποιήθηκαν %s δεδομένα κινητής αυτό τον μήνα</string>
+     <string name="net_assistant_title">Χρησιμοποιήθηκαν %s δεδομένα κινητής αυτό το μήνα</string>
      <string name="network_not_available">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="news_change">Αλλαγή</string>
      <string name="no_network">"Αδυναμία σύνδεσης στο δίκτυο. Δοκιμάστε ξανά αργότερα"</string>
@@ -386,9 +386,9 @@
      <string name="tips_of_auto_launch_manage">Αποτρέψτε την αυτόματη εκκίνηση εφαρμογών με σπάνια χρήση</string>
      <string name="tips_of_cloud_service">Συνδεθείτε με τον Mi λογαριασμό σας για να κάνετε χρήση περισσότερων υπηρεσιών Mi</string>
      <string name="tips_of_connect">Συνδεθείτε στο Internet για να χρησιμοποιήσετε το πλήρες σύνολο των χαρακτηριστικών Ασφαλείας</string>
-     <string name="tips_of_garbage_cloud_scan">Βρείτε κρυμμένα σκουπίδια με την σάρωση cloud</string>
+     <string name="tips_of_garbage_cloud_scan">Βρείτε κρυμμένα σκουπίδια με τη σάρωση cloud</string>
      <string name="tips_of_garbage_data_set">Ενημερώστε τη βάση του Cleaner για να βρείτε περισσότερα σκουπίδια στη συσκευή σας</string>
-     <string name="tips_of_network_speed_set">Δείτε την ταχύτητα δικτύου στην γραμμή κατάστασης</string>
+     <string name="tips_of_network_speed_set">Δείτε την ταχύτητα δικτύου στη γραμμή κατάστασης</string>
      <string name="tips_of_operators_set">Ρυθμίστε αυτόματα τα στατιστικά χρήσης δεδομένων</string>
      <string name="tips_of_package_set">Ρυθμίστε το πρόγραμμα δεδομένων σας και ελέγξτε το ποσό της κίνησης που χρησιμοποιείτε</string>
      <string name="tips_of_traffic_notification">Προβολή στατιστικών για τα δεδομένα κινητής στον πίνακα ειδοποιήσεων</string>

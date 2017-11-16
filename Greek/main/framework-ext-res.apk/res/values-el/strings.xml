@@ -60,8 +60,8 @@
      <string name="group_name_coworkers">Συνάδελφοι</string>
      <string name="group_name_family">Οικογένεια</string>
      <string name="group_name_friends">Φίλοι</string>
-     <string name="handy_mode_enter_dlg_msg">Είσοδος στην λειτουργία με ένα χέρι;</string>
-     <string name="handy_mode_enter_dlg_title">Είσοδος στην λειτουργία με ένα χέρι</string>
+     <string name="handy_mode_enter_dlg_msg">Είσοδος στη λειτουργία με ένα χέρι;</string>
+     <string name="handy_mode_enter_dlg_title">Είσοδος στη λειτουργία με ένα χέρι</string>
      <string name="handy_mode_summary">Κάντε κλικ στη μικρή οθόνη έξω από την περιοχή για να βγείτε</string>
      <string name="handy_mode_title">Λειτουργία με ένα χέρι</string>
      <string name="ignore_home_when_fingerprint_enrolling_msg">Τοποθετήστε το δάχτυλό σας στο κουμπί Home</string>
@@ -108,7 +108,7 @@
      <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Για να απενεργοποιήσετε αυτή τη λειτουργία, πατήστε το κουμπί Αύξησης έντασης.</string>
      <string name="screen_on_proximity_sensor_summary">"Μην καλύπτετε την πορτοκαλί περιοχή της οθόνης"</string>
      <string name="screen_on_proximity_sensor_title">Πρόληψη ατυχών κλήσεων</string>
-     <string name="screen_paper_mode_enter_toast">Λειτουργία ανάγνωσης ενεργή. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Πρόσθετες ρυθμίσεις > Λειτουργία Ανάγνωσης.</string>
+     <string name="screen_paper_mode_enter_toast">Λειτουργία ανάγνωσης ενεργή. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή τη δυνατότητα οποιαδήποτε στιγμή στις Πρόσθετες ρυθμίσεις > Λειτουργία Ανάγνωσης.</string>
      <string name="screen_rotation_freeze_message">Η αυτόματη περιστροφή απενεργοποιήθηκε</string>
      <string name="screenshot_gesture_detect_alert_button">Ενεργοποίηση στις ρυθμίσεις</string>
      <string name="screenshot_gesture_detect_alert_dont_again">Να μην εμφανιστεί ξανά</string>

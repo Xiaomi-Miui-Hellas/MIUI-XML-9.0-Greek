@@ -175,7 +175,7 @@
      <string name="editor_commend">Επεξεργασία</string>
      <string name="empty_comment">Τα σχόλια δεν μπορεί να είναι κενά</string>
      <string name="enable_documentsui">Ενεργοποιείστε πρώτα το %s στις Ρυθμίσεις > Εφαρμογές</string>
-     <string name="enable_sd_card">Εισάγετε κάρτα SD ή απενεργοποιήστε την μαζική αποθήκευση USB.</string>
+     <string name="enable_sd_card">Εισάγετε κάρτα SD ή απενεργοποιήστε τη μαζική αποθήκευση USB.</string>
      <string name="enable_usb">Συνδέστε τη συσκευή USB</string>
      <string name="encrypt_error">Αδυναμία απόκρυψης ορισμένων αρχείων. Δοκιμάστε ξανά</string>
      <string name="encrypt_prefix">ΚΡΥΦΑ</string>
@@ -318,7 +318,7 @@
      <string name="midrop_send_files">Επιλέξτε αρχεία για αποστολή</string>
      <string name="mobile_network_dialog_cancle">Ακύρωση</string>
      <string name="mobile_network_dialog_confirm">OK</string>
-     <string name="mobile_network_dialog_tip">Χρήση δεδομένων κινητής για προβολή αυτής της σελίδας; Θα χρεωθείτε για την χρήση δεδομένων από τον πάροχό σας.</string>
+     <string name="mobile_network_dialog_tip">Χρήση δεδομένων κινητής για προβολή αυτής της σελίδας; Θα χρεωθείτε για τη χρήση δεδομένων από τον πάροχό σας.</string>
      <string name="mobile_network_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="month_day_format">dd MMM</string>
      <string name="move_failed">Αδυναμία αποκοπής</string>
@@ -333,7 +333,7 @@
      <string name="my_follows">Η ροή μου</string>
      <string name="name_empty">Πρέπει να εισάγετε ένα όνομα.</string>
      <string name="need_login">Συνδεθείτε πρώτα</string>
-     <string name="need_read_storage_permission">Ο Explorer απαιτεί άδεια πρόσβασης στον χώρο αποθήκευσης της συσκευής</string>
+     <string name="need_read_storage_permission">Ο Explorer απαιτεί άδεια πρόσβασης στο χώρο αποθήκευσης της συσκευής</string>
      <string name="network_dialog_checkbox_tip">Να μην εμφανιστεί ξανά</string>
      <string name="network_not_available">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="network_spent_reminding">Το άνοιγμα αυτής της σελίδας απαιτεί κίνηση από το πρόγραμμα δεδομένων σας.</string>

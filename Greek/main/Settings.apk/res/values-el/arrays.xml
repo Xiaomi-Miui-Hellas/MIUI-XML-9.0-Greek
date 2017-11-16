@@ -768,7 +768,7 @@
      <string-array name="wifi_p2p_wps_setup">
         <item>Κουμπί Push</item>
         <item>PIN από ομότιμες συσκευές</item>
-        <item>PIN από αυτή την συσκευή</item>
+        <item>PIN από αυτή τη συσκευή</item>
      </string-array>
      <string-array name="wifi_peap_phase2_entries">
         <item>Κανένα</item>
@@ -800,7 +800,7 @@
      </string-array>
      <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Πάντα</item>
-        <item>Μόνο όταν είναι στην φόρτιση</item>
+        <item>Μόνο όταν είναι στη φόρτιση</item>
         <item>Ποτέ</item>
      </string-array>
      <string-array name="wifi_ssid_type_entries">

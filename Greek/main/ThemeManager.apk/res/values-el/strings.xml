@@ -58,7 +58,7 @@
      <string name="gift_present">Δώστε</string>
      <string name="gift_present_dlg_anonymous">Ανώνυμο δώρο</string>
      <string name="gift_present_dlg_input_hint">Mi Account ID/Τηλέφωνο</string>
-     <string name="gift_present_dlg_no_fee">Δεν θα χρεωθείτε από τον φορέα σας για την αποστολή των δώρων</string>
+     <string name="gift_present_dlg_no_fee">Δεν θα χρεωθείτε από το φορέα σας για την αποστολή των δώρων</string>
      <string name="gift_present_dlg_present_max_limit">Το θέμα δεν μπορεί να δοθεί ως δώρο πάνω από %1$s φορές.</string>
      <string name="gift_present_dlg_share">Δημιουργία κωδικού και κοινή χρήση δώρου</string>
      <string name="gift_present_fail_dlg_content">"Αδυναμία αποστολής αυτού του δώρου. "</string>
@@ -214,7 +214,7 @@
      <string name="resource_expand_full_text">Εμφάνιση</string>
      <string name="resource_failed_to_load_list">Αποτυχία φόρτωσης λίστας</string>
      <string name="resource_get_auth_checking">Έλεγχος άδειας…</string>
-     <string name="resource_get_auth_exceed_max_limit_tips">Δέκα συσκευές έχουν ήδη εξουσιοδοτηθεί σε αυτόν τον λογαριασμό</string>
+     <string name="resource_get_auth_exceed_max_limit_tips">Δέκα συσκευές έχουν ήδη εξουσιοδοτηθεί σε αυτόν το λογαριασμό</string>
      <string name="resource_get_auth_exceed_max_limit_title">Ο αριθμός εξουσιοδοτημένων συσκευών έχει ξεπεραστεί</string>
      <string name="resource_get_auth_has_been_undercarriaged">Αυτό το θέμα δεν είναι πλέον διαθέσιμο.</string>
      <string name="resource_get_auth_not_official">Θέματα από τρίτες πηγές, δεν υποστηρίζονται</string>

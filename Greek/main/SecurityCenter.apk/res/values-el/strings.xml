@@ -11,7 +11,7 @@
      <string name="Settings_title_power_center">Παράμετροι ενέργειας</string>
      <string name="about_autostart">Σχετικά με την αυτόματη έναρξη</string>
      <string name="ac_enter_applock">Εισάγετε το Κλείδωμα Εφαρμογής</string>
-     <string name="ac_firstUseApplock_subTitle">Χρησιμοποιήστε το Κλείδωμα Εφαρμογής για την προστασία της ιδιωτικής ζωής σας</string>
+     <string name="ac_firstUseApplock_subTitle">Χρήση καλύτερων εργαλείων ασφάλειας σε επίπεδο συστήματος</string>
      <string name="ac_firstUseApplock_title">Απαίτηση κωδικού για το άνοιγμα επιλεγμένων εφαρμογών</string>
      <string name="ac_summaryOff">Ανενεργό. Δεν απαιτείται κωδικός για το άνοιγμα εφαρμογών</string>
      <string name="ac_summaryOn">Ενεργό. Απαιτείται κωδικός για το άνοιγμα εφαρμογών</string>
@@ -113,7 +113,7 @@
      <string name="antivirus_update_btn_update">Ενημέρωση</string>
      <string name="apn_exception_summary">Δοκιμή διαμόρφωσης φορέα APN</string>
      <string name="apn_exception_title">Έλεγχος ρυθμίσεων APN</string>
-     <string name="app_check_no_issue">Δεν υπάρχουν προβλήματα με την μπαταρία.</string>
+     <string name="app_check_no_issue">Δεν υπάρχουν προβλήματα με τη μπαταρία.</string>
      <string name="app_detail">Λεπτομέρειες</string>
      <string name="app_error_tip_for_launcher">Τα στοιχεία υλικού της συσκευής σας ή η έκδοση του συστήματος Android, ενδέχεται να προκαλέσουν προβλήματα συμβατότητας με αποτέλεσμα ορισμένες εφαρμογές να μην λειτουργήσουν σωστά, να κολλήσουν ή να τερματιστούν. Εάν αντιμετωπίσετε τέτοια προβλήματα, κοινοποιήστε τα σχόλιά σας στους προγραμματιστές εφαρμογών.</string>
      <string name="app_error_tip_for_store">Τα στοιχεία υλικού της συσκευής σας ή η έκδοση του συστήματος Android, ενδέχεται να προκαλέσουν προβλήματα συμβατότητας με αποτέλεσμα την αποτυχία εγκατάστασης ορισμένων εφαρμογών. Εάν αντιμετωπίσετε τέτοια προβλήματα ή μερικές εφαρμογές δυσλειτουργούν, κολλάνε ή τερματίζονται, περιμένετε μέχρι οι προγραμματιστές της εφαρμογής να διορθώσουν τα σφάλματα και προσπαθήστε ξανά να εγκαταστήσετε την εφαρμογή.</string>
@@ -250,7 +250,7 @@
      <string name="apps_item_sms_title">Ρυθμίσεις προεπιλογής μηνυμάτων</string>
      <string name="apps_item_summary_sms">Το %s έχει πρόσβαση στα μηνύματά σας. Μπορεί να δημιουργήσει προβλήματα ασφάλειας</string>
      <string name="apps_item_summary_system_rooted">Η πρόσβαση root έχει επιτραπεί. Επαναφέρετε τις προεπιλεγμένες ρυθμίσεις για αποφυγή κινδύνων ασφάλειας!</string>
-     <string name="apps_item_summary_system_update">Ορισμένα σφάλματα έχουν επιδιορθωθεί στην νέα έκδοση για να γίνουν οι πληρωμές πιο ασφαλείς.</string>
+     <string name="apps_item_summary_system_update">Ορισμένα σφάλματα έχουν επιδιορθωθεί στη νέα έκδοση για να γίνουν οι πληρωμές πιο ασφαλείς.</string>
      <string name="apps_item_title_system">Ενημέρωση συστήματος</string>
      <string name="apps_item_virus_cleanup_success">Επιτυχής καθαρισμός!</string>
      <string name="apps_item_virus_cleanup_text">Καθαρισμός</string>
@@ -534,7 +534,7 @@
      <string name="dlg_add_blacklist">Φραγή αυτού του αριθμού;</string>
      <string name="dlg_add_blacklist_title">Προσθήκη στη λίστα φραγών</string>
      <string name="dlg_add_keyword">Προσθήκη λέξεων-κλειδιών</string>
-     <string name="dlg_antispam_mode_delete_message">Δεν μπορείτε να επανακτήσετε τους κανόνες μετά την διαγραφή τους.</string>
+     <string name="dlg_antispam_mode_delete_message">Δεν μπορείτε να επανακτήσετε τους κανόνες μετά τη διαγραφή τους.</string>
      <string name="dlg_antispam_mode_delete_title">Διαγραφή κανόνων;</string>
      <string name="dlg_antispam_using_mode_delete_message">Διαγραφή των κανόνων που είναι σε ισχύ και επιστροφή στους προεπιλεγμένους κανόνες της λίστας φραγών;</string>
      <string name="dlg_antispam_using_mode_international_delete_message">Διαγραφή των κανόνων που είναι σε ισχύ και επιστροφή στους προεπιλεγμένους κανόνες της λίστας φραγών;</string>
@@ -557,7 +557,7 @@
      <string name="dlg_no_block_ok">Άρση φραγής</string>
      <string name="dlg_remove_address_blacklist">Διαγραφή αυτής της τοποθεσίας από τις φραγές;</string>
      <string name="dlg_remove_address_whitelist">Διαγραφή αυτής της τοποθεσίας από τις εξαιρέσεις;</string>
-     <string name="dlg_remove_blacklist">Διαγραφή αυτών των αριθμών από την λίστα;</string>
+     <string name="dlg_remove_blacklist">Διαγραφή αυτών των αριθμών από τη λίστα;</string>
      <string name="dlg_remove_blacklist_ing">Αφαίρεση…</string>
      <string name="dlg_remove_blacklist_title">Αφαίρεση</string>
      <string name="dlg_remove_ok">Αφαίρεση</string>
@@ -638,7 +638,7 @@
      <string name="forget_password_button_text_normal">Ξέχασα τον κωδικό</string>
      <string name="forget_pattern"><u>Ξεχάσατε το μοτίβο;</u></string>
      <string name="free_send_net_booster">Δωρεάν ενίσχυση ταχύτητας Δικτύου</string>
-     <string name="free_send_net_booster_tip">Απολαύστε την ομαλή εμπειρία gaming με την δωρεάν ενίσχυση ταχύτητας Δικτύου.</string>
+     <string name="free_send_net_booster_tip">Απολαύστε την ομαλή εμπειρία gaming με τη δωρεάν ενίσχυση ταχύτητας Δικτύου.</string>
      <string name="free_time_traffic">Δωρεάν όριο δεδομένων</string>
      <string name="free_time_traffic_hint">Εισάγετε το δωρεάν όριο δεδομένων</string>
      <string name="free_time_traffic_settings">Δωρεάν όριο δεδομένων</string>
@@ -662,7 +662,7 @@
      <string name="gamebooster_network_dialog_message">Να επιτρέπεται στην Ασφάλεια η πρόσβαση στο δίκτυο προκειμένου να χρησιμοποιήσει όλες τις λειτουργίες της ενίσχυσης ταχύτητας παιχνιδιών;</string>
      <string name="gamebooster_network_dialog_title">Μερικές λειτουργίες δεν είναι διαθέσιμες</string>
      <string name="gateway_exception_summary">Ελέγξτε το router και δοκιμάστε ξανά.</string>
-     <string name="gateway_exception_summary2">Αδυναμία σύνδεσης στον διακομιστή</string>
+     <string name="gateway_exception_summary2">Αδυναμία σύνδεσης στο διακομιστή</string>
      <string name="gateway_exception_title">Δοκιμή router</string>
      <string name="get_sys_info">Λήψη πληροφοριών…</string>
      <string name="gigabyteShort">GB</string>
@@ -728,7 +728,7 @@
      <string name="keywords_powercenter">Εξοικ.μπαταρίας;Θερμοκρασία;Ενεργοποίηση;απενεργοποίηση;Μπαταρία;Κατανάλωση</string>
      <string name="keywords_powercenter_powerrank">Χρήση μπαταρίας</string>
      <string name="keywords_securitycenter">Ασφάλεια;Έλεγχος;Σάρωση</string>
-     <string name="keywords_securitycenter_settings">Χρήση μπαταρίας;Δικαιώματα;Λίστα φραγών;Χρήση δεδομένων;Ρύθμιση προγράμματος δεδομένων;Δοκιμή δικτύου;Κλείδωμα εφαρμογών;Εξοικ.μπαταρίας;Θερμοκρασία;Ενεργοποίηση;Απενεργοποίηση;Μπαταρία;Κατανάλωση;Αυτόματη έναρξη;ROOT;Τοποθεσία;Πρόσβαση στις επαφές;Φραγή;Λίστα φραγών;Έξυπνη λίστα φραγών;Απάτη;Πωλήσεις;Τηλεπωλητής;Αντιπρ. πωλήσεων;Δεδομένα;Κίνηση;Ρύθμιση;Σύνδεση;Internet;Δοκιμή;Κωδικός;Ιδιωτικότητα;Πρόσβαση;Προστασία</string>
+     <string name="keywords_securitycenter_settings">Χρήση μπαταρίας;Δικαιώματα;Λίστα φραγών;Χρήση δεδομένων;Ρύθμιση προγράμματος δεδομένων;Δοκιμή δικτύου;Κλείδωμα εφαρμογών;Εξοικ.μπαταρίας;Θερμοκρασία;Ενεργοποίηση;Απενεργοποίηση;Μπαταρία;Κατανάλωση;Αυτόματη έναρξη;ROOT;Τοποθεσία;Πρόσβαση στις επαφές;Φραγή;Λίστα φραγών;Έξυπνη λίστα φραγών;Απάτη;Πωλήσεις;Τηλεπωλητής;Αντιπρ. πωλήσεων;Δεδομένα;Κίνηση;Ρύθμιση;Σύνδεση;Internet;Δοκιμή;Κωδικός;Απόρρητο;Πρόσβαση;Προστασία</string>
      <string name="kilobyteShort">KB</string>
      <string name="kilobyte_per_second">K/s</string>
      <string name="label_callwait">Ειδοποίηση αναμονής κλήσης</string>
@@ -816,7 +816,7 @@
      <string name="mark_number_sell">Τηλεπωλητής</string>
      <string name="mark_number_setting_guide_content1">Φραγή κλήσεων από αριθμούς που αναφέρθηκαν;</string>
      <string name="mark_number_setting_guide_content2">Αυτόματη φραγή κλήσεων από αριθμούς που έχουν αναφερθεί από άλλους χρήστες</string>
-     <string name="mark_number_setting_guide_content3">Έχετε αναφέρει έναν αριθμό ως %1$s. Θέλετε την φραγή κλήσεων από αριθμούς που αναφέρονται ως %2$s;</string>
+     <string name="mark_number_setting_guide_content3">Έχετε αναφέρει έναν αριθμό ως %1$s. Θέλετε τη φραγή κλήσεων από αριθμούς που αναφέρονται ως %2$s;</string>
      <string name="mark_number_setting_guide_forward">Αριθμός αναφορών</string>
      <string name="mark_number_setting_guide_title">Φραγή αναφερθέντων αριθμών</string>
      <string name="mark_sell">Τηλεπωλητής</string>
@@ -890,7 +890,7 @@
  2. Αν έχετε μόλις ανανεώσει το υπόλοιπό σας, κάντε επανεκκίνηση της συσκευής σας και προσπαθήστε ξανά.
 
  3. Το σήμα δικτύου του φορέα σας μπορεί να είναι ασθενές στην τρέχουσα τοποθεσία σας."</string>
-     <string name="network_operator_exception_summary">Αδυναμία ενεργοποίησης κάρτας SIM. Βεβαιωθείτε ότι έχετε τοποθετήσει σωστά την κάρτα SIM και ότι το πακέτο δεδομένων κινητής έχει ενεργοποιηθεί από τον φορέα σας.</string>
+     <string name="network_operator_exception_summary">Αδυναμία ενεργοποίησης κάρτας SIM. Βεβαιωθείτε ότι έχετε τοποθετήσει σωστά την κάρτα SIM και ότι το πακέτο δεδομένων κινητής έχει ενεργοποιηθεί από το φορέα σας.</string>
      <string name="network_permission_exception_tips">Αδυναμία χρήσης δεδομένων κινητής για σύνδεση στο δίκτυο</string>
      <string name="network_roaming_exception_tips">Αδυναμία χρήσης δεδομένων κινητής κατά την περιαγωγή για σύνδεση στο δίκτυο.</string>
      <string name="network_route_exception_detail">""Μπορεί να υπάρχει πρόβλημα στον router που είστε συνδεδεμένοι:
@@ -899,7 +899,7 @@
 "</b>"Εάν είστε συνδεδεμένοι σε ένα δημόσιο δίκτυο Wi‑Fi, ο αριθμός των χρηστών που είναι συνδεδεμένοι σε αυτό, μπορεί να το επιβραδύνει ή να δημιουργεί προβλήματα συνδεσιμότητας. Αλλάξτε δίκτυο και δοκιμάστε ξανά.
 
  2."<b>" Προβλήματα παρόχου υπηρεσιών Internet
-Β"</b>"εβαιωθείτε ότι δεν υπάρχουν εκκρεμότητες με τον λογαριασμό σας από τον πάροχο υπηρεσιών Internet.
+Β"</b>"εβαιωθείτε ότι δεν υπάρχουν εκκρεμότητες με το λογαριασμό σας από τον πάροχο υπηρεσιών Internet.
 
  3."<b>" Προβλήματα Router
 Δ"</b>"οκιμάστε να κάνετε επανεκκίνηση του router η/και ελέγξτε τις ρυθμίσεις του.
@@ -911,7 +911,7 @@
 Δ"</b>οκιμάστε να χρησιμοποιήσετε άλλο καλώδιο Ethernet για να συνδέσετε τον router σας. Αν υποψιάζεστε ότι υπάρχει κάποιο πρόβλημα με τη σύνδεση στο σπίτι σας, επικοινωνήστε με το πάροχο υπηρεσιών Internet."</string>
      <string name="network_sim_exception_detail">"Μπορεί να υπάρχει κάποιο πρόβλημα με την κάρτα σας SIM:
 
- 1. Βεβαιωθείτε ότι δεν υπάρχει εκκρεμότητα με τον λογαριασμό σας από τον φορέα σας. Δοκιμάστε να χρησιμοποιήσετε την κάρτα SIM ενός φίλου σας και δείτε αν μπορείτε να συνδεθείτε κανονικά.
+ 1. Βεβαιωθείτε ότι δεν υπάρχει εκκρεμότητα με το λογαριασμό σας από το φορέα σας. Δοκιμάστε να χρησιμοποιήσετε την κάρτα SIM ενός φίλου σας και δείτε αν μπορείτε να συνδεθείτε κανονικά.
 
  2. Αν χρησιμοποιείτε δύο κάρτες SIM, δοκιμάστε να επιλέξετε την άλλη κάρτα και δείτε αν μπορείτε να συνδεθείτε κανονικά.
 
@@ -1165,7 +1165,7 @@
      <string name="quick_optimize_no_fix_issue_title">"Αδυναμία επίλυσης προβλημάτων μπαταρίας"</string>
      <string name="quick_optimize_no_issue">Χωρίς προβλήματα μπαταρίας</string>
      <string name="quick_optimize_no_issue_subtitle">Όλα είναι καλά</string>
-     <string name="quick_optimize_no_issue_title">"Δεν υπάρχουν προβλήματα με την μπαταρία"</string>
+     <string name="quick_optimize_no_issue_title">"Δεν υπάρχουν προβλήματα με τη μπαταρία"</string>
      <string name="quick_optimize_sub_summary_text">Προστέθηκαν %s διάρκεια μπαταρίας</string>
      <string name="read_all_sms">Σήμανση όλων ως αναγνωσμένα</string>
      <string name="recently_reject_message">Απορρίφθηκε η εγκατάσταση του %1$s και %2$d άλλων εφαρμογών</string>
@@ -1321,7 +1321,7 @@
      <string name="st_antispam_des_uesless">Ανενεργό</string>
      <string name="st_antispam_mode_add_new">Προσθήκη κανόνων</string>
      <string name="st_antispam_mode_blacklist">Φραγμένοι αριθμοί</string>
-     <string name="st_antispam_mode_blacklist_sum">Φραγή κλήσεων και SMS από αριθμούς που έχετε προσθέσει στην λίστα φραγών</string>
+     <string name="st_antispam_mode_blacklist_sum">Φραγή κλήσεων και SMS από αριθμούς που έχετε προσθέσει στη λίστα φραγών</string>
      <string name="st_antispam_mode_denyownself_sum">Προσαρμοσμένοι κανόνες</string>
      <string name="st_antispam_mode_only_all_deny">Φραγή όλων</string>
      <string name="st_antispam_mode_only_all_deny_sum">Φραγή όλων των κλήσεων και μηνυμάτων</string>
@@ -1377,11 +1377,11 @@
      <string name="st_title_editblacklist">Επεξεργασία λίστας φραγών</string>
      <string name="st_title_editwhitelist">Επεξεργασία εξαιρέσεων</string>
      <string name="st_title_keywords_blacklist">Φίλτρο λέξεων-κλειδιών</string>
-     <string name="st_title_man_addblacklist">Προσθήκη αριθμού στην λίστα φραγών</string>
+     <string name="st_title_man_addblacklist">Προσθήκη αριθμού στη λίστα φραγών</string>
      <string name="st_title_man_addwhitelist">Προσθήκη αριθμού στις εξαιρέσεις</string>
-     <string name="st_title_man_editblacklist">Επιλέξτε έναν κωδικό τοποθεσίας για προσθήκη στην λίστα φραγών</string>
+     <string name="st_title_man_editblacklist">Επιλέξτε έναν κωδικό τοποθεσίας για προσθήκη στη λίστα φραγών</string>
      <string name="st_title_man_editwhitelist">Επιλέξτε έναν κωδικό τοποθεσίας για προσθήκη στις εξαιρέσεις</string>
-     <string name="st_title_man_head_addblacklist">Προσθήκη προθέματος στην λίστα φραγών</string>
+     <string name="st_title_man_head_addblacklist">Προσθήκη προθέματος στη λίστα φραγών</string>
      <string name="st_title_man_head_addwhitelist">Προσθήκη προθέματος στις εξαιρέσεις</string>
      <string name="st_title_markednumber_group">Αναφορά αριθμού για φραγή</string>
      <string name="st_title_mode_choose_group">Επιλέξτε προφίλ</string>
@@ -1415,7 +1415,7 @@
      <string name="summary_miui_update">Διαθέσιμη ενημέρωση για %s.</string>
      <string name="summary_mms">Αποκλεισμός ανεπιθύμητων μηνυμάτων (πωλήσεις, αγγελίες, κ.λπ.)</string>
      <string name="summary_network_switch">Επιτρέψτε στην Ασφάλεια την πρόσβαση στο Internet</string>
-     <string name="summary_never_flow_verify">Αυτός ο αριθμός δεν έχει επιβεβαιωθεί με τον φορέα σας</string>
+     <string name="summary_never_flow_verify">Αυτός ο αριθμός δεν έχει επιβεβαιωθεί με το φορέα σας</string>
      <string name="summary_payment_risk">"Φαίνεται ότι το περιβάλλον πληρωμών δεν είναι ασφαλές"</string>
      <string name="summary_permission">Προστασία απορρήτου από εφαρμογές</string>
      <string name="summary_permission_root">Η συσκευή σας και τα προσωπικά δεδομένα είναι πιο ευάλωτα σε επιθέσεις από εφαρμογές που έχουν πρόσβαση root</string>
@@ -1478,7 +1478,7 @@
      <string name="tc_sms_report_get_sms_failure">Αδυναμία λήψης φόρμας SMS χρήσης δεδομένων</string>
      <string name="tc_sms_report_get_sms_successs">Η φόρμα SMS χρήσης δεδομένων ενημερώθηκε</string>
      <string name="tc_sms_report_get_sms_timeout">Λήξη χρονικού ορίου αίτησης</string>
-     <string name="tc_sms_report_get_success">Ελήφθη SMS με αναφορά χρήσης δεδομένων από τον φορέα. Βεβαιωθείτε ότι είναι ακριβής και υποβάλετέ τη σε μας.</string>
+     <string name="tc_sms_report_get_success">Ελήφθη SMS με αναφορά χρήσης δεδομένων από το φορέα. Βεβαιωθείτε ότι είναι ακριβής και υποβάλετέ τη σε μας.</string>
      <string name="tc_sms_report_get_success_notify_body">Βεβαιωθείτε ότι η αναφορά είναι ακριβής και στείλτε τη στην MIUI.</string>
      <string name="tc_sms_report_get_success_notify_title">Ελήφθη SMS με αναφορά χρήσης δεδομένων</string>
      <string name="tc_sms_report_geting_sms">Λήψη πληροφοριών SMS…</string>
@@ -1486,14 +1486,14 @@
      <string name="tc_sms_report_notify_correction_failure_title">Αδυναμία ενημέρωσης πληροφοριών χρήσης δεδομένων</string>
      <string name="tc_sms_report_notify_get_failure_body">Αδυναμία υποβολής αναφοράς χρήσης δεδομένων. Βεβαιωθείτε ότι είστε συνδεδεμένοι σε ένα δίκτυο κινητής τηλεφωνίας.</string>
      <string name="tc_sms_report_notify_get_failure_title">Αδυναμία λήψης SMS χρήσης δεδομένων</string>
-     <string name="tc_sms_report_notify_get_timeout_body">Λήξη χρονικού ορίου. Επιβεβαιώστε με τον φορέα σας ότι ο κωδικός ερωτήματος SMS είναι σωστός.</string>
+     <string name="tc_sms_report_notify_get_timeout_body">Λήξη χρονικού ορίου. Επιβεβαιώστε με το φορέα σας ότι ο κωδικός ερωτήματος SMS είναι σωστός.</string>
      <string name="tc_sms_report_notify_get_timeout_title">Αδυναμία λήψης SMS χρήσης δεδομένων</string>
      <string name="tc_sms_report_receive_content">Περιεχόμενα SMS αναφοράς χρήσης δεδομένων (Επιβεβαιώστε τα στατιστικά χρήσης δεδομένων)</string>
      <string name="tc_sms_report_receive_content_null">"Βοηθήστε στη βελτίωση αυτής της λειτουργίας!&lt;br/>Εδώ είναι το πώς:&lt;br/>1. Πηγαίνετε στο \"Έλεγχος εντολής SMS\" και \"Αριθμός παραλήπτη\"&lt;br/>2. Πατήστε \"Λήψη προτύπου SMS\"&lt;br/>3. Περιμένετε να λάβετε το μήνυμα SMS από το φορέα σας &lt;br/>4. Πατήστε  \"Αποστολή στη MIUI\"​"</string>
      <string name="tc_sms_report_receive_num">Αριθμός παραλήπτη</string>
      <string name="tc_sms_report_send_num">Αριθμός τηλεφώνου φορέα</string>
      <string name="tc_sms_report_summary">Βοηθήστε μας να βελτιώσουμε αυτή τη λειτουργία με την αποστολή μιας αναφοράς όταν οι πληροφορίες χρήσης δεδομένων είναι εσφαλμένες ή δεν ενημερώνονται</string>
-     <string name="tc_sms_report_tips_dialog_message">Η χρήση δεδομένων χρησιμοποιεί ένα ειδικά διαμορφωμένο SMS για να πάρει τα νεότερα στοιχεία χρήσης δεδομένων από τον φορέα σας. Εάν αυτή η λειτουργία δεν λειτουργεί κανονικά, δοκιμάστε να ενημερώσετε τη φόρμα SMS χρήσης δεδομένων. Στη συνέχεια, η νέα ενημερωμένη φόρμα θα ανέβει στους server μας.</string>
+     <string name="tc_sms_report_tips_dialog_message">Η χρήση δεδομένων χρησιμοποιεί ένα ειδικά διαμορφωμένο SMS για να πάρει τα νεότερα στοιχεία χρήσης δεδομένων από το φορέα σας. Εάν αυτή η λειτουργία δεν λειτουργεί κανονικά, δοκιμάστε να ενημερώσετε τη φόρμα SMS χρήσης δεδομένων. Στη συνέχεια, η νέα ενημερωμένη φόρμα θα ανέβει στους server μας.</string>
      <string name="tc_sms_report_tips_dialog_title">SMS χρήσης δεδομένων</string>
      <string name="tc_sms_report_title">Αναφορά σφάλματος χρήσης δεδομένων</string>
      <string name="tc_sms_report_toast_text">Λήψη πληροφοριών…</string>

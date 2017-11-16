@@ -25,7 +25,7 @@
      <string name="dlg_no_block">Άρση φραγής αυτού του αριθμού και αποκατάσταση σχετικών κλήσεων στο ιστορικό κλήσεων;</string>
      <string name="dlg_no_block_ok">Άρση φραγής</string>
      <string name="dlg_remove_address_blacklist">Διαγραφή αυτής της τοποθεσίας από τις φραγές;</string>
-     <string name="dlg_remove_blacklist">Διαγραφή αυτών των αριθμών από την λίστα και αποκατάσταση σχετικών κλήσεων στο ιστορικό κλήσεων;</string>
+     <string name="dlg_remove_blacklist">Διαγραφή αυτών των αριθμών από τη λίστα και αποκατάσταση σχετικών κλήσεων στο ιστορικό κλήσεων;</string>
      <string name="dlg_remove_blacklist_ing">Διαγραφή…</string>
      <string name="dlg_remove_blacklist_ok">Διαγραφή</string>
      <string name="dlg_white_antispam_hint">Εξαιρέσεις</string>
@@ -97,9 +97,9 @@
      <string name="st_title_adress_num">%d επιλεγμένα</string>
      <string name="st_title_blacklist_numbers">Φραγμένοι αριθμοί</string>
      <string name="st_title_editblacklist">Επεξεργασία λίστας φραγών</string>
-     <string name="st_title_man_addblacklist">Προσθήκη αριθμού στην λίστα φραγών</string>
-     <string name="st_title_man_editblacklist">Επιλέξτε έναν κωδικό τοποθεσίας για προσθήκη στην λίστα φραγών</string>
-     <string name="st_title_man_head_addblacklist">Προσθήκη προθέματος στην λίστα φραγών</string>
+     <string name="st_title_man_addblacklist">Προσθήκη αριθμού στη λίστα φραγών</string>
+     <string name="st_title_man_editblacklist">Επιλέξτε έναν κωδικό τοποθεσίας για προσθήκη στη λίστα φραγών</string>
+     <string name="st_title_man_head_addblacklist">Προσθήκη προθέματος στη λίστα φραγών</string>
      <string name="statusbar_notification_action_end_call">Τερματισμός κλήσης</string>
      <string name="statusbar_notification_dialing">Κλήση</string>
      <string name="statusbar_notification_incoming_call">Εισερχόμενη κλήση</string>
@@ -145,7 +145,7 @@
      <string name="voip_network_wifi">Είστε σε δίκτυο Wi-Fi, εντελώς δωρεάν</string>
      <string name="voip_network_wranning">Bad network</string>
      <string name="voip_other_unsupport_voip">"Ο καλούμενος δεν έχει ενεργοποιήσει τις κλήσεις VoIP"</string>
-     <string name="voip_others_not_online">Ο καλούμενος έχασε την σύνδεση</string>
+     <string name="voip_others_not_online">Ο καλούμενος έχασε τη σύνδεση</string>
      <string name="voip_outgoing_to_friend">Κλήση %1$s</string>
      <string name="voip_server_error">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="voip_start_call">Κλήση</string>
@@ -154,7 +154,7 @@
      <string name="voip_the_other_is_on_the_phone">Απασχολημένη γραμμή</string>
      <string name="voip_voip_call_online">Σε κλήση VoIP. Παρακαλώ καλέστε αργότερα</string>
      <string name="xiaomi_bytes_unit">%1$sB</string>
-     <string name="xiaomi_connect_download_manager_fail">Αδυναμία σύνδεσης του Διαχειριστή Λήψεων. Παρακαλώ ελέγξτε την κατάσταση του Διαχειριστή Λήψεων στην Διαχείριση Εφαρμογών.</string>
+     <string name="xiaomi_connect_download_manager_fail">Αδυναμία σύνδεσης του Διαχειριστή Λήψεων. Παρακαλώ ελέγξτε την κατάσταση του Διαχειριστή Λήψεων στη Διαχείριση Εφαρμογών.</string>
      <string name="xiaomi_external_storage_unavailable">Μη διαθέσιμος χώρος αποθήκευσης. Παρακαλώ ελέγξτε την κάρτα SD.</string>
      <string name="xiaomi_kilobytes_unit">%1$sKB</string>
      <string name="xiaomi_megabytes_unit">%1$sMB</string>

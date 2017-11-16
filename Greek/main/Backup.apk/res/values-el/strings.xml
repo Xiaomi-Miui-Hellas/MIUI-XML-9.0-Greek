@@ -59,7 +59,7 @@
      <string name="click_to_view">Πατήστε για να δείτε</string>
      <string name="cloud_app_name">Αντίγραφα Cloud</string>
      <string name="cloud_backup_hint">Είσοδος για ασφαλή αποθήκευση των αντιγράφων σας</string>
-     <string name="cloud_backup_login">Είσοδος χρησιμοποιώντας τον λογαριασμό Mi</string>
+     <string name="cloud_backup_login">Είσοδος χρησιμοποιώντας το λογαριασμό Mi</string>
      <string name="cloud_backup_window_title">Αντίγραφα MiCloud</string>
      <string name="cloud_home_title">MiCloud</string>
      <string name="cloud_item_info_summary">" (Τοπικά : %1$s | Στο Cloud : %2$s)"</string>
@@ -254,7 +254,7 @@
      <string name="trans_calculating_base_size">"Υπολογισμός μεγέθους εφαρμογών"</string>
      <string name="trans_cancel_confirm">Μεταφορά σε εξέλιξη. Ακύρωση τώρα;</string>
      <string name="trans_cancelling">Ακύρωση…</string>
-     <string name="trans_connect_failed_message">"Η σύνδεση απέτυχε. Παρακαλώ προσπαθήστε ξανά ή κάντε επανεκκίνηση. Και στην άλλη συσκευή, πηγαίνετε στις Ρυθμίσεις> Πρόσθετες ρυθμίσεις > Μεταφορά και πατήστε [Είμαι ο αποστολέας] ή ξανατρέξτε την Μεταφορά μετά από επανεκκίνηση"</string>
+     <string name="trans_connect_failed_message">"Η σύνδεση απέτυχε. Παρακαλώ προσπαθήστε ξανά ή κάντε επανεκκίνηση. Και στην άλλη συσκευή, πηγαίνετε στις Ρυθμίσεις> Πρόσθετες ρυθμίσεις > Μεταφορά και πατήστε [Είμαι ο αποστολέας] ή ξανατρέξτε τη Μεταφορά μετά από επανεκκίνηση"</string>
      <string name="trans_connect_failed_title">Αποτυχία σύνδεσης</string>
      <string name="trans_connect_failed_toast">"Αδυναμία σύνδεσης"</string>
      <string name="trans_connecting_toast">Σύνδεση…</string>

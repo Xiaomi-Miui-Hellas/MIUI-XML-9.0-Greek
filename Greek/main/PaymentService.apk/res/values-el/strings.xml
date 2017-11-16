@@ -268,10 +268,10 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
      <string name="progress_success_recharge_summary">Υπόλοιπο λογαριασμού: %1$s MiCredits.</string>
      <string name="progress_success_recharge_title">%1$s MiCredit. Ανανέωση ολοκληρώθηκε</string>
      <string name="progress_voucher_creating">Προσθέτοντας MiCredit στο λογαριασμό σας, παρακαλώ περιμένετε …</string>
-     <string name="progress_warning_check_with_contact">"Η πληρωμή δεν έχει φτάσει ακόμα στον λογαριασμό σας. 
+     <string name="progress_warning_check_with_contact">"Η πληρωμή δεν έχει φτάσει ακόμα στο λογαριασμό σας. 
 Θα ελέγξουμε ξανά μέσα σε δύο εργάσιμες ημέρες.
 Κέντρο εξυπηρέτησης πελατών:400-100-5678"</string>
-     <string name="progress_warning_waiting">Η πληρωμή δεν έχει φτάσει ακόμα τον λογαριασμό σας.</string>
+     <string name="progress_warning_waiting">Η πληρωμή δεν έχει φτάσει ακόμα το λογαριασμό σας.</string>
      <string name="prompt_info_button_hint">Προσοχή(%d)</string>
      <string name="prompt_info_button_text">OK</string>
      <string name="prompt_info_for_first_use">"Τα MiCredit δεν μπορούν να χρησιμοποιηθούν για αγορά προϊόντων hardware στο Mi.com."</string>
@@ -301,7 +301,7 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
      <string name="sms_code_empty">Εισάγετε τον κωδικό επαλήθευσης που λάβατε στο τηλέφωνό σας.</string>
      <string name="sms_code_error">Σφάλμα κωδικού επαλήθευσης κινητού τηλεφώνου. Παρακαλώ ζητήστε ξανά</string>
      <string name="sms_code_hint">Κωδικός επαλήθευσης κινητού τηλεφώνου</string>
-     <string name="summary_bind_phone">Για να εξασφαλιστεί η ασφάλεια του λογαριασμού σας, παρακαλώ ολοκληρώστε την πληρωμή σας αφού πρώτα συνδέσετε τον αριθμό του κινητού σας με τον λογαριασμό</string>
+     <string name="summary_bind_phone">Για να εξασφαλιστεί η ασφάλεια του λογαριασμού σας, παρακαλώ ολοκληρώστε την πληρωμή σας αφού πρώτα συνδέσετε τον αριθμό του κινητού σας με το λογαριασμό</string>
      <string name="summary_custom_service_phone">Τηλ:</string>
      <string name="summary_lockpattern">Απαίτηση μοναδικού μοτίβου κλειδώματος για MiCredit</string>
      <string name="summary_sms_code">Για να εξασφαλιστεί η ασφάλεια του λογαριασμού σας, παρακαλώ εισάγετε τον κωδικό επαλήθευσης που λάβατε στο τηλέφωνο %1$s, και μετά ολοκληρώστε την πληρωμή</string>

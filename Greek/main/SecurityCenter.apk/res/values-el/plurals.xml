@@ -113,8 +113,8 @@
         <item quantity="other">Έχει ληφθεί από %1$d άτομα</item>
      </plurals>
      <plurals name="notification_apps">
-        <item quantity="other">%d εφαρμογές περιέχουν κινδύνους για την ιδιωτικότητα</item>
-        <item quantity="one">%d εφαρμογή περιέχει κινδύνους για την ιδιωτικότητα</item>
+        <item quantity="other">%d εφαρμογές περιέχουν κινδύνους απορρήτου</item>
+        <item quantity="one">%d εφαρμογή περιέχει κινδύνους απορρήτου</item>
      </plurals>
      <plurals name="number_locked">
         <item quantity="other">%d εφαρμογές κλειδώθηκαν</item>

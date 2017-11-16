@@ -61,7 +61,7 @@
      <string name="dialog_confirm_delete_checkbox_message">Διαγραφή και των τοπικών αρχείων</string>
      <string name="dialog_confirm_delete_downloads_message">Διαγραφή %d εργασιών;</string>
      <string name="dialog_confirm_delete_the_download_item_message">Διαγραφή αυτών των εργασιών</string>
-     <string name="dialog_failed_body">Θέλετε να ξαναπροσπαθήσετε την λήψη του αρχείου αργότερα ή να το αφαιρέσετε από την αναμονή λήψεων;</string>
+     <string name="dialog_failed_body">Θέλετε να ξαναπροσπαθήσετε τη λήψη του αρχείου αργότερα ή να το αφαιρέσετε από την αναμονή λήψεων;</string>
      <string name="dialog_file_already_exists">Αδυναμία λήψης. Το αρχείο προορισμού υπάρχει ήδη.</string>
      <string name="dialog_file_missing_body">Αδύνατη η εύρεση του ληφθέντος αρχείου.</string>
      <string name="dialog_file_missing_title">Αποτυχία ανοίγματος αρχείου</string>
@@ -181,7 +181,7 @@
      <string name="installing">Εγκατάσταση…</string>
      <string name="insufficient_space">Δεν υπάρχει αρκετός χώρος</string>
      <string name="invalid_address">Η διαδρομή του αρχείου που πληκτρολογήσατε δεν είναι έγκυρη</string>
-     <string name="jump_rank_hint">Ρίξτε μια ματιά στην βαθμολογία των σημερινών λήψεων ></string>
+     <string name="jump_rank_hint">Ρίξτε μια ματιά στη βαθμολογία των σημερινών λήψεων ></string>
      <string name="keep_queued_download">Διατήρηση</string>
      <string name="load_finish_hint">Μπορείτε να συνεχίσετε την προβολή αύριο</string>
      <string name="loading">Μισό λεπτό…</string>
@@ -354,8 +354,8 @@
      <string name="sniff_terms_agree_new">Συμφωνώ</string>
      <string name="sniff_terms_check_text">Συμφωνείστε με τους Όρους Παροχής Υπηρεσιών</string>
      <string name="sniff_terms_msg">Θα πρέπει να αποδεχτείτε τους\"Όρους Χρήσης\" για να αρχίσετε να χρησιμοποιείτε μια μηχανή αναζήτησης από τρίτους.</string>
-     <string name="sniff_terms_msg_a">Αυτή η δυνατότητα αναζήτησης παρέχεται από έναν τρίτο προγραμματιστή. Θα πρέπει να συμφωνήσετε με τους Όρους Παροχής Υπηρεσιών για να μπορέσετε να την χρησιμοποιήσετε.</string>
-     <string name="sniff_terms_msg_b">Αυτή η δυνατότητα αναζήτησης παρέχεται από έναν τρίτο προγραμματιστή. Θα πρέπει να συμφωνήσετε με τους Όρους Παροχής Υπηρεσιών για να μπορέσετε να την χρησιμοποιήσετε. Εάν συμφωνείτε με τους Όρους, πατήστε το σημάδι επιλογής παρακάτω.</string>
+     <string name="sniff_terms_msg_a">Αυτή η δυνατότητα αναζήτησης παρέχεται από έναν τρίτο προγραμματιστή. Θα πρέπει να συμφωνήσετε με τους Όρους Παροχής Υπηρεσιών για να μπορέσετε να τη χρησιμοποιήσετε.</string>
+     <string name="sniff_terms_msg_b">Αυτή η δυνατότητα αναζήτησης παρέχεται από έναν τρίτο προγραμματιστή. Θα πρέπει να συμφωνήσετε με τους Όρους Παροχής Υπηρεσιών για να μπορέσετε να τη χρησιμοποιήσετε. Εάν συμφωνείτε με τους Όρους, πατήστε το σημάδι επιλογής παρακάτω.</string>
      <string name="sniff_terms_msg_bold">Όροι χρήσης</string>
      <string name="sniff_terms_msg_bold_new">Όροι παροχής υπηρεσιών</string>
      <string name="sniff_terms_reject">Απόρριψη</string>

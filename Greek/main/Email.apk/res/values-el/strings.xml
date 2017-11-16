@@ -9,7 +9,7 @@
      <string name="abc_searchview_description_search">Αναζήτηση</string>
      <string name="abc_searchview_description_submit">Καταχώριση</string>
      <string name="abc_searchview_description_voice">Ηχητική αναζήτηση</string>
-     <string name="account_duplicate_dlg_message_fmt">"Χρησιμοποιείτε ήδη το όνομα χρήστη για τον λογαριασμό \"%s\"."</string>
+     <string name="account_duplicate_dlg_message_fmt">"Χρησιμοποιείτε ήδη το όνομα χρήστη για το λογαριασμό \"%s\"."</string>
      <string name="account_duplicate_dlg_title">Διπλότυπος λογαριασμός</string>
      <string name="account_manager_type_exchange">com.android.exchange</string>
      <string name="account_manager_type_imap">com.android.email</string>
@@ -20,7 +20,7 @@
      <string name="account_password_spaces_error">"Αυτός ο κωδικός ξεκινάει ή τελειώνει με ένα ή παραπάνω χαρακτήρες -κενού-. Πολλοί πάροχοι Email δεν υποστηρίζουν κωδικούς με κενά"</string>
      <string name="account_security_dialog_content_fmt">%s απαιτεί να αναβαθμίσετε τις ρυθμίσεις ασφαλείας σας.</string>
      <string name="account_security_dialog_title">Αναβάθμιση ασφαλείας</string>
-     <string name="account_security_policy_explanation_fmt">Ο διακομιστής %s απαιτεί να του επιτρέψετε να ελέγξει απομακρυσμένα μερικές δυνατότητες ασφαλείας για την συσκευή σας.</string>
+     <string name="account_security_policy_explanation_fmt">Ο διακομιστής %s απαιτεί να του επιτρέψετε να ελέγξει απομακρυσμένα μερικές δυνατότητες ασφαλείας για τη συσκευή σας.</string>
      <string name="account_security_title">Ασφάλεια συσκευής</string>
      <string name="account_set_up_change_type_note">Εάν θέλετε να ρυθμίσετε το λογαριασμό μεταγωγής πριν POP3 και IMAP, θα πρέπει πρώτα να διαγράψετε το λογαριασμό, την εκ νέου είσοδο ρυθμίσετε.</string>
      <string name="account_setting">Λογαριασμοί</string>
@@ -47,7 +47,7 @@
      <string name="account_settings_param">Ρυθμίσεις λογαριασμού</string>
      <string name="account_settings_policies">Πολιτικές ασφάλειας</string>
      <string name="account_settings_retry_label">Προσπάθεια συγχρονισμού</string>
-     <string name="account_settings_retry_summary">Ακουμπήστε εδώ για να συγχρονίσετε τον λογαριασμό</string>
+     <string name="account_settings_retry_summary">Ακουμπήστε εδώ για να συγχρονίσετε το λογαριασμό</string>
      <string name="account_settings_ringtone">Ήχος ειδοποίησης</string>
      <string name="account_settings_servers">Ρυθμίσεις διακομιστή</string>
      <string name="account_settings_summary">Συχνότητα συγχρονισμού, ειδοποιήσεων, κλπ.</string>
@@ -65,7 +65,7 @@
      <string name="account_setup_account_type_title">Ρυθμίσεις λογαριασμού</string>
      <string name="account_setup_address_label">Email</string>
      <string name="account_setup_autodiscover_dlg_authfail_message">Επιβεβαιώστε ότι όνομα χρήστη, κωδικός και ρυθμίσεις λογαριασμού είναι σωστά.</string>
-     <string name="account_setup_autodiscover_dlg_authfail_title">Πρόβλημα με την ρύθμιση του λογαριασμό</string>
+     <string name="account_setup_autodiscover_dlg_authfail_title">Πρόβλημα με τη ρύθμιση του λογαριασμό</string>
      <string name="account_setup_basics_email_label">Διεύθυνση Email</string>
      <string name="account_setup_basics_manual_setup_action">Χειροκίνητη ρύθμιση</string>
      <string name="account_setup_basics_password_label">Κωδικός</string>
@@ -79,9 +79,9 @@
      <string name="account_setup_exchange_certificate_title">Πιστοποιητικό πελάτη</string>
      <string name="account_setup_exchange_device_id_label">ID Συσκευής</string>
      <string name="account_setup_exchange_no_certificate">Κανένα</string>
-     <string name="account_setup_failed_auth_required">"Οι μέθοδοι πιστοποίησης δεν υποστηρίζονται από τον διακομιστή."</string>
+     <string name="account_setup_failed_auth_required">"Οι μέθοδοι πιστοποίησης δεν υποστηρίζονται από το διακομιστή."</string>
      <string name="account_setup_failed_certificate_inaccessible">Το πιστοποιητικό είναι λανθασμένο ή μη προσβάσιμο.</string>
-     <string name="account_setup_failed_certificate_required">Απαιτείται πιστοποιητικό πελάτη. Θέλετε να συνδεθείτε στον διακομιστή με πιστοποιητικό πελάτη;</string>
+     <string name="account_setup_failed_certificate_required">Απαιτείται πιστοποιητικό πελάτη. Θέλετε να συνδεθείτε στο διακομιστή με πιστοποιητικό πελάτη;</string>
      <string name="account_setup_failed_check_credentials_message">Ο διακομιστής απάντησε με σφάλμα. Ελέγξτε το όνομα χρήστη και τον κωδικός σας, και ξαναπροσπαθήστε.</string>
      <string name="account_setup_failed_dlg_auth_message">Το όνομα ή ο κωδικός είναι λάθος.</string>
      <string name="account_setup_failed_dlg_bar_title">Τρόποι για να συνδεθείτε στο %s</string>
@@ -102,7 +102,7 @@
      <string name="account_setup_failed_protocol_unsupported">"Εισάγατε μια λάθος διεύθυνση διακομιστή ή ο διακομιστής απαιτεί μια έκδοση πρωτοκόλλου που το Email δεν υποστηρίζει."</string>
      <string name="account_setup_failed_security">Αδυναμία σύνδεσης με το διακομιστή λόγω σφάλματος ασφάλειας.</string>
      <string name="account_setup_failed_security_policies_unsupported">"Ο διακομιστής αυτός απαιτεί δυνατότητες ασφαλείας που δεν υποστηρίζει η συσκευή σας, συμπεριλαμβανομένων: %s"</string>
-     <string name="account_setup_failed_tls_required">Απαιτείται TLS, αλλά δεν υποστηρίζεται από τον διακομιστή.</string>
+     <string name="account_setup_failed_tls_required">Απαιτείται TLS, αλλά δεν υποστηρίζεται από το διακομιστή.</string>
      <string name="account_setup_failed_too_many_partnerships">Η σύνδεση απέτυχε. Ο μέγιστος αριθμός των επιτρεπόμενων συνδέσεων διακομιστή έχει επιτευχθεί.</string>
      <string name="account_setup_incoming_delete_policy_delete_label">Όταν διαγράψω από Εισερχόμενα</string>
      <string name="account_setup_incoming_delete_policy_never_label">Ποτέ</string>
@@ -123,7 +123,7 @@
      <string name="account_setup_options_mail_check_frequency_12hour">Κάθε 12 ώρες</string>
      <string name="account_setup_options_mail_check_frequency_1hour">Κάθε ώρα</string>
      <string name="account_setup_options_mail_check_frequency_4hour">Κάθε 4 ώρες</string>
-     <string name="account_setup_options_mail_check_frequency_imap_push">Αυτόματα (Push, εάν υποστηρίζεται από τον διακομιστή)</string>
+     <string name="account_setup_options_mail_check_frequency_imap_push">Αυτόματα (Push, εάν υποστηρίζεται από το διακομιστή)</string>
      <string name="account_setup_options_mail_check_frequency_never">Ποτέ</string>
      <string name="account_setup_options_mail_check_frequency_push">Αυτόματα (Push)</string>
      <string name="account_setup_options_mail_window_1day">Τελευταία μέρα</string>
@@ -139,7 +139,7 @@
      <string name="account_setup_outgoing_port_label">Πόρτα</string>
      <string name="account_setup_outgoing_require_login_label">Απαιτεί σύνδεση</string>
      <string name="account_setup_outgoing_smtp_server_label">SMTP διακομιστής</string>
-     <string name="account_setup_security_policies_required_fmt">Ο διακομιστής %s απαιτεί να επιτρέψετε να ελέγχει απομακρυσμένα μερικές ρυθμίσεις ασφαλείας της συσκευής σας. Θέλετε να ολοκληρώσετε την ρύθμιση του λογαριασμού;</string>
+     <string name="account_setup_security_policies_required_fmt">Ο διακομιστής %s απαιτεί να επιτρέψετε να ελέγχει απομακρυσμένα μερικές ρυθμίσεις ασφαλείας της συσκευής σας. Θέλετε να ολοκληρώσετε τη ρύθμιση του λογαριασμού;</string>
      <string name="account_setup_security_required_title">Απομακρυσμένη διαχείριση ασφαλείας</string>
      <string name="account_setup_server_acc_manager_title">Διαχείριση λογαριασμού</string>
      <string name="account_setup_username_password_toast">Εισάγετε ένα σωστό email και κωδικό.</string>
@@ -247,8 +247,8 @@
      <string name="compose_send">Αποστολή</string>
      <string name="compose_sent">Ολοκληρώθηκε η αποστολή</string>
      <string name="confirm">OK</string>
-     <string name="confirm_before_delete">Επιβεβαίωση πριν την διαγραφή</string>
-     <string name="confirm_before_delete_keywords">επιβεβαίωση πριν την διαγραφή;επιβεβαίωση διαγραφής</string>
+     <string name="confirm_before_delete">Επιβεβαίωση πριν τη διαγραφή</string>
+     <string name="confirm_before_delete_keywords">επιβεβαίωση πριν τη διαγραφή;επιβεβαίωση διαγραφής</string>
      <string name="confirm_before_send">Επιβεβαίωση πριν την αποστολή</string>
      <string name="confirm_before_send_keywords">επιβεβαίωση πριν την αποστολή;επιβεβαίωση αποστολής</string>
      <string name="confirm_delete_conversation_title">Διαγραφή</string>
@@ -264,7 +264,7 @@
      <string name="contact_edit_set_black_list_from">Διαγραφή όλων  των μηνυμάτων από αυτόν το αποστολέα</string>
      <string name="contact_edit_set_black_list_receive">Διαγραφή μηνυμάτων με αυτόν τον παραλήπτη</string>
      <string name="contact_edit_set_black_list_receive_summary">Διαγραφή μηνυμάτων που περιλαμβάνουν αυτόν τον παραλήπτη στο πεδίο To ή Cc</string>
-     <string name="contact_edit_set_black_list_title">Ορίστε την λίστα φραγών</string>
+     <string name="contact_edit_set_black_list_title">Ορίστε τη λίστα φραγών</string>
      <string name="contact_edit_set_phone_contact">Επεξεργασία επαφών</string>
      <string name="contact_edit_title_phone_contact">Λίστα επαφών τηλεφώνου</string>
      <string name="contact_in_filter_call_phone_str">κλήση: %s</string>
@@ -307,14 +307,14 @@
      <string name="date_heading">"Ημερομηνία: "</string>
      <string name="date_message_received">%1$s, %2$s</string>
      <string name="date_message_received_today">Σήμερα, %1$s</string>
-     <string name="del_account_questionnair_hint">"Μπορείτε να μας πείτε γιατί διαγράφετε αυτόν τον λογαριασμό;"</string>
+     <string name="del_account_questionnair_hint">"Μπορείτε να μας πείτε γιατί διαγράφετε αυτόν το λογαριασμό;"</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_message_flow">Διαγραφή ροής μηνυμάτων</string>
      <string name="delete_message_flow_keywords">διαγραφή ροής μηνυμάτων;διαγραφή ανακατεύθυνσης</string>
      <string name="deleted">Διαγράφεται</string>
      <string name="device_activity_btn_str">Ενεργοποίηση</string>
      <string name="device_activity_lint_str">Ενεργοποιήστε την υπηρεσία αλληλογραφίας, επικαιροποιήστε την  και ενεργοποιήσετε τις ρυθμίσεις ασφαλείας</string>
-     <string name="device_admin_description">Ενεργοποιεί συγκεκριμένες πολιτικές ορισμένες από τον διακομιστή</string>
+     <string name="device_admin_description">Ενεργοποιεί συγκεκριμένες πολιτικές ορισμένες από το διακομιστή</string>
      <string name="device_admin_label">Email</string>
      <string name="device_not_activiey_lint1">Η Διαχείριση Συσκευών δεν έχει ενεργοποιηθεί</string>
      <string name="device_not_activiey_lint2">Η υπηρεσία ταχυδρομείου του Exchange δεν λειτουργεί σωστά</string>
@@ -324,7 +324,7 @@
      <string name="dialog_gmail_proxy_server_is_error">Σφάλμα διακομιστή μεσολάβησης Gmail.</string>
      <string name="dialog_insufficient_space_on_external">"Αδυναμία ολοκλήρωσης λήψης. Δεν υπάρχει αρκετός χώρος στον εξωτερικό χώρο αποθήκευσης."</string>
      <string name="dialog_insufficient_space_on_internal">"Δεν υπάρχει αρκετός χώρος στον εσωτερικό χώρο αποθήκευσης."</string>
-     <string name="disable_admin_warning">"ΠΡΟΣΟΧΗ: Απενεργοποιώντας την δυνατότητα της εφαρμογής Email να διαχειρίζεται την συσκευής σας, η συσκευή θα διαγράψει όλους τους λογαριασμούς email που το απαιτούν, μαζί με τα email, επαφές, ημερολόγια, γεγονότα ημερολογίου και άλλα δεδομένα."</string>
+     <string name="disable_admin_warning">"ΠΡΟΣΟΧΗ: Απενεργοποιώντας τη δυνατότητα της εφαρμογής Email να διαχειρίζεται τη συσκευής σας, η συσκευή θα διαγράψει όλους τους λογαριασμούς email που το απαιτούν, μαζί με τα email, επαφές, ημερολόγια, γεγονότα ημερολογίου και άλλα δεδομένα."</string>
      <string name="discard">Απόρριψη</string>
      <string name="discard_drafts">Απόρριψη πρόχειρων</string>
      <string name="dismiss_tip_hover_text">Παράβλεψη συμβουλών</string>
@@ -360,7 +360,7 @@
      <string name="email_package_name">com.android.email</string>
      <string name="email_qq">QQ Mail</string>
      <string name="email_setting">Mail</string>
-     <string name="email_setting_keywords">Λογαριασμοί;προσθήκη λογαριασμού;λογαριασμοί mail;προσθήκη λογαριασμού mail;επιβεβαίωση πριν την διαγραφή;επιβεβαίωση διαγραφής;επιβεβαίωση πριν την αποστολή;επιβεβαίωση αποστολής;διαγραφή ροής μηνυμάτων;διαγραφή ανακατεύθυνσης;προβολή συνομιλίας;συνομιλία mail;εξοικονόμηση μπαταρίας;μπαταρία mail;αποστολή σχολίων;αποστολή αρχείων καταγραφής</string>
+     <string name="email_setting_keywords">Λογαριασμοί;προσθήκη λογαριασμού;λογαριασμοί mail;προσθήκη λογαριασμού mail;επιβεβαίωση πριν τη διαγραφή;επιβεβαίωση διαγραφής;επιβεβαίωση πριν την αποστολή;επιβεβαίωση αποστολής;διαγραφή ροής μηνυμάτων;διαγραφή ανακατεύθυνσης;προβολή συνομιλίας;συνομιλία mail;εξοικονόμηση μπαταρίας;μπαταρία mail;αποστολή σχολίων;αποστολή αρχείων καταγραφής</string>
      <string name="email_sina">Sina Mail</string>
      <string name="empty_account_tip">Αδυναμία εύρεσης λογαριασμού</string>
      <string name="empty_email_tip">Δεν θα μπορούσε να στείλει άδειο Email</string>
@@ -419,7 +419,7 @@
      <string name="forward_download_failed_ticker">"Αδύνατη προώθηση ενός ή παραπάνω συνημμένων."</string>
      <string name="forward_download_failed_title">Συνημμένο δεν προωθήθηκε</string>
      <string name="from_heading">"Από: "</string>
-     <string name="general_preference_confirm_delete_label">Επιβεβαίωση πριν την διαγραφή</string>
+     <string name="general_preference_confirm_delete_label">Επιβεβαίωση πριν τη διαγραφή</string>
      <string name="general_preference_confirm_send_label">Επιβεβαίωση πριν την αποστολή</string>
      <string name="general_preference_str_auto_translation">Γρήγορη μετάφραση</string>
      <string name="general_preference_str_auto_translation_prompt">Αντιγράψτε το αντίστοιχο περιεχόμενο για να δείτε τα αποτέλεσμα της μετάφρασης</string>
@@ -432,7 +432,7 @@
      <string name="general_preference_text_zoom_tiny">Πολύ μικρό</string>
      <string name="generic_attachment_problem">"Αδύνατη επισύναψη αρχείου."</string>
      <string name="get_database_exception">"Κάντε καθαρισμό δεδομένων της εφαρμογής από το Ρυθμίσεις>Εφαρμογές συστήματος και δοκιμάστε ξανά."</string>
-     <string name="gmail_acceleration">Χρήση διακομιστή μεσολάβησης για τον λογαριασμό Gmail</string>
+     <string name="gmail_acceleration">Χρήση διακομιστή μεσολάβησης για το λογαριασμό Gmail</string>
      <string name="gmail_login_confirm_to_use_proxy">Χρήση διακομιστή μεσολάβησης για πρόσβαση του λογαριασμού σας στο Gmail;</string>
      <string name="gmail_login_failed_non_proxy_title">"Δεν ήταν δυνατή η πρόσβαση στο διακομιστή του Gmail"</string>
      <string name="gmail_server_authorization_deleted">"Δεν ήταν δυνατή η επικύρωση του λογαριασμού. Δοκιμάστε ξανά να προσθέσετε αυτό το λογαριασμό."</string>
@@ -461,7 +461,7 @@
      <string name="info_switch_summary">Δείτε τις κορυφαίες ειδήσεις</string>
      <string name="info_switch_title">Ειδήσεις στα εισερχόμενα</string>
      <string name="info_sync_error">Αδυναμία συγχρονισμού. Δοκιμάστε ξανά αργότερα.</string>
-     <string name="information_subscribe_first_intro">Φαίνεται ότι χρησιμοποιείτε την ροή Ειδήσεων για πρώτη φορά. Μιλήστε μας για τα ενδιαφέροντά σας, έτσι ώστε να εξατομικεύσουμε τις ειδήσεις σας.</string>
+     <string name="information_subscribe_first_intro">Φαίνεται ότι χρησιμοποιείτε τη ροή Ειδήσεων για πρώτη φορά. Μιλήστε μας για τα ενδιαφέροντά σας, έτσι ώστε να εξατομικεύσουμε τις ειδήσεις σας.</string>
      <string name="inline_picture_deleted">"Αδυναμία εύρεσης αυτής της εικόνας. Λήψη…"</string>
      <string name="input_password_prompt">Παρακαλώ εισάγετε τον κωδικό:</string>
      <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
@@ -603,14 +603,14 @@
      <string name="outbox_alert_button_no_resend">"Μην στείλεις"</string>
      <string name="outbox_alert_button_resend">Αποστολή ξανά</string>
      <string name="outbox_alert_certificate_error">Το πιστοποιητικό email εξαιρέθηκε. Παρακαλώ να το ενημερώσετε</string>
-     <string name="outbox_alert_description_auth_error">Αιτία: Σφάλμα πιστοποίησης από τον διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
+     <string name="outbox_alert_description_auth_error">Αιτία: Σφάλμα πιστοποίησης από το διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
      <string name="outbox_alert_description_cannot_authenticate">Σφάλμα διακομιστή %s</string>
      <string name="outbox_alert_description_email_size_error">Το μέγιστο μέγεθος του email έχει επιτευχθεί.</string>
      <string name="outbox_alert_description_fail_authentication">Λανθασμένο όνομα χρήστη ή κωδικός πρόσβασης.</string>
      <string name="outbox_alert_description_fail_network">"Αδυναμία σύνδεσης στο δίκτυο."</string>
-     <string name="outbox_alert_description_http_error">Αιτία: Σφάλμα HTTP από τον διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
+     <string name="outbox_alert_description_http_error">Αιτία: Σφάλμα HTTP από το διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
      <string name="outbox_alert_description_insufficient_storage_error">Ανεπαρκής χώρος αποθήκευσης στο διακομιστή</string>
-     <string name="outbox_alert_description_provision_error">Αιτία: Σφάλμα ρύθμισης παραμέτρων από τον διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
+     <string name="outbox_alert_description_provision_error">Αιτία: Σφάλμα ρύθμισης παραμέτρων από το διακομιστή κατά τη διάρκεια του συγχρονισμού εξερχομένων</string>
      <string name="outbox_alert_description_reject_by_server">Απορρίφθηκε από %s</string>
      <string name="outbox_alert_description_sent_failed">"Αιτία: Το συνημμένο
 ξεπέρασε το όριο λήψης μεγέθους"</string>
@@ -634,7 +634,7 @@
      <string name="path_about_account_setting">Mail/Ρυθμίσεις/Λογαριασμοί</string>
      <string name="path_about_add_account">Mail/Ρυθμίσεις/Add account</string>
      <string name="path_about_battery_saver">Mail/Ρυθμίσεις/Εξοικονόμηση μπαταρίας</string>
-     <string name="path_about_confirm_before_delete">Mail/Ρυθμίσεις/Επιβεβαίωση πριν την διαγραφή</string>
+     <string name="path_about_confirm_before_delete">Mail/Ρυθμίσεις/Επιβεβαίωση πριν τη διαγραφή</string>
      <string name="path_about_confirm_before_send">Mail/Ρυθμίσεις/Επιβεβαίωση πριν την αποστολή</string>
      <string name="path_about_conversation_view">Mail/Ρυθμίσεις/Προβολή συνομιλίας</string>
      <string name="path_about_delete_message_flow">Mail/Ρυθμίσεις/Διαγραφή ροής μηνυμάτων</string>
@@ -646,7 +646,7 @@
      <string name="perference_setup_pop_del">Διαγραφή mail από το διακομιστή</string>
      <string name="perference_setup_recv_tag">Διακομιστής εισερχομένων</string>
      <string name="perference_setup_send_tag">Διακομιστής εξερχομένων</string>
-     <string name="permission_access_provider_desc">Επιτρέπει στην εφαρμογή να έχει πρόσβαση στην βάση δεδομένων των email σας, συμπεριλαμβανομένων των εισερχόμενων και απεσταλμένων μηνυμάτων, όπως το όνομα χρήστη και κωδικό.</string>
+     <string name="permission_access_provider_desc">Επιτρέπει στην εφαρμογή να έχει πρόσβαση στη βάση δεδομένων των email σας, συμπεριλαμβανομένων των εισερχόμενων και απεσταλμένων μηνυμάτων, όπως το όνομα χρήστη και κωδικό.</string>
      <string name="permission_access_provider_label">Πρόσβαση σε δεδομένα παρόχου email KingSoft </string>
      <string name="permission_read_attachment_desc">Επιτρέπει στην εφαρμογή να διαβάζει τα συνημμένα των email σας.</string>
      <string name="permission_read_attachment_label">Ανάγνωση συνημμένων email</string>
@@ -683,9 +683,9 @@
      <string name="policy_screen_timeout">Απαιτείται μια συσκευή σε αδράνεια για να κλειδώσει η οθόνη</string>
      <string name="policy_text_truncation">Περιορισμός μεγέθους κειμένου email</string>
      <string name="pop3_name">POP3</string>
-     <string name="preference_eas_tips">Η σελίδα ενεργοποίησης ζητήθηκε από τον διακομιστή email. Παρακαλώ κάντε ενεργοποίηση.</string>
+     <string name="preference_eas_tips">Η σελίδα ενεργοποίησης ζητήθηκε από το διακομιστή email. Παρακαλώ κάντε ενεργοποίηση.</string>
      <string name="preference_imap_tips" />
-     <string name="preference_pop_tips">Τα συνημμένα θα ληφθούν μαζί με τα περιεχόμενα του email καθώς απαιτείται από το POP3 πρωτόκολλο. Προσέξτε την χρήση δεδομένων κινητής.</string>
+     <string name="preference_pop_tips">Τα συνημμένα θα ληφθούν μαζί με τα περιεχόμενα του email καθώς απαιτείται από το POP3 πρωτόκολλο. Προσέξτε τη χρήση δεδομένων κινητής.</string>
      <string name="preference_sender_image_description">Εμφάνιση δίπλα στο όνομα στη λίστα συνομιλίας</string>
      <string name="preference_sender_image_title">Εικόνα αποστολέα</string>
      <string name="preferences_signature_dialog_title">Υπογραφή</string>
@@ -833,12 +833,12 @@
      <string name="sync_error">"Αδύνατος συγχρονισμός."</string>
      <string name="sync_error_message">"Η συσκευή σας δεν διαθέτει αρκετό χώρο αποθήκευσης για συγχρονισμό."</string>
      <string name="system_account_create_failed">"Αδύνατη δημιουργία του λογαριασμού. Δοκιμάστε αργότερα."</string>
-     <string name="system_folders_sent_dlg">"Επιλέξτε τον φάκελο απεσταλμένων του διακομιστή σας"</string>
-     <string name="system_folders_sent_summary">"Επιλέξτε τον φάκελο απεσταλμένων του διακομιστή σας"</string>
+     <string name="system_folders_sent_dlg">"Επιλέξτε το φάκελο απεσταλμένων του διακομιστή σας"</string>
+     <string name="system_folders_sent_summary">"Επιλέξτε το φάκελο απεσταλμένων του διακομιστή σας"</string>
      <string name="system_folders_sent_title">Φάκελος απεσταλμένων</string>
      <string name="system_folders_title">Φάκελοι συστήματος</string>
-     <string name="system_folders_trash_dlg">"Επιλέξτε τον φάκελο σκουπιδιών του διακομιστή σας"</string>
-     <string name="system_folders_trash_summary">"Επιλέξτε τον φάκελο σκουπιδιών του διακομιστή σας"</string>
+     <string name="system_folders_trash_dlg">"Επιλέξτε το φάκελο σκουπιδιών του διακομιστή σας"</string>
+     <string name="system_folders_trash_summary">"Επιλέξτε το φάκελο σκουπιδιών του διακομιστή σας"</string>
      <string name="system_folders_trash_title">Φάκελος σκουπίδια</string>
      <string name="tablet">tablet</string>
      <string name="tap_to_configure">Αγγίξτε για δημιουργία</string>
@@ -905,6 +905,6 @@
      <string name="wrong_password">Λάθος κωδικός!</string>
      <string name="yes">Ναι</string>
      <string name="yidianzixun">Yi Dian Zixun</string>
-     <string name="you_are_in_mobile_network">Αυτή την στιγμή χρησιμοποιείτε δίκτυο κινητής. Παρακαλώ δώστε προσοχή στην κίνηση δεδομένων!</string>
+     <string name="you_are_in_mobile_network">Αυτή τη στιγμή χρησιμοποιείτε δίκτυο κινητής. Παρακαλώ δώστε προσοχή στην κίνηση δεδομένων!</string>
      <string name="zip_viewer_no_file">Χωρίς αρχεία!</string>
 </resources>

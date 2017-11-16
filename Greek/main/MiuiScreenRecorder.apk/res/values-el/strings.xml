@@ -21,7 +21,7 @@
      <string name="deselect_all">Αποεπιλογή όλων</string>
      <string name="error_open_file_failed_no_app_found">Αδυναμία εύρεσης εφαρμογής που ανοίγει το αρχείο αυτό</string>
      <string name="frames">Ρυθμός ανάλυσης</string>
-     <string name="frames_summary">Υψηλότεροι ρυθμοί ανάλυσης μειώνουν την θολούρα</string>
+     <string name="frames_summary">Υψηλότεροι ρυθμοί ανάλυσης μειώνουν τη θολούρα</string>
      <string name="gleam_led_while_recording">Ένδειξη LED κατά την εγγραφή</string>
      <string name="hint_back">Πίσω</string>
      <string name="hint_home">Αρχική</string>

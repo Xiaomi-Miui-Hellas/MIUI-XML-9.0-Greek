@@ -25,7 +25,7 @@
      <string name="menu_record_list">Εγγραφές</string>
      <string name="menu_record_start">Έναρξη εγγραφής</string>
      <string name="menu_record_stop">Διακοπή εγγραφής</string>
-     <string name="menu_save_station_list">Προσθήκη στην λίστα</string>
+     <string name="menu_save_station_list">Προσθήκη στη λίστα</string>
      <string name="menu_save_station_presets">Προσθήκη στις μνήμες</string>
      <string name="menu_scan_start">Σάρωση σταθμών</string>
      <string name="menu_sleep">Χρονοδιακόπτης ύπνου</string>
@@ -46,7 +46,7 @@
      <string name="station_freq_format">%sMHz</string>
      <string name="stations_list">Λίστα σταθμών</string>
      <string name="stations_list_empty">Άδεια λίστα</string>
-     <string name="toast_added_to_list">Προστέθηκε στην λίστα</string>
+     <string name="toast_added_to_list">Προστέθηκε στη λίστα</string>
      <string name="toast_added_to_presets">Προστέθηκε στις μνήμες</string>
      <string name="toast_fm_error_startfailed">Σφάλμα εγγραφής.Μια άλλη εφαρμογή μπορεί να χρησιμοποιεί τη λειτουργία εγγραφής. Παρακαλούμε ελέγξτε και προσπαθήστε ξανά.</string>
      <string name="toast_fm_recorder_access_error">Αδύνατη η εγγραφή σε λειτουργία επισκέπτη</string>

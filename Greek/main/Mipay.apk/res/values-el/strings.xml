@@ -102,7 +102,7 @@
      <string name="mipay_check_login_password_summary">Εισάγετε τον κωδικό πρόσβασης του λογαριασμού σας Mi</string>
      <string name="mipay_check_order_title">Μετρητής</string>
      <string name="mipay_check_password_summary">Παρακαλώ εισάγετε τον κωδικό σας Πληρωμής</string>
-     <string name="mipay_check_password_unbind_summary">Εισάγετε το PIN σας για αποσύνδεση της τραπεζικής κάρτας. Μπορείτε να την συνδέσετε ξανά αργότερα</string>
+     <string name="mipay_check_password_unbind_summary">Εισάγετε το PIN σας για αποσύνδεση της τραπεζικής κάρτας. Μπορείτε να τη συνδέσετε ξανά αργότερα</string>
      <string name="mipay_check_personal_info_error">Παρακαλούμε ελέγξτε τα προσωπικά σας στοιχεία</string>
      <string name="mipay_check_personal_info_id_card">ΑΔΤ.</string>
      <string name="mipay_check_personal_info_id_card_hint">Αριθμός ταυτότητας.</string>
@@ -123,7 +123,7 @@
      <string name="mipay_credit_card_current_period_rmbbill">Λογαριασμός RMB</string>
      <string name="mipay_credit_card_current_period_usdbill">Λογαριασμός USD</string>
      <string name="mipay_credit_cards_apply">Αίτηση για πιστωτική κάρτα</string>
-     <string name="mipay_credit_cards_input_mail_hint">Διεύθυνση email για λαμβάνετε τον λογαριασμό της πιστωτικής κάρτας</string>
+     <string name="mipay_credit_cards_input_mail_hint">Διεύθυνση email για λαμβάνετε το λογαριασμό της πιστωτικής κάρτας</string>
      <string name="mipay_credit_cards_input_passwd_hint">Κωδικός πρόσβασης email</string>
      <string name="mipay_credit_cards_title">Πιστωτικές κάρτες</string>
      <string name="mipay_date_picker_label_month" />
@@ -260,9 +260,9 @@
      <string name="mipay_ring_result_version_fail_title">"Αδυναμία σύζευξης MiBand"</string>
      <string name="mipay_ring_searching">Αναζήτηση MiBand</string>
      <string name="mipay_ring_set_password_to_bind">Ρυθμίστε τον κωδικό πληρωμής για την προστασία του λογαριασμού σας</string>
-     <string name="mipay_ring_setkey_tips">"Όταν η λυχνία του MiBand αρχίσει να αναβοσβήνει, πατήστε τον μεταλλικό για σύνδεση"</string>
+     <string name="mipay_ring_setkey_tips">"Όταν η λυχνία του MiBand αρχίσει να αναβοσβήνει, πατήστε το μεταλλικό αισθητήρα για σύνδεση"</string>
      <string name="mipay_ring_setkey_title">Συζευγμένο MiBand</string>
-     <string name="mipay_ring_setting_up">Η λειτουργία πληρωμής χωρίς την χρήση κωδικού ρυθμίζεται. Παρακαλώ περιμένετε</string>
+     <string name="mipay_ring_setting_up">Η λειτουργία πληρωμής χωρίς τη χρήση κωδικού ρυθμίζεται. Παρακαλώ περιμένετε</string>
      <string name="mipay_ring_unbind_fragment_title">Αποσύζευξη MiBand</string>
      <string name="mipay_ring_unbind_now">Αποσύζευξη</string>
      <string name="mipay_ring_unbind_tips">Το MiBand(%1$s) έχει συνδεθεί επιτυχώς</string>

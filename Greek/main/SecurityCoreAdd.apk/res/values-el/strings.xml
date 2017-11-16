@@ -45,7 +45,7 @@
      <string name="create_app_icon_success">Επιτυχής δημιουργία εικονιδίου</string>
      <string name="create_space_loading">Δημιουργία Δεύτερου προφίλ…</string>
      <string name="creating_app_icon">Δημιουργία εικονιδίου…</string>
-     <string name="dataSafe">Με την χρήση του Δεύτερου προφίλ είναι σαν να έχετε δύο συσκευές.</string>
+     <string name="dataSafe">Με τη χρήση του Δεύτερου προφίλ είναι σαν να έχετε δύο συσκευές.</string>
      <string name="declare_dialog_title">Σχετικά με τις Διπλές εφαρμογές</string>
      <string name="deleteAll">Διαγραφή όλων</string>
      <string name="deleteDataConfirm">Όλα τα στοιχεία θα διαγραφούν</string>
@@ -104,8 +104,8 @@
      <string name="loading_success">Επιτυχής φόρτωση</string>
      <string name="lock_screen_open_second_space">Μπείτε στο Δεύτερο προφίλ από την Οθόνη κλειδώματος</string>
      <string name="messageData">Μηνύματα</string>
-     <string name="msg_switch_file">Διαγραφή αυτών των αρχείων από το Πρώτο προφίλ μετά την μεταφορά τους;</string>
-     <string name="msg_switch_photo">Διαγραφή αυτών των φωτογραφιών από το Πρώτο προφίλ μετά την μεταφορά τους;</string>
+     <string name="msg_switch_file">Διαγραφή αυτών των αρχείων από το Πρώτο προφίλ μετά τη μεταφορά τους;</string>
+     <string name="msg_switch_photo">Διαγραφή αυτών των φωτογραφιών από το Πρώτο προφίλ μετά τη μεταφορά τους;</string>
      <string name="needSetKeyguardFirst">Ορισμός κωδικού Πρώτου προφίλ</string>
      <string name="needSetKeyguardFirstDes">Ορίστε τον κωδικό του Πρώτου προφίλ πριν ορίσετε τον κωδικό του Δεύτερου προφίλ</string>
      <string name="need_set_second_space_desc">Ορίστε τον κωδικό του Δεύτερου προφίλ πριν ορίσετε το δακτυλικό αποτύπωμα του Δεύτερου προφίλ</string>
@@ -226,7 +226,7 @@
      <string name="transferApp">Οι εγκατεστημένες εφαρμογές του Δεύτερου προφίλ θα μεταφερθούν στο Πρώτο προφίλ. Ωστόσο, θα χαθούν όλα τα δεδομένα των εφαρμογών.</string>
      <string name="transferContact">Οι επαφές του Δεύτερου προφίλ θα μεταφερθούν στο Πρώτο προφίλ</string>
      <string name="transferDataConfirm">Τα υπόλοιπα στοιχεία θα διαγραφούν</string>
-     <string name="transferDataConfirmDes">Δεν θα μπορείτε να επαναφέρετε τα στοιχεία μετά την διαγραφή τους.</string>
+     <string name="transferDataConfirmDes">Δεν θα μπορείτε να επαναφέρετε τα στοιχεία μετά τη διαγραφή τους.</string>
      <string name="transferDataLable">Επιλέξτε στοιχεία για μεταφορά</string>
      <string name="transferFile">Επιλέξτε άλλα αρχεία χειροκίνητα</string>
      <string name="transferImage">Οι φωτογραφίες του Δεύτερου προφίλ θα μεταφερθούν στο άλμπουμ \"Δεύτερο προφίλ\" στο Πρώτο προφίλ</string>
