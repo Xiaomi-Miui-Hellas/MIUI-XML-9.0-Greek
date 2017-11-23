@@ -26,7 +26,6 @@
      <string name="button_move">Μεταφορά</string>
      <string name="button_retry">Δοκιμάστε ξανά</string>
      <string name="button_select">Επιλογή</string>
-     <string name="character_counter_pattern">%1$d / %2$d</string>
      <string name="clipboard_files_cannot_paste">Αδυναμία επικόλλησης των επιλεγμένων αρχείων σε αυτήν την τοποθεσία.</string>
      <string name="close">Κλείσιμο</string>
      <string name="copy_converted_warning_content">Αυτά τα αρχεία μετατράπηκαν σε άλλη μορφή: %1$s</string>
