@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="altitude">%.1f</string>
      <string name="altitude_title">Ύψος</string>
      <string name="altitude_uncalibrate_cancel">Ακύρωση</string>
      <string name="altitude_uncalibrate_msg">"Δεν είναι δυνατή η βαθμονόμηση υψομέτρου με ακρίβεια χωρίς GPS ή σύνδεση δεδομένων κινητής."</string>
      <string name="altitude_uncalibrate_refresh">Δοκιμάστε ξανά</string>
      <string name="altitude_uncalibrate_tip">"Αδυναμία βαθμονόμησης υψομέτρου"</string>
      <string name="altitude_unit">μ</string>
+     <string name="app_description_content">Η πυξίδα χρησιμοποιείται για πλοήγηση και προσανατολισμό και σας δείχνει την κατεύθυνση. Βεβαιωθείτε ότι δεν χρειάζεστε πλέον αυτές τις λειτουργίες πριν απεγκαταστήσετε την εφαρμογή.</string>
+     <string name="app_description_title">Σχετικά με την πυξίδα</string>
      <string name="app_label">Πυξίδα</string>
      <string name="calibrate_failed">Αποτυχία βαθμονόμησης υψομέτρου</string>
      <string name="calibrate_failed_no_location">Αποτυχία Βαθμονόμησης: Αδυναμία λήψης για το τρέχον γεωγραφικό πλάτος και μήκος</string>
@@ -33,6 +34,7 @@
      <string name="first_using_dialog_message">"Η πυξίδα χρειάζεται να χρησιμοποιήσει τη σύνδεση δικτύου της συσκευής σας, τη φωτογραφική μηχανή και τις υπηρεσίες τοποθεσίας για να λειτουργήσει κανονικά."</string>
      <string name="first_using_dialog_title">Άδεια πρόσβασης</string>
      <string name="guide_toast">Βαθμονομήστε την πυξίδα, χρησιμοποιώντας την ακόλουθη κίνηση.</string>
+     <string name="keywords_search_compass">Πυξίδα;Βαθμονόμηση πυξίδας;Πίεση;Υψόμετρο;Γεωγραφικό πλάτος;Γεωγραφικό μήκος;Έλεγχος γεωγραφικού μήκους;Έλεγχος γεωγραφικού πλάτους;Πυξίδα MIUI;Εφαρμογή πυξίδας;Εφαρμογή πυξίδας MIUI;Πού βρίσκεται η πυξίδα;Λήψη πυξίδας;Ατμοσφαιρική πίεση;Έλεγχος υψομέτρου;Πόσο είναι το υψόμετρο</string>
      <string name="latitude">LAT</string>
      <string name="location_east">Α</string>
      <string name="location_enable">Επίτρεψε</string>

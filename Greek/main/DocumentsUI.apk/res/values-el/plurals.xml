@@ -1,11 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="copy_begin">
+     <plurals name="clipboard_files_clipped">
+        <item quantity="other">%1$d αρχεία αντιγράφτηκαν στο πρόχειρο.</item>
+        <item quantity="one">%1$d αρχείο αντιγράφτηκε στο πρόχειρο.</item>
+     </plurals>
+     <plurals name="copy_begin">
         <item quantity="other">Αντιγραφή %1$d αρχείων…</item>
         <item quantity="one">Αντιγραφή %1$d αρχείου…</item>
-    </plurals>
-    <plurals name="copy_error_notification_title">
+     </plurals>
+     <plurals name="copy_error_notification_title">
         <item quantity="other">"Αδυναμία αντιγραφής %1$d αρχείων"</item>
         <item quantity="one">"Αδυναμία αντιγραφής %1$d αρχείου"</item>
-    </plurals>
+     </plurals>
+     <plurals name="delete_error_notification_title">
+        <item quantity="other">Αδυναμία διαγραφής %1$d αρχείων</item>
+        <item quantity="one">Αδυναμία διαγραφής %1$d αρχείου</item>
+     </plurals>
+     <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Διαγραφή %1$d αρχείων;</item>
+        <item quantity="one">Διαγραφή %1$d αρχείου;</item>
+     </plurals>
+     <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Διαγραφή %1$d φακέλων και των περιεχομένων τους;</item>
+        <item quantity="one">Διαγραφή %1$d φακέλου και του περιεχομένου του;</item>
+     </plurals>
+     <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Διαγραφή %1$d στοιχείων;</item>
+        <item quantity="one">Διαγραφή %1$d στοιχείου;</item>
+     </plurals>
+     <plurals name="deleting">
+        <item quantity="other">Διαγραφή %1$d αρχείων…</item>
+        <item quantity="one">Διαγραφή %1$d αρχείου…</item>
+     </plurals>
+     <plurals name="elements_dragged">
+        <item quantity="other">%1$d στοιχεία</item>
+        <item quantity="one">%1$d στοιχεία</item>
+     </plurals>
+     <plurals name="elements_selected">
+        <item quantity="other">%1$d επιλεγμένα</item>
+        <item quantity="one">%1$d επιλεγμένο</item>
+     </plurals>
+     <plurals name="move_begin">
+        <item quantity="other">Μεταφορά %1$d αρχείων…</item>
+        <item quantity="one">Μεταφορά %1$d αρχείου…</item>
+     </plurals>
+     <plurals name="move_error_notification_title">
+        <item quantity="other">Αδυναμία μεταφοράς %1$d αρχείων</item>
+        <item quantity="one">Αδυναμία μεταφοράς %1$d αρχείου</item>
+     </plurals>
 </resources>

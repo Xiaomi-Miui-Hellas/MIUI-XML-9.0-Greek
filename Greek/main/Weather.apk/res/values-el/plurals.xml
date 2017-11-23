@@ -30,7 +30,7 @@
      </plurals>
      <plurals name="view_realtime_clear">
         <item quantity="other">Καθαρός</item>
-        <item quantity="one">Λιακάδα</item>
+        <item quantity="one">Καθαρός</item>
      </plurals>
      <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s άτομα</item>

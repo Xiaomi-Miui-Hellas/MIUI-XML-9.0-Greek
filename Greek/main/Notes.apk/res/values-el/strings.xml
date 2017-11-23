@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="action_folder_description">Προβολή φακέλων</string>
+     <string name="action_mode_switcher_grid_description">Προβολή πλέγματος</string>
+     <string name="action_mode_switcher_list_description">Προβολή λίστας</string>
+     <string name="action_settings_description">Άνοιγμα Ρυθμίσεων</string>
      <string name="add_account_desc">Συγχρονισμός των σημειώσεων με το λογαριασμό Mi;</string>
      <string name="alarm_bar_title">Υπενθύμιση</string>
      <string name="alert_action_edit_anyway">Συνέχιση επεξεργασίας</string>
@@ -23,7 +27,16 @@
      <string name="button_new_note">Νέα σημείωση</string>
      <string name="call_folder_name">Σημειώσεις κλήσεων</string>
      <string name="call_record_folder_name">Κλήση σημείωσης</string>
+     <string name="cancel_alarm_description">Ακύρωση αφύπνισης</string>
+     <string name="cloud_trash_bin_title">Διαγραφή σημειώσεων από το Mi Cloud</string>
+     <string name="cta_reminder">Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet για να δημιουργήσει αντίγραφα ασφαλείας για τις σημειώσεις στο Mi Cloud, καθώς και να διαβάσει τις επαφές σας για να επισημάνει τις σημειώσεις που κρατάτε κατά τη διάρκεια των κλήσεων.</string>
+     <string name="db_downgrade_clear_button">Καθαρισμός δεδομένων εφαρμογής</string>
+     <string name="db_downgrade_clear_date_reminder">Η εναλλαγή σε μια άλλη έκδοση του MIUI, απαιτεί την εκκαθάριση των δεδομένων της εφαρμογής Σημειώσεις. Πριν το κάνετε αυτό, βεβαιωθείτε ότι έχετε δημιουργήσει αντίγραφα ασφαλείας για τις σημειώσεις σας στο Mi Cloud.</string>
+     <string name="default_folder_name">Ανώνυμος φάκελος</string>
      <string name="delete_folder_dialog_tile">Διαγραφή φακέλου</string>
+     <string name="dialog_share_as_pic">Κοινοποίηση της σημείωσης ως εικόνα</string>
+     <string name="dialog_share_as_text">Κοινοποίηση της σημείωσης ως κείμενο</string>
+     <string name="dialog_share_title">Κοινοποίηση σημείωσης</string>
      <string name="dlg_btn_set_password">Ορισμός κωδικού</string>
      <string name="dlg_check_reminder">Να μην εμφανιστεί ξανά</string>
      <string name="dlg_delete_message">Διαγραφή…</string>
@@ -44,6 +57,9 @@
      <string name="dlg_title_use_privacy_password">Χρήση κωδικού Προσωπικής προστασίας</string>
      <string name="dlg_unhide_message">Επανεμφάνιση…</string>
      <string name="dlg_unmark_privacy_message">Επανεμφάνιση…</string>
+     <string name="done">ΟΚ</string>
+     <string name="edit_header_done_description">Ολοκληρώθηκε</string>
+     <string name="edit_header_home_description">Πίσω</string>
      <string name="empty_folder_hint">"Δεν υπάρχουν φάκελοι
 Πατήστε στο συν για να δημιουργήσετε ένα φάκελο"</string>
      <string name="empty_note_mark_privacy_error">"Δεν είναι δυνατή η απόκρυψη μιας κενής σημείωσης"</string>
@@ -60,6 +76,8 @@
      <string name="error_widget_exist_for_send_to_desktop">Η σημείωση υπάρχει ήδη στην Αρχική Οθόνη</string>
      <string name="folder_exist">Υπάρχει ήδη ένας φάκελος με το ίδιο όνομα</string>
      <string name="force_touch_menu_add">Προσθήκη σημείωσης</string>
+     <string name="format_move_note_out_folder">Αυτή η σημείωση μεταφέρθηκε</string>
+     <string name="format_move_note_to_folder">Μεταφέρθηκε στο %1$s</string>
      <string name="format_move_notes_out_folder">Μεταφέρθηκαν %1$s έξω από το φάκελο</string>
      <string name="format_move_notes_to_folder">Μεταφέρθηκαν %1$s σημειώσεις στο %2$s</string>
      <string name="hidden_notes_fragment_title">Κρυφές σημειώσεις</string>
@@ -68,6 +86,9 @@
      <string name="info_note_enter_desktop">Η σημείωση προστέθηκε στην αρχική οθόνη</string>
      <string name="loading_text">Φόρτωση…</string>
      <string name="login_sync">Είσοδος &amp; συγχρονισμός</string>
+     <string name="menu_add_description">Προσθήκη σημείωσης</string>
+     <string name="menu_add_folder">Προσθήκη στο φάκελο</string>
+     <string name="menu_add_folder_description">Προσθήκη φακέλου</string>
      <string name="menu_create_folder">Νέος φάκελος</string>
      <string name="menu_delete">Διαγραφή</string>
      <string name="menu_delete_forever">Διαγραφή για πάντα</string>
@@ -91,6 +112,8 @@
      <string name="menu_unstick">Ξεκαρφίτσωμα</string>
      <string name="not_now">Όχι τώρα</string>
      <string name="note_alert_expired">Έληξε</string>
+     <string name="note_description_content">Οι Σημειώσεις είναι ένα σπουδαίο εργαλείο για να καταγράφετε τις ιδέες σας. Διαθέτει ενσωματωμένες υπενθυμίσεις και συγχρονίζει τα στοιχεία σας στο Mi Cloud για να μπορείτε να έχετε πρόσβαση σε αυτά οπουδήποτε και οποτεδήποτε. Βεβαιωθείτε ότι δεν χρειάζεστε πλέον αυτές τις λειτουργίες πριν απεγκαταστήσετε την εφαρμογή.</string>
+     <string name="note_description_title">Σχετικά με τις Σημειώσεις</string>
      <string name="note_link_email">Αποστολή email</string>
      <string name="note_link_other">Άνοιγμα χάρτη</string>
      <string name="note_link_select">Επιλογή κειμένου</string>
@@ -107,6 +130,7 @@
      <string name="pref_desc_alarm_when_silent">Οι ενεργοί συναγερμοί θα εξακολουθούν να ηχούν και σε αθόρυβη λειτουργία</string>
      <string name="pref_desc_skip_confirm_for_quick_delete">Χωρίς ερώτηση για επιβεβαίωση κατά τη διαγραφή μιας σημείωσης με χρήση χειρονομίας</string>
      <string name="pref_title_alarm_when_silent">Συναγερμοί στην αθόρυβη λειτουργία</string>
+     <string name="pref_title_cloud_trash_bin">Διαγραφή σημειώσεων από το Mi Cloud</string>
      <string name="pref_title_common">Πρόσθετες ρυθμίσεις</string>
      <string name="pref_title_font_size">Μέγεθος Γραμματοσειράς</string>
      <string name="pref_title_note_style">Στυλ Σημείωσης</string>
@@ -117,6 +141,8 @@
      <string name="privacy_notes_fragment_title">Κρυφές σημειώσεις</string>
      <string name="recover_notes_hint">Βρέθηκαν σφάλματα στις σημειώσεις. Προσπαθήστε να τις ανακτήσετε στο i.mi.com</string>
      <string name="redo">Ακύρωση αναίρεσης</string>
+     <string name="refuse_to_share_as_pic_because_of_content">Αυτή η σημείωση είναι πολύ μεγάλη για κοινοποίηση.</string>
+     <string name="refuse_to_share_as_pic_because_of_loading">Περιμένετε μέχρι να φορτωθεί η σημείωση και δοκιμάστε ξανά.</string>
      <string name="rename_folder_dialog_tile">Μετονομασία φακέλου</string>
      <string name="root_folder_name">Γρήγορες σημειώσεις</string>
      <string name="search">Σημειώσεις</string>
@@ -126,6 +152,7 @@
      <string name="search_path_notes">Εφαρμογές συστήματος/Σημειώσεις</string>
      <string name="search_setting_description">Αναζήτηση κειμένου στις σημειώσεις</string>
      <string name="select_account_prompt">Συγχρονισμός σημειώσεων</string>
+     <string name="set_alarm_description">Ορισμός αφύπνισης</string>
      <string name="sina_share_fail">Αποτυχία αποστολής</string>
      <string name="sina_share_fail_content_repeat">Δεν ήταν δυνατή η κοινή χρήση, το περιεχόμενο υπάρχει ήδη…</string>
      <string name="sina_share_pendding">Αποστολή…</string>
@@ -138,6 +165,7 @@
      <string name="sns_choose_quality_high">Υψηλή (%1$s)</string>
      <string name="sns_choose_quality_low">Χαμηλή</string>
      <string name="sns_choose_quality_title">Επιλέξτε την ποιότητα της εικόνας</string>
+     <string name="sns_content_default">Κοινή χρήση φωτογραφίας</string>
      <string name="sns_desc_image_preview">Προεπισκόπηση μηνύματος</string>
      <string name="sns_desc_preview_wechat">Προεπισκόπηση μηνύματος WeChat</string>
      <string name="sns_desc_preview_weibo">Προεπισκόπηση μηνύματος Weibo</string>
@@ -150,16 +178,22 @@
      <string name="sns_toast_empty">Δεν μπορείτε να στείλετε κενό μήνυμα</string>
      <string name="sns_toast_over_limit">Αποστολή ως εικόνα (πάνω από το όριο κειμένου))</string>
      <string name="sync_tips">Πατήστε για συγχρονισμό σημειώσεων με το Mi Cloud.</string>
+     <string name="theme_blue_description">Μπλε</string>
+     <string name="theme_green_description">Πράσινο</string>
+     <string name="theme_red_description">Κόκκινο</string>
      <string name="theme_title_antique">Φθινόπωρο</string>
      <string name="theme_title_arty">Άνθη</string>
      <string name="theme_title_blue">Μπλε</string>
      <string name="theme_title_candy">Ζαχαρωτά</string>
      <string name="theme_title_dark">Σκοτεινό</string>
+     <string name="theme_title_default">Προεπιλογή</string>
      <string name="theme_title_green">Πράσινο</string>
      <string name="theme_title_invitation">Πρόσκληση</string>
      <string name="theme_title_red">Κόκκινο</string>
      <string name="theme_title_star">Αστέρια</string>
      <string name="theme_title_yellow">Κίτρινο</string>
+     <string name="theme_white_description">Λευκό</string>
+     <string name="theme_yellow_description">Κίτρινο</string>
      <string name="toast_folder_privacy_mode">Δεν είναι δυνατή η επεξεργασία του φακέλου σε λειτουργία επισκέπτη</string>
      <string name="toast_mark_privacy_notes">Επιτυχής απόκρυψη</string>
      <string name="toast_mark_privacy_notes_count">Επιτυχής απόκρυψη %1$s σημειώσεων</string>
@@ -173,10 +207,20 @@
      <string name="toast_notes_unhidden_count">Επιτυχής επανεμφάνιση %1$s</string>
      <string name="toast_privacy_mode">"Δεν μπορεί να γίνει αυτό σε κρυφές σημειώσεις"</string>
      <string name="toast_reach_text_limit_attachment">Το περιεχόμενο του σημειώματος είναι πολύ μεγάλο για να προσθέσετε νέα συνημμένα.</string>
+     <string name="toast_reach_text_limit_checkbox">Αδυναμία προσθήκης πλαισίου ελέγχου, επειδή η σημείωση είναι πολύ μεγάλη</string>
      <string name="toast_reach_text_limit_truncate">Το περιεχόμενο του σημειώματος έχει κοπεί, γιατί είναι πολύ μεγάλο.</string>
      <string name="toast_unmark_privacy_notes">Επιτυχής επανεμφάνιση</string>
      <string name="toast_unmark_privacy_notes_count">Επιτυχής επανεμφάνιση %1$s σημειώσεων</string>
+     <string name="toolbar_check_description">Προσθήκη πλαισίου ελέγχου</string>
+     <string name="toolbar_delete_description">Διαγραφή αυτής της σημείωσης</string>
+     <string name="toolbar_gallery_description">Προσθήκη εικόνας</string>
+     <string name="toolbar_more_description">Περισσότερα</string>
+     <string name="toolbar_redo_description">Επανάληψη</string>
+     <string name="toolbar_share_description">Κοινή χρήση αυτής τη σημείωσης</string>
+     <string name="toolbar_theme_description">Επιλέξτε ένα θέμα</string>
+     <string name="toolbar_undo_description">Αναίρεση</string>
      <string name="trash_folder_name">Σκουπίδια</string>
+     <string name="trash_folder_reminder">Οι σημειώσεις που διαγράφετε θα διαγραφούν οριστικά σε 30 ημέρες.</string>
      <string name="undo">Αναίρεση</string>
      <string name="unknown_source">Άγνωστη πηγή</string>
      <string name="welcome_note_for_cm">"Και περισσότερες σπουδαίες δυνατότητες!

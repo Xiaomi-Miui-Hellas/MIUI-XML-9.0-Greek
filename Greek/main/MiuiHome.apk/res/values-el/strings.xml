@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="action_add_to_workspace">Προσθήκη στην επιφάνεια εργασίας</string>
      <string name="activity_not_found">Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας</string>
      <string name="add_screen">Προσθήκη οθόνης</string>
      <string name="app_already_exist">Η εφαρμογή υπάρχει ήδη</string>

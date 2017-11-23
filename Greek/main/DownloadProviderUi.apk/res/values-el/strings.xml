@@ -8,6 +8,7 @@
      <string name="Only_the_wifi">Χρήση μόνο με Wi‑Fi</string>
      <string name="about">Σχετικά</string>
      <string name="action_settings">Ρυθμίσεις</string>
+     <string name="ad_install">Εγκατάσταση</string>
      <string name="ad_mark">Διαφήμιση</string>
      <string name="ad_title">Άλλοι κατέβασαν επίσης αυτά μαζί με το %1$s </string>
      <string name="ad_title_other">Με αυτή την εικόνα άλλοι κατέβασαν επίσης</string>
@@ -84,6 +85,7 @@
      <string name="download_complete">Ολοκληρώθηκε</string>
      <string name="download_detail">Λεπτομέρειες</string>
      <string name="download_error">Απέτυχε</string>
+     <string name="download_error_download_file_not_exists">Το αρχείο δεν υπάρχει</string>
      <string name="download_error_insufficient_space">Ανεπαρκής χώρος</string>
      <string name="download_filesize_unknown">Άγνωστο</string>
      <string name="download_from">Πηγή:</string>
@@ -240,6 +242,7 @@
      <string name="paused_waiting_to_retry">Αναμονή για επανάληψη</string>
      <string name="percent_title">%1$s άλλοι το κατέβασαν</string>
      <string name="period_of_validity">Ισχύς:</string>
+     <string name="pref_download_revert_default">Προεπιλογή</string>
      <string name="pref_download_settings_title">Όριο μεγέθους λήψης</string>
      <string name="pref_download_storage_path">Δημιουργήστε ένα νέο φάκελο για τις λήψεις</string>
      <string name="pref_sniff_shortcut">Δημιουργία συντόμευσης</string>
@@ -275,6 +278,7 @@
      <string name="resume_download">Συνέχιση</string>
      <string name="retry_after_network_available">Παρακαλώ ξαναπροσπαθήστε όταν είναι διαθέσιμο το δίκτυο</string>
      <string name="retry_download">Δοκιμή ξανά</string>
+     <string name="revert_default">Επαναφορά προεπιλεγμένων ρυθμίσεων</string>
      <string name="revert_download_path">Χρήση προεπιλεγμένης τοποθεσίας για τις λήψεις;</string>
      <string name="save_path">"Αποθήκευση λήψεων σε: "</string>
      <string name="save_text">Εξοικονομήστε ￥%1$s</string>
@@ -381,6 +385,7 @@
      <string name="text_showmore_infoflow">Δείτε περισσότερες πηγές</string>
      <string name="third_web_cancel">Ακύρωση</string>
      <string name="third_web_confirm">OK</string>
+     <string name="third_web_default">Απομνημόνευση τοποθεσίας</string>
      <string name="third_web_filename_hint">Όνομα</string>
      <string name="third_web_filesize">Μέγεθος</string>
      <string name="third_web_savepath">Τοποθεσία</string>

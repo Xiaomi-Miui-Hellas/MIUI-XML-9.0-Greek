@@ -5,6 +5,8 @@
      <string name="action_mode_deselect_all">Αποεπιλογή</string>
      <string name="action_mode_select_all">Επιλογή όλων</string>
      <string name="action_mode_title_empty">Επιλογή στοιχείων</string>
+     <string name="actionbar_button_up_description">Πίσω</string>
+     <string name="actionbar_immersion_button_more_description">Περισσότερα</string>
      <string name="activate">Ενεργοποίηση</string>
      <string name="activate_fail_notification_title">Επανενεργοποίηση συγχρονισμού</string>
      <string name="activating">Ενεργοποίηση…</string>
@@ -46,6 +48,7 @@
      <string name="friday_short">Παρ</string>
      <string name="friday_shortest">Π</string>
      <string name="hybrid_provider">Παρέχεται από %1$s</string>
+     <string name="immersion_button_close_description">Κλείσιμο</string>
      <string name="instruction">Οδηγίες</string>
      <string name="label">MIUI SDK</string>
      <string name="midnight">ΠΜ</string>
@@ -105,9 +108,12 @@
      <string name="phone">Τηλέφωνο</string>
      <string name="pm">ΜΜ</string>
      <string name="privacy_policy">Πολιτική Απορρήτου</string>
+     <string name="sar">Πληροφορίες Έκθεσης σε Ραδιοσυχνότητες</string>
      <string name="saturday">Σάββατο</string>
      <string name="saturday_short">Σαβ</string>
      <string name="saturday_shortest">Σ</string>
+     <string name="search_input_description">Αναζήτηση</string>
+     <string name="search_mode_button_back_description">Πίσω</string>
      <string name="select_all">Επιλογή όλων</string>
      <string name="select_item">Επιλέξτε στοιχεία</string>
      <string name="send">Αποστολή</string>
