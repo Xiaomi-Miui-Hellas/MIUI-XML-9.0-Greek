@@ -22,7 +22,6 @@
      <string name="find_device_error_unknown">Άγνωστο σφάλμα (%s)</string>
      <string name="find_device_noise_title">Εύρεση συσκευής με ήχο</string>
      <string name="find_device_notice_p1">Πηγαίνετε στο</string>
-     <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"για να εντοπίσετε, κλειδώσετε ή να επαναφέρετε το τηλέφωνό σας.
 Εάν αλλάξετε κάρτα SIM, ένα άλλο SMS θα σταλεί αυτόματα για να ενεργοποιήσετε ξανά αυτή τη λειτουργία."</string>
      <string name="find_device_stop_noise">Πατήστε OK για σίγαση</string>

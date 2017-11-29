@@ -78,8 +78,6 @@
      <string name="find_device_dspt">Κλειδώστε ή καθαρίστε αυτή τη συσκευή από απόσταση.</string>
      <string name="find_device_dspt_provision">"Εάν χάσετε τη συσκευή σας, μπορείτε να πάτε στο %s για εντοπισμό, κλείδωμα ή επαναφορά της. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή τη δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις.
 "</string>
-     <string name="find_device_dspt_provision_2">i.mi.com</string>
-     <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
      <string name="find_device_dspt_provision_3">" για εντοπισμό, κλείδωμα ή επαναφορά της.
 
 Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή τη δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις.
@@ -91,7 +89,6 @@
      <string name="find_device_error_server">Κάτι πήγε στραβά με τους διακομιστές μας.</string>
      <string name="find_device_error_unknown">Άγνωστο σφάλμα.</string>
      <string name="find_device_notice_p1">Μεταβείτε στο</string>
-     <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"για εύρεση, κλείδωμα, ή επαναφορά τηλεφώνου.
 Εάν αλλάξετε κάρτα SIM, ένα άλλο SMS θα σταλεί αυτόματα για να ενεργοποιήσετε ξανά αυτήν την υπηρεσία."</string>
      <string name="find_device_reading_status">Φόρτωση κατάστασης…</string>
@@ -215,8 +212,6 @@
      <string name="micloud_find_device_open_fail">"Αδυναμία ενεργοποίησης του Εύρεση συσκευής"</string>
      <string name="micloud_find_device_opened">Εύρεση συσκευής, ενεργή</string>
      <string name="micloud_find_device_opened_content">Βρείτε τη συσκευή σας στο %s</string>
-     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-     <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
      <string name="micloud_first_login_summary" />
      <string name="micloud_first_login_title" />
      <string name="micloud_full_influence_dspt">"Όλες οι φωτογραφίες, βίντεο, σημειώσεις, εφαρμογές θα παραμείνουν ως αντίγραφα ασφαλείας στο cloud.
@@ -439,8 +434,6 @@
      <string name="sync_dspt_entrance_provision_confirm_title">"Να μη γίνει χρήση του Mi Cloud;"</string>
      <string name="sync_dspt_entrance_provision_skip"><u>Παραλείψτε αυτό το βήμα</u></string>
      <string name="sync_dspt_provision">"Το Mi Cloud συγχρονίζει τις φωτογραφίες σας, μηνύματα SMS, σημειώσεις, επαφές, μητρώο κλήσεων και πολλά άλλα μεταξύ των συσκευών σας. Μπορείτε επίσης να έχετε πρόσβαση σε αυτά από οποιοδήποτε πρόγραμμα περιήγησης στο "</string>
-     <string name="sync_dspt_provision2">i.mi.com</string>
-     <string name="sync_dspt_provision2_int">mi.com/micloud</string>
      <string name="sync_dspt_provision3">".
 
 Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή τη δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις.

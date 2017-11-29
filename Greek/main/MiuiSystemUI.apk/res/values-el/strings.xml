@@ -291,7 +291,6 @@
 d MMMM"</string>
      <string name="status_bar_date_format_12">"EEEE
 d MMMM"</string>
-     <string name="status_bar_date_formatter">%2$s</string>
      <string name="status_bar_network_flow_content">"Σήμερα: %1$s   Υπόλοιπο: %2$s"</string>
      <string name="status_bar_network_flow_exceed_content">Σήμερα: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Υπέρβαση:&lt;font color=%2$s>%3$s&lt;/font></string>
      <string name="status_bar_network_flow_limit">"   Μηνιαίο όριο: %1$s"</string>
@@ -313,7 +312,6 @@ d MMMM"</string>
      <string name="status_bar_safepay_scanning">Ανίχνευση περιβάλλοντος πληρωμών…</string>
      <string name="status_bar_safepay_unknown">Η ασφάλεια πληρωμών είναι άγνωστη.</string>
      <string name="status_bar_settings_airplane">Λειτουργία πτήσης</string>
-     <string name="status_bar_settings_battery_meter_format">%d%%</string>
      <string name="status_bar_settings_signal_meter_disconnected">Δεν υπάρχει σύνδεση Internet</string>
      <string name="status_bar_settings_signal_meter_wifi_nossid">Wi‑Fi συνδεδεμένο</string>
      <string name="status_bar_style_settings">Ειδοποιήσεις</string>
