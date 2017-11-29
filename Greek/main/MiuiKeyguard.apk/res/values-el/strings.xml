@@ -55,7 +55,7 @@
      <string name="fingerprint_add_title">Προσθήκη δακτ.αποτυπώματος</string>
      <string name="fingerprint_again_identified_msg">Το δακτυλικό σας αποτύπωμα είναι ενεργό τώρα. Χρησιμοποιήστε το για να ξεκλειδώσετε τη συσκευή ή πληκτρολογήστε τον κωδικό πρόσβασης.</string>
      <string name="fingerprint_enter_second_psw_msg">Εισάγετε τον κωδικό του Δεύτερου προφίλ μετά την επανεκκίνηση της συσκευής για να μπορείτε να χρησιμοποιήσετε την αναγνώριση δακτυλικών αποτυπωμάτων</string>
-     <string name="fingerprint_enter_second_psw_msg_oldman">Δεν είναι δυνατή η είσοδος στο Δεύτερο προφίλ όσο η λειτουργία Lite είναι ενεργή</string>
+     <string name="fingerprint_enter_second_psw_msg_oldman">Δεν είναι δυνατή η είσοδος στο Δεύτερο προφίλ όσο η Απλή λειτουργία είναι ενεργή</string>
      <string name="fingerprint_enter_second_psw_title">Εισάγετε τον κωδικό του Δεύτερου προφίλ</string>
      <string name="fingerprint_not_identified_msg">Αδυναμία επαλήθευσης δακτυλικού αποτυπώματος. Πληκτρολογήστε τον κωδικό σας.</string>
      <string name="fingerprint_not_identified_title">Εισαγωγή κωδικού</string>

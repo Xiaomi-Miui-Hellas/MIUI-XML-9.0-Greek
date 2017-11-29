@@ -121,6 +121,10 @@
         <item quantity="other">Θα αποσταλούν %d τραγούδια</item>
         <item quantity="one">Θα αποσταλεί 1 τραγούδι</item>
      </plurals>
+     <plurals name="skipped_online_songs_tips">
+        <item quantity="other">Έγινε παράλειψη %d τραγουδιών. Ενεργοποιήστε τις online υπηρεσίες στις ρυθμίσεις για να τα ακούσετε.</item>
+        <item quantity="one">Έγινε παράλειψη %d τραγουδιού. Ενεργοποιήστε τις online υπηρεσίες στις ρυθμίσεις για να το ακούσετε.</item>
+     </plurals>
      <plurals name="song_already_favorite">
         <item quantity="other">Τα τραγούδια είναι ήδη στα αγαπημένα.</item>
         <item quantity="one">Το τραγούδι είναι ήδη στα αγαπημένα.</item>

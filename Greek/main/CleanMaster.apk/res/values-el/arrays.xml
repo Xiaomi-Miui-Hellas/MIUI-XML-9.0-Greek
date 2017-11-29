@@ -23,6 +23,7 @@
         <item>Καθημερινά</item>
         <item>Κάθε 3 ημέρες</item>
         <item>Κάθε 7 ημέρες</item>
+        <item>Κάθε 15 ημέρες</item>
      </string-array>
      <string-array name="auto_process_mode">
         <item>Προτροπή με ειδοποίηση</item>

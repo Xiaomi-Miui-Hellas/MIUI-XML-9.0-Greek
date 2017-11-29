@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="app_usage_day">
+        <item quantity="other">Δεν χρησιμοποιήθηκε για %d ημέρες</item>
+        <item quantity="one">Δεν χρησιμοποιήθηκε για %d ημέρα</item>
+     </plurals>
+     <plurals name="app_usage_month">
+        <item quantity="other">Δεν χρησιμοποιήθηκε για %d μήνες</item>
+        <item quantity="one">Δεν χρησιμοποιήθηκε για %d μήνα</item>
+     </plurals>
+     <plurals name="app_usage_year">
+        <item quantity="other">Δεν χρησιμοποιήθηκε για %d έτη</item>
+        <item quantity="one">Δεν χρησιμοποιήθηκε για %d έτος</item>
+     </plurals>
      <plurals name="days_ago">
         <item quantity="other">Πριν %1$d ημέρες</item>
         <item quantity="zero">Πριν %1$d ημέρες</item>
@@ -73,12 +85,20 @@
      <plurals name="people_million">
         <item quantity="other">Ελήφθη από %1$d άτομα</item>
      </plurals>
+     <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">"&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> εφαρμογές δεν έχουν χρησιμοποιηθεί για μεγάλο χρονικό διάστημα. Ρίξτε μια ματιά.&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> εφαρμογή δεν έχει χρησιμοποιηθεί για μεγάλο χρονικό διάστημα. Ρίξτε μια ματιά.&lt;/Data>"</item>
+     </plurals>
      <plurals name="view_num">
         <item quantity="other">%1$d προβολές</item>
-        <item quantity="zero">%1$d προβολές</item>
         <item quantity="one">%1$d προβολές</item>
-        <item quantity="two">%1$d προβολές</item>
-        <item quantity="few">%1$d προβολές</item>
-        <item quantity="many">%1$d προβολές</item>
+     </plurals>
+     <plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">Αδυναμία εξαγωγής %d βίντεο. Ελευθερώστε χώρο και δοκιμάστε ξανά.</item>
+        <item quantity="one">Αδυναμία εξαγωγής %d βίντεο. Ελευθερώστε χώρο και δοκιμάστε ξανά.</item>
+     </plurals>
+     <plurals name="wechat_empty_files">
+        <item quantity="other">(%1$d κενά αρχεία) %2$s</item>
+        <item quantity="one">(%1$d κενό αρχείο) %2$s</item>
      </plurals>
 </resources>

@@ -38,12 +38,6 @@
      <string name="aqi_desc">Δείκτης Ποιότητας Αέρα</string>
      <string name="aqi_detail_24_hours">Ωριαία Πρόγνωση</string>
      <string name="aqi_detail_5_days">Ημερήσια Πρόγνωση</string>
-     <string name="aqi_detail_co">CO</string>
-     <string name="aqi_detail_no2">NO₂</string>
-     <string name="aqi_detail_o3">O₃</string>
-     <string name="aqi_detail_pm10">PM10</string>
-     <string name="aqi_detail_pm25">PM2.5</string>
-     <string name="aqi_detail_so2">SO₂</string>
      <string name="aqi_detail_sub_title">Λεπτομέρειες Δείκτη Ποιότητας Αέρα</string>
      <string name="aqi_detail_subtitle">AQI %1$s</string>
      <string name="aqi_detail_title">Δείκτης Ποιότητας Αέρα</string>
@@ -89,16 +83,13 @@
      <string name="daily_forcast_no_wind">Άπνοια</string>
      <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
      <string name="daily_forcast_temperature_connect" />
-     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
      <string name="daily_forcast_weather_transfer">%1$s transfer %2$s</string>
      <string name="daily_forcast_whirl_wind">Ανεμοστρόβιλος</string>
-     <string name="daily_forcast_wind_connect">%1$s %2$s</string>
      <string name="daily_forecast_detail">Λεπτομέρειες πρόβλεψης</string>
      <string name="daily_forecast_detail_date">d/M</string>
      <string name="daily_forecast_no_data">"Αδυναμία λήψης πληροφοριών καιρού
 Τραβήξτε προς τα κάτω για ανανέωση ή ελέγξτε τις ρυθμίσεις δικτύου"</string>
      <string name="data_provided_by">Τα δεδομένα παρέχονται από</string>
-     <string name="data_source_timezone">GMT%1$s</string>
      <string name="edit_alert_city_title">Διαχείριση ειδοποιήσεων</string>
      <string name="edit_city">Αλλαγή</string>
      <string name="empty">" "</string>
@@ -181,7 +172,6 @@
      <string name="network_unavailable">Αδυναμία σύνδεσης στο δίκτυο.</string>
      <string name="night_not_disturb_settings_summary">Σίγαση ειδοποιήσεων μεταξύ 23:00 και 07:00</string>
      <string name="night_not_disturb_settings_title">Μην Ενοχλείτε τη νύχτα</string>
-     <string name="no_data">--</string>
      <string name="no_network_btn">Δοκιμάστε ξανά</string>
      <string name="no_vote_ratio">Κατά %1$s%%</string>
      <string name="open">Άνοιγμα</string>
@@ -198,9 +188,13 @@
      <string name="precipitation_degree_three">Μέτρια</string>
      <string name="precipitation_degree_two">Ελαφρά</string>
      <string name="pressure_connect">%1$s MB</string>
+     <string name="pull_fresh_updated">Επιτυχής ενημέρωση</string>
+     <string name="pull_fresh_updating">Ενημέρωση…</string>
      <string name="radar_cloud_image_title">Χάρτης ραντάρ</string>
      <string name="rainfall_settings_summary">Προειδοποιήσεις βροχοπτώσεων</string>
      <string name="rainfall_settings_title">Βροχόπτωση</string>
+     <string name="real_time_sunrise">Ανατολή %1$s</string>
+     <string name="real_time_sunset">Δύση %1$s</string>
      <string name="realtime_aqi_title">Δείκτης Ποιότητας Αέρα</string>
      <string name="realtime_humidity_title">Σχετική Υγρασία</string>
      <string name="realtime_temperature_no_data">N/A</string>
@@ -228,14 +222,7 @@
      <string name="some_where_on_earth">Κάπου στη Γη</string>
      <string name="sunrise">Ανατολή</string>
      <string name="sunset">Δύση</string>
-     <string name="temperature_unit">%1$s°</string>
      <string name="title_share_link">Κοινή χρήση URL</string>
-     <string name="top_pollution_co">CO</string>
-     <string name="top_pollution_no2">NO2</string>
-     <string name="top_pollution_o3">O3</string>
-     <string name="top_pollution_pm10">PM10</string>
-     <string name="top_pollution_pm25">PM2.5</string>
-     <string name="top_pollution_so2">SO2</string>
      <string name="traffic_control_daty_after_tomorrow_numbers">Μεθαύριο: %1$s</string>
      <string name="traffic_control_today_numbers">Σήμερα: %1$s</string>
      <string name="traffic_control_tomorrow_numbers">Αύριο: %1$s</string>
@@ -257,6 +244,8 @@
      <string name="update_night_setting_summary_text">Ενημέρωση πληροφοριών καιρού μεταξύ 23:00 και 07:00</string>
      <string name="update_night_setting_title_text">Αυτόματη ενημέρωση τη νύχτα</string>
      <string name="update_setting_title_text">Ενημέρωση πληροφοριών καιρού</string>
+     <string name="updated_a_moment_ago">Ενημερώθηκε πριν λίγο</string>
+     <string name="updating">Ενημέρωση…</string>
      <string name="video_dialog_no_play" />
      <string name="video_dialog_play" />
      <string name="video_dialog_subtitle" />

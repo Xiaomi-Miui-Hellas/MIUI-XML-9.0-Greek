@@ -85,7 +85,7 @@
      <string name="avoid_to_use_traffic_summary">Μη χρησιμοποιείτε δίκτυο κινητής για αναπαραγωγή μουσικής</string>
      <string name="avoid_to_use_traffic_title">Ειδοποίηση όταν γίνεται χρήση δεδομένων κινητής για αναπαραγωγή μουσικής</string>
      <string name="back_confirm">Πατήστε ξανά για στείλετε την εφαρμογή στο παρασκήνιο</string>
-     <string name="backup_complete">Όλα τα τραγούδια αντιγράφηκαν στο Mi Cloud</string>
+     <string name="backup_complete">Όλα τα τραγούδια αντιγράφτηκαν στο Mi Cloud</string>
      <string name="backup_empty_button">Δεν επιλέχθηκαν τραγούδια</string>
      <string name="backup_immediate">Αντ.ασφαλείας</string>
      <string name="backup_song_title">Επιλέξτε τραγούδια για αντίγραφο ασφαλείας</string>
@@ -134,6 +134,7 @@
      <string name="cloud_welcome_message">Αντ.ασφαλείας τραγουδιών</string>
      <string name="cloud_welcome_summary">Κάντε αντίγραφο ασφαλείας των τραγουδιών στο Mi Cloud και ακούστε τα σε άλλες συσκευές</string>
      <string name="comment_format" formatted="false">%s: %s</string>
+     <string name="confirm">OK</string>
      <string name="confirm_download">Λήψη</string>
      <string name="confirm_to_renew">Ανανέωση</string>
      <string name="continue_backup">Συνέχεια</string>
@@ -147,6 +148,7 @@
      <string name="current_version">Τρέχουσα έκδοση</string>
      <string name="data_usage_warning">Χρήση δεδομένων</string>
      <string name="data_usage_warning_summary">Η Χρήση δεδομένων κινητής για streaming υψηλής ποιότητας μουσικής, μπορεί να αυξήσει το κόστος χρήσης των δεδομένων σας.</string>
+     <string name="date_format_str">dd-MM-yyyy</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_download">Διαγραφή</string>
      <string name="delete_downloads_records">Διαγραφή λήψεων</string>
@@ -354,6 +356,7 @@
      <string name="filter_by_size_min">%dKB</string>
      <string name="filter_by_size_prefix">"Ελάχιστο μέγεθος: "</string>
      <string name="filter_by_size_summary">Να μην εμφανίζονται μικρά αρχεία ήχου</string>
+     <string name="filter_size_unit">%dKB</string>
      <string name="find_music">Ανακαλύψτε τραγούδια</string>
      <string name="follow">Ακολουθήστε</string>
      <string name="followed">Ακολουθείτε</string>
@@ -438,6 +441,7 @@
      <string name="load_shuffle">Φόρτωση…</string>
      <string name="loadercontainer_loading">Μισό λεπτό…</string>
      <string name="loading_hint">Φόρτωση</string>
+     <string name="local_header_title">Τοπική μουσική</string>
      <string name="local_music">Τοπική Μουσική</string>
      <string name="local_music_empty">Η τοπική λίστα αναπαραγωγής είναι κενή</string>
      <string name="local_music_empty_goto_online">Δεν βρέθηκαν τραγούδια</string>
@@ -563,6 +567,7 @@
      <string name="no_scanned_songs">Κενό</string>
      <string name="no_song">Δεν υπάρχουν τραγούδια</string>
      <string name="no_song_downloaded">Δεν μπορεί να γίνει λήψη τραγουδιού</string>
+     <string name="no_system_cropper_find">Το σύστημα δεν διαθέτει επεξεργαστή εικόνας</string>
      <string name="normal_quality">Κανονική</string>
      <string name="not_login">Δεν έχετε συνδεθεί</string>
      <string name="not_now">Όχι τώρα</string>
@@ -590,6 +595,9 @@
      <string name="notification_recommend_title">Σημαντικές ειδοποιήσεις</string>
      <string name="notification_setting">Ρυθμίσεις ειδοποιήσεων</string>
      <string name="notification_title_no_song">Ελέγξτε τι ακούει ο καθένας!</string>
+     <string name="nowplaying_circle_style">Αναπαραγωγή σε κυκλικό στυλ</string>
+     <string name="nowplaying_circle_style_rainbow">Ουράνιο τόξο</string>
+     <string name="nowplaying_circle_style_wave">Κύμα</string>
      <string name="nowplaying_dialog_title_delete_tracks">Διαγραφή τρέχουσας λίστας;</string>
      <string name="nowplaying_menu_item_delete">Διαγραφή</string>
      <string name="ok">OK</string>
@@ -602,10 +610,18 @@
      <string name="online_music_enabled_summary">Ακούστε και κατεβάστε τα αγαπημένα σας τραγούδια. Δείτε κορυφαία τραγούδια και τις επιμελημένες λίστες αναπαραγωγής όπου κι αν πάτε!</string>
      <string name="online_music_enabled_title">Το δωρεάν streaming είναι εδώ</string>
      <string name="online_my">Δικά μου</string>
+     <string name="online_play_tips">Αυτό το τραγούδι είναι διαθέσιμο μόνο online. Ενεργοποιήστε τις online υπηρεσίες στις ρυθμίσεις για να το ακούσετε.</string>
      <string name="online_playlist_is_empty">Κενή λίστα αναπαραγωγής!</string>
      <string name="online_recommend">Λίστα</string>
+     <string name="online_service_open_tip">Οι online υπηρεσίες μουσικής είναι ενεργές</string>
+     <string name="online_service_title">Online υπηρεσίες</string>
      <string name="online_special">Ειδικά</string>
+     <string name="online_switch">Online υπηρεσίες περιεχομένου</string>
+     <string name="online_switch_message">Η απενεργοποίηση των online υπηρεσιών θα επηρεάσει τις υπηρεσίες VIP και τις προτάσεις. Απενεργοποίηση ούτως ή άλλως;</string>
+     <string name="online_switch_setting">Ρυθμίσεις online περιεχομένου</string>
      <string name="open_download">Άνοιγμα</string>
+     <string name="open_online_service">Πρέπει να ενεργοποιήσετε τις online υπηρεσίες για να χρησιμοποιήσετε αυτή τη λειτουργία. Ενεργοποίηση τώρα;</string>
+     <string name="open_service">Ενεργοποίηση</string>
      <string name="order_pending">Εν αναμονή επιβεβαίωσης</string>
      <string name="order_process_fail">Αδυναμία έγκρισης του λογαριασμού σας. Περιμένετε λίγα λεπτά και δοκιμάστε ξανά</string>
      <string name="other_filter">Άλλα</string>
@@ -785,6 +801,7 @@
      <string name="sort_by_time">Ημερομηνία</string>
      <string name="source_from">Πηγή: %1$s</string>
      <string name="start_download_music">Έναρξη λήψης ενημερώσεων για τη Μουσική…</string>
+     <string name="start_shuffle">Ανακάτεμα…</string>
      <string name="start_to_download">Λήψη…</string>
      <string name="start_to_play">Αναπαραγωγή</string>
      <string name="start_to_use">Άνοιγμα Μουσικής</string>
@@ -820,8 +837,13 @@
      <string name="talkback_download">Λήψη</string>
      <string name="talkback_favorite">Αγαπημένο τραγούδι</string>
      <string name="talkback_mode">Επανάληψη λίστας</string>
+     <string name="talkback_mode_repeat_all">Λειτουργία συνεχούς λίστας</string>
+     <string name="talkback_mode_repeat_current">Λειτουργία ενός κύκλου</string>
+     <string name="talkback_mode_repeat_shuffle">Λειτουργία τυχαίας αναπαραγωγής</string>
      <string name="talkback_more">Περισσότερα μενού</string>
      <string name="talkback_next">Επόμενο τραγούδι</string>
+     <string name="talkback_nowplaying_bar">Γραμμική αναπαραγωγή</string>
+     <string name="talkback_nowplaying_circle">Κυκλική αναπαραγωγή</string>
      <string name="talkback_play">Αναπαραγωγή / Πάση</string>
      <string name="talkback_pre">Προηγούμενο τραγούδι</string>
      <string name="talkback_progress">Γραμμή προόδου</string>
@@ -848,6 +870,8 @@
      <string name="toast_download_error_by_not_login">Συνδεθείτε στο λογαριασμό Mi και προσπαθήστε ξανά.</string>
      <string name="toast_download_error_by_vip_required">Αποκτήστε το Premium Πακέτο Μουσικής για να κατεβάσετε αυτό το τραγούδι.</string>
      <string name="toast_download_in_process">Λήψη…</string>
+     <string name="toast_new_playlist_name_no_enter">Αδυναμία έναρξης νέας παραγράφου</string>
+     <string name="toast_new_playlist_name_too_long">Το όνομα της λίστας αναπαραγωγής είναι πολύ μεγάλο</string>
      <string name="toast_normal_songs_for_download">Η ποιότητα λήψης ορίστηκε σε Κανονική</string>
      <string name="toast_normal_songs_for_stream">Η ποιότητα streaming ορίστηκε σε Κανονική</string>
      <string name="toast_stream_normal">Αναπαραγωγή σε Κανονική ποιότητα. Αποκτήστε το Premium Πακέτο Μουσικής για να απολαύσετε streaming υψηλής ποιότητας.</string>
@@ -889,6 +913,8 @@
      <string name="upgrade_waringing">Θα είστε είναι σε θέση να ακούσετε μουσική που είναι αποθηκευμένη εκτός σύνδεσης.</string>
      <string name="valid_period">Έγκυρο: %s</string>
      <string name="version_info">Έκδοση</string>
+     <string name="vip_after_tomorrow_auto_renew_message">Η συνδρομή σας στη Μουσική θα ανανεωθεί αυτόματα μεθαύριο το βράδυ. Βεβαιωθείτε ότι έχετε αρκετό υπόλοιπο μονάδων Mi στον λογαριασμό σας για να ολοκληρώσετε αυτήν την πληρωμή.</string>
+     <string name="vip_after_tomorrow_renew_message">Δεν θα μπορείτε να κάνετε streaming ήχου υψηλής ποιότητας, αλλά ορισμένα τραγούδια θα είναι διαθέσιμα σε κανονική ποιότητα.</string>
      <string name="vip_auto_renew_message">Η συνδρομή σας στη Μουσική θα ανανεωθεί αυτόματα το βράδυ. Βεβαιωθείτε ότι έχετε αρκετά Mi Credits στο λογαριασμό σας για να ολοκληρώσετε την πληρωμή.</string>
      <string name="vip_auto_renew_notification_message">Προσθέστε Mi Credits για να ανανεώσετε τη συνδρομή σας στη Μουσική.</string>
      <string name="vip_auto_renew_notification_title">Πληρωμή συνδρομής</string>
@@ -899,6 +925,8 @@
      <string name="vip_renew_title">Η συνδρομή έληξε</string>
      <string name="vip_required">Αποκτήστε το Premium Πακέτο Μουσικής για να ακούσετε αυτό το τραγούδι. Το έχουμε παραλείψει για σας.</string>
      <string name="vip_required_with_song">Αποκτήστε το Premium Πακέτο Μουσικής για να ακούσετε το “%s”. Το έχουμε παραλείψει για σας.</string>
+     <string name="vip_tomorrow_auto_renew_message">Η συνδρομή σας στη Μουσική θα ανανεωθεί αυτόματα αύριο το βράδυ. Βεβαιωθείτε ότι έχετε αρκετό υπόλοιπο μονάδων Mi στον λογαριασμό σας για να ολοκληρώσετε αυτήν την πληρωμή.</string>
+     <string name="vip_tomorrow_renew_message">Δεν θα μπορείτε να κάνετε streaming ήχου υψηλής ποιότητας, αλλά ορισμένα τραγούδια θα είναι διαθέσιμα σε κανονική ποιότητα.</string>
      <string name="warning_tip_cancel">Λήψη</string>
      <string name="warning_tip_content">Δεν είστε πλέον συνδεδεμένοι σε Wi‑Fi. Χρησιμοποιώντας τη σύνδεση δεδομένων κινητής για ολοκλήρωση αυτής της λήψης, θα αυξηθεί η χρήση των δεδομένων σας. Αν πάτε πάνω από το όριο του προγράμματος δεδομένων σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
      <string name="warning_tip_ok">Παύση</string>

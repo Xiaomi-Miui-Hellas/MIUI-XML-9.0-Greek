@@ -1711,7 +1711,7 @@
      <string name="font_size_summary">Ρύθμιση μεγέθους γραμματοσειράς στις εφαρμογές όπως πχ Τηλέφωνο, Μηνύματα, Επαφές κλπ για τη βελτίωση της ανάγνωσης</string>
      <string name="font_size_summary1">"
 Δυσαρεστημένοι; Δοκιμάστε "</string>
-     <string name="font_size_summary2">Λειτουργία Lite</string>
+     <string name="font_size_summary2">Απλή Λειτουργία</string>
      <string name="forbidden_switch_apn_string">Οι επιλεγμένες ρυθμίσεις APN δεν ταιριάζουν με τον τύπο του τρέχοντος δικτύου</string>
      <string name="force_hw_ui">Εξαναγκασμένη απόδοση GPU</string>
      <string name="force_hw_ui_summary">Χρησιμοποιήστε 2D επιτάχυνση υλικού σε εφαρμογές</string>
@@ -2658,14 +2658,14 @@
      <string name="oem_unlock_enable_summary">Επιτρέπει το ξεκλείδωμα του bootloader</string>
      <string name="okay">OK</string>
      <string name="oldman_mode_confirm_title">Επανεκκίνηση του τηλεφώνου;</string>
-     <string name="oldman_mode_confirm_will_normal_mode_text">Έξοδος από τη λειτουργία Lite;</string>
-     <string name="oldman_mode_confirm_will_oldman_mode_text">Το τηλέφωνό σας θα κάνει επανεκκίνηση και θα εισέλθει σε Lite λειτουργία.</string>
+     <string name="oldman_mode_confirm_will_normal_mode_text">Έξοδος από την Απλή λειτουργία;</string>
+     <string name="oldman_mode_confirm_will_oldman_mode_text">Το τηλέφωνό σας θα κάνει επανεκκίνηση και θα εισέλθει σε Απλή λειτουργία.</string>
      <string name="oldman_mode_enabled_name">Απλή λειτουργία</string>
      <string name="oldman_mode_entry_name">Απλή λειτουργία</string>
      <string name="oldman_mode_entry_title">Απλή λειτουργία</string>
      <string name="oldman_mode_settings_caption">Ρυθμίσεις Απλής λειτουργίας</string>
      <string name="oldman_mode_summary">Χρησιμοποιήστε απλοποιημένη Αρχική οθόνη και μενού</string>
-     <string name="oldman_mode_summary_cta">Η λειτουργία Lite χρειάζεται να συνδεθεί στο Internet και να διαβάσει τις επαφές σας, τα μηνύματά  σας και τις πληροφορίες σχετικά με την τοποθεσίας σας για να λειτουργήσει κανονικά.</string>
+     <string name="oldman_mode_summary_cta">Η Απλή λειτουργία χρειάζεται να συνδεθεί στο Internet και να διαβάσει τις επαφές σας, τα μηνύματά  σας και τις πληροφορίες σχετικά με την τοποθεσίας σας για να λειτουργήσει κανονικά.</string>
      <string name="onehour">30 λεπτά</string>
      <string name="onekey_migrate">Μεταφορά</string>
      <string name="online_resource_entry">Online πηγές</string>

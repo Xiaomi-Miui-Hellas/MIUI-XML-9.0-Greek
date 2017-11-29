@@ -49,6 +49,7 @@
      <string name="cancel">Άκυρο</string>
      <string name="current_permission_template">%1$s από %2$s</string>
      <string name="devicePerms">Πρόσβαση συσκευής</string>
+     <string name="default_permission_description">εκτέλεση άγνωστης ενέργειας</string>
      <string name="dlg_app_replacement_statement">"Η εφαρμογή που εγκαθιστάτε θα αντικαταστήσει μια άλλη εφαρμογή. Όλα τα προηγούμενα δεδομένα χρήστη θα αποθηκευτούν."</string>
      <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) θα αντικαταστήσει την τρέχουσα έκδοση (%3$s). Το περιεχόμενο του χρήστη θα διατηρηθεί. Είστε σίγουροι ότι θέλετε να την εγκαταστήσετε;"</string>
      <string name="dlg_app_replacement_title">Αντικαταστήστε την εφαρμογή</string>
@@ -81,8 +82,8 @@
      <string name="install_from_appstore_hint">Σας προτείνουμε να εγκαταστήσετε την εφαρμογή από το &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u></string>
      <string name="installing">Εγκατάσταση…</string>
      <string name="launch">Άνοιγμα</string>
-     <string name="lb_playback_controls_closed_captioning_disable">Απενεργοποίηση Υπότιτλων</string>
-     <string name="lb_playback_controls_closed_captioning_enable">Ενεργοποίηση Υπότιτλων</string>
+     <string name="lb_playback_controls_closed_captioning_disable">Απενεργοποίηση Υποτίτλων</string>
+     <string name="lb_playback_controls_closed_captioning_enable">Ενεργοποίηση Υποτίτλων</string>
      <string name="lb_playback_controls_fast_forward">Γρήγορη προώθηση</string>
      <string name="lb_playback_controls_fast_forward_multiplier">Γρήγορη προώθηση %1$dX</string>
      <string name="lb_playback_controls_high_quality_disable">Απενεργοποίηση Υψηλής Ποιότητας</string>
