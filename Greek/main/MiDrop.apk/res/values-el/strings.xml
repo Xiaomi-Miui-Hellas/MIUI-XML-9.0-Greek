@@ -2,6 +2,14 @@
 <resources>
      <string name="Connect">Σύνδεση</string>
      <string name="Disconnect">Αποσύνδεση</string>
+     <string name="HIPS_Perm_External_Storage">Πρόσβαση και αλλαγή αρχείων στον εσωτερικό χώρο αποθήκευσης</string>
+     <string name="HIPS_Perm_Location">Λήψη πληροφοριών τοποθεσίας</string>
+     <string name="HIPS_Perm_PhoneID">Λήψη πληροφοριών συσκευής</string>
+     <string name="HIPS_Perm_Settings">Αλλαγή ρυθμίσεων συστήματος</string>
+     <string name="HIPS_Perm_WIFI_Connectivity">Αλλαγή κατάστασης Wi‑Fi</string>
+     <string name="HIPS_Perm_background_start_activity">Έναρξη στο παρασκήνιο</string>
+     <string name="HIPS_Perm_get_accounts">Πρόσβαση λογαριασμών στη συσκευή</string>
+     <string name="HIPS_Perm_get_installed_apps">Λήψη πληροφοριών εγκατεστημένων εφαρμογών</string>
      <string name="Register">εγγραφή</string>
      <string name="Start">Εκκίνηση</string>
      <string name="StartScan">Εκκίνηση σάρωσης</string>
@@ -12,11 +20,14 @@
      <string name="Unregister">κατάργηση εγγραφής</string>
      <string name="action_settings">Ρυθμίσεις</string>
      <string name="app_name">Mi Drop</string>
+     <string name="btn_goto_grant">Επίτρεψε</string>
      <string name="cancel_confirm">Ακύρωση</string>
      <string name="cancel_confirm_title">"Η μεταφορά δεν ολοκληρώθηκε. Ακύρωση τώρα;"</string>
      <string name="cancel_receive_confirm">Ακύρωση</string>
      <string name="cancel_receive_stop">Διατήρηση λήψης</string>
      <string name="cancel_stop">Διατήρηση αποστολής</string>
+     <string name="description_content">Το Mi Drop σας επιτρέπει να στέλνετε και να λαμβάνετε αρχεία από άτομα που είναι κοντά σας. Βεβαιωθείτε ότι δεν χρειάζεστε πλέον αυτές τις λειτουργίες πριν απεγκαταστήσετε την εφαρμογή.</string>
+     <string name="description_title">Σχετικά με το Mi Drop</string>
      <string name="file_not_support">"Αυτός ο τύπος αρχείου δεν υποστηρίζεται"</string>
      <string name="help">Βοήθεια</string>
      <string name="i_know">Το κατάλαβα</string>
@@ -63,6 +74,8 @@
      <string name="receiver_transfer_interrupt">"Η μεταφορά διακόπηκε. Μην απενεργοποιείτε το Wi‑Fi hotspot κατά τη μεταφορά"</string>
      <string name="receiver_video_file_current">Λήψη %2$d​ βίντεο από %1$s</string>
      <string name="receiver_video_file_num">%2$d​ βίντεο από %1$s</string>
+     <string name="request_permission_msg">Το Mi Drop απαιτεί τα ακόλουθα δικαιώματα: %s. Να επιτραπούν;</string>
+     <string name="request_permission_title">Απαιτούνται δικαιώματα</string>
      <string name="runtime_permission_ungranted">Αδυναμία χρήσης του Mi Drop λόγω ανεπαρκών δικαιωμάτων</string>
      <string name="send_file_time_format_m">m:s</string>
      <string name="send_file_time_format_s">s</string>

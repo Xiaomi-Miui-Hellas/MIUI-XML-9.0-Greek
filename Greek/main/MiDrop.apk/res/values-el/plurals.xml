@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">Αναμονή για %1$d αρχεία…</item>
+        <item quantity="one">Αναμονή για %1$d αρχείο…</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d αρχεία από %1$s</item>
+        <item quantity="one">%2$d αρχείο από %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">Λήψη %2$d αρχείων από %1$s…</item>
+        <item quantity="one">Λήψη %2$d αρχείου από %1$s…</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%2$d εικόνες από %1$s</item>
+        <item quantity="one">%2$d εικόνα από %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">Λήψη %2$d εικόνων από %1$s…</item>
+        <item quantity="one">Λήψη %2$d εικόνας από %1$s…</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%2$d τραγούδια από %1$s</item>
+        <item quantity="one">%2$d τραγούδι από %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">Λήψη %2$d τραγουδιών από %1$s…</item>
+        <item quantity="one">Λήψη %2$d τραγουδιού από %1$s…</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%2$d βίντεο από %1$s</item>
+        <item quantity="one">%2$d βίντεο από %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">Λήψη %2$d βίντεο από %1$s…</item>
+        <item quantity="one">Λήψη %2$d βίντεο από %1$s…</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%2$d εφαρμογές από %1$s</item>
+        <item quantity="one">%2$d εφαρμογή από %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">Λήψη %2$d εφαρμογών από %1$s…</item>
+        <item quantity="one">Λήψη %2$d εφαρμογής από %1$s…</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Λήψη %1$s αρχείων…</item>
+        <item quantity="one">Λήψη %1$s αρχείου…</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">Η μεταφορά από %1$s ακυρώθηκε</item>
+        <item quantity="one">Η μεταφορά από %1$s ακυρώθηκε</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">Λήφθηκαν %1$s αρχεία</item>
+        <item quantity="one">Λήφθηκε %1$s αρχείο</item>
+    </plurals>
+</resources>
