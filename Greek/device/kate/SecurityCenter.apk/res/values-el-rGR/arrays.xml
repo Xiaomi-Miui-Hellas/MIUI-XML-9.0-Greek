@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="sort_title">
+        <item>Ταξινόμηση κατά κατάσταση</item>
+        <item>Ταξινόμηση κατά όνομα εφαρμογής</item>
+        <item>Ταξινόμηση κατά συχνότητα χρήσης</item>
+        <item>Ταξινόμηση κατά χρήση αποθ.χώρου</item>
+        <item>Ταξινόμηση κατά χρόνο εγκατάστασης</item>
+        <item>Εμφάνιση εφαρμογών που μπορούν να απεγκατασταθούν πρώτα</item>
+     </string-array>
+     <string-array name="sort_type">
+        <item>Κατάσταση</item>
+        <item>Όνομα εφαρμογής</item>
+        <item>Συχνότητα χρήσης</item>
+        <item>Χρήση αποθ.χώρου</item>
+        <item>Χρόνος εγκατάστασης</item>
+        <item>Μπορείτε να απεγκαταστήσετε αυτές τις εφαρμογές</item>
+</resources>

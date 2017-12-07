@@ -33,7 +33,7 @@
      <string name="app_store_installing_message">Εγκατάσταση…</string>
      <string name="app_store_missing_message">"Φαίνεται ότι δεν έχετε εγκαταστήσει το επίσημο App Store. Εγκατάσταση τώρα;"</string>
      <string name="app_store_missing_title">"Το App Store δεν έχει εγκατασταθεί"</string>
-     <string name="auto_startup_dialog_msg">"Η MIUI θα επιτρέψει στην εφαρμογή να ξεκινάει αυτόματα, χωρίς ειδοποίηση. Αυτό μπορεί να οδηγήσει στην κατανάλωση ενέργειας ή κίνησης δεδομένων. Επιτρέψτε την αυτόματη έναρξη;"</string>
+     <string name="auto_startup_dialog_msg">"Η MIUI θα επιτρέψει στην εφαρμογή να ξεκινάει αυτόματα, χωρίς ειδοποίηση. Αυτό μπορεί να οδηγήσει στην κατανάλωση ενέργειας ή κίνησης δεδομένων. Επιτρέπετε την αυτόματη έναρξη;"</string>
      <string name="btn_text_full_scan">Πλήρης σάρωση</string>
      <string name="btn_text_install_new_version">Τελευταία έκδοση</string>
      <string name="btn_text_install_origin">Πρωτότυπη έκδοση</string>

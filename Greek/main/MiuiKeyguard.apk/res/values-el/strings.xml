@@ -67,6 +67,7 @@
      <string name="input_password_after_boot_msg">Για να ξεκλειδώσετε τη συσκευή, εισάγετε τον κωδικό σας</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Δεν είναι δυνατή η εναλλαγή μεταξύ των προφίλ κατά τη διάρκεια μιας κλήσης</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Πρέπει να εισέλθετε στο Πρώτο προφίλ μετά την επανεκκίνηση της συσκευής σας</string>
+     <string name="input_password_handle_sdcard_fs">Δεν είναι δυνατή η είσοδος στο Δεύτερο προφίλ από την Οθόνη κλειδώματος. Εισέλθετε από το Πρώτο προφίλ.</string>
      <string name="input_password_hint_text">Εισάγετε τον κωδικό</string>
      <string name="input_pattern_hint_text">Σχεδιάστε το μοτίβο ξεκλειδώματος</string>
      <string name="input_pin_code">Εισάγετε το PIN</string>
@@ -79,6 +80,7 @@
      <string name="keyguard_charging_info_click_to_detail">Δείτε λεπτομέρειες</string>
      <string name="keyguard_charging_info_drained_power_percent_text">Καταναλώθηκε</string>
      <string name="keyguard_charging_info_finished_charging_text">Πλήρως φορτισμένη</string>
+     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
      <string name="keyguard_charging_info_last_charge_today_time">Σήμερα %s</string>
      <string name="keyguard_charging_info_last_charge_yesterday_time">Χθες %s</string>
      <string name="keyguard_charging_info_last_charged_time_text">Τελευταία φόρτιση</string>
@@ -127,5 +129,6 @@
      <string name="unlockscreen_low_battery">Συνδέστε το φορτιστή τώρα</string>
      <string name="unlockscreen_recharge_completed">Φορτισμένη μπαταρία</string>
      <string name="unlockscreen_recharging_message">Φόρτιση %d%%</string>
+     <string name="wallpaper_global_des_drop_down_notify_text">Αφήστε για να δείτε λεπτομέρειες</string>
      <string name="wrong_password">Λανθασμένος κωδικός πρόσβασης</string>
 </resources>

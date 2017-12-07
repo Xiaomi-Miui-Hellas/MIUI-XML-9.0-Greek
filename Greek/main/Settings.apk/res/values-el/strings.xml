@@ -365,7 +365,7 @@
      <string name="assistant_security_warning_disagree">Διαφωνώ</string>
      <string name="assistant_security_warning_title">Χρήση του %s ως βοηθού σας;</string>
      <string name="assisted_gps">Χρήση υποβοηθούμενου GPS</string>
-     <string name="assisted_gps_disabled">Χρήση διακομιστή για βοήθεια καταργήστε την επιλογή GPS για να βελτιώσει την επίδοση του GPS</string>
+     <string name="assisted_gps_disabled">Χρήση διακομιστή για βοήθεια καταργήστε την επιλογή GPS για να βελτιώσει την απόδοση του GPS</string>
      <string name="assisted_gps_enabled">Χρήση διακομιστή για βοήθεια GPS να καταργήσει την επιλογή και να μειώσει τη χρήση του δικτύου</string>
      <string name="attempt_other_network">Δοκιμάστε ένα άλλο δίκτυο</string>
      <string name="audio_list_loading">Φόρτωση…</string>
@@ -2383,7 +2383,7 @@
      <string name="memory_media_misc_usage">Άλλα αρχεία</string>
      <string name="memory_media_usage">Πολυμέσα</string>
      <string name="memory_music_usage">Ήχοι (μουσική, ήχοι κλήσεις, podcasts κλπ)</string>
-     <string name="memory_performance">Επίδοση</string>
+     <string name="memory_performance">Απόδοση</string>
      <string name="memory_rightvalue">Διαθέσιμη: %s</string>
      <string name="memory_settings_title">Μνήμη</string>
      <string name="memory_size">Συνολικός χώρος</string>
@@ -2760,7 +2760,7 @@
      <string name="password_turned_off_text">Ο κωδικός απενεργοποιήθηκε</string>
      <string name="password_turned_on_text">Ο κωδικός ενεργοποιήθηκε</string>
      <string name="percentage">%d%%</string>
-     <string name="performance_category">Επίδοση</string>
+     <string name="performance_category">Απόδοση</string>
      <string name="permission_detail_info">Λεπτομέρειες άδειας</string>
      <string name="permission_detail_info_summary">Δικαιώματα: Ασφάλεια %1$d | Απόρρητο %2$d | Άλλα %3$d</string>
      <string name="permission_manage">Διαχείριση δικαιωμάτων</string>

@@ -87,6 +87,30 @@
         <item>Μόνο για τις εξαιρέσεις</item>
         <item>Ποτέ</item>
      </string-array>
+     <string-array name="sms_report_type">
+        <item>Χρήση δεδομένων</item>
+        <item>Υπόλοιπο τηλεφώνου</item>
+     </string-array>
+     <string-array name="sort_title">
+        <item>Ταξινόμηση κατά κατάσταση</item>
+        <item>Ταξινόμηση κατά όνομα εφαρμογής</item>
+        <item>Ταξινόμηση κατά συχνότητα χρήσης</item>
+        <item>Ταξινόμηση κατά χρήση αποθ.χώρου</item>
+        <item>Ταξινόμηση κατά χρόνο εγκατάστασης</item>
+     </string-array>
+     <string-array name="sort_type">
+        <item>Κατάσταση</item>
+        <item>Όνομα εφαρμογής</item>
+        <item>Συχνότητα χρήσης</item>
+        <item>Χρήση αποθ.χώρου</item>
+        <item>Χρόνος εγκατάστασης</item>
+     </string-array>
+     <string-array name="title_app_info">
+        <item>Πηγή εγκατάστασης</item>
+        <item>Χρόνος εγκατάστασης</item>
+        <item>Πηγή τελευταίας ενημέρωσης</item>
+        <item>Χρόνος τελευταίας ενημέρωσης</item>
+     </string-array>
      <string-array name="traffic_setting_sms_template">
         <item>Αυτόματη λήψη</item>
         <item>Ορισμός χειροκίνητα</item>

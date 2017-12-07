@@ -266,7 +266,7 @@
      <string name="download_pending">Έναρξη λήψης…</string>
      <string name="download_phone_tip">Τηλέφωνο</string>
      <string name="download_router_tip">Λήψη στο Mi Router</string>
-     <string name="download_sdcard_busy_dlg_msg">Το αποθηκευτικό μέσο USB είναι απασχολημένο. Για να επιτραπούν λήψης, ακουμπήστε το Απενεργοποίηση USB αποθήκευσης στην ειδοποίηση.</string>
+     <string name="download_sdcard_busy_dlg_msg">Η κάρτα SD είναι απασχολημένη. Για να επιτρέψετε τις λήψεις, απενεργοποιήστε τον αποθηκευτικό χώρο USB στον πίνακα ειδοποιήσεων.</string>
      <string name="download_sdcard_busy_dlg_title">Αποθηκευτικό μέσο USB μη διαθέσιμο</string>
      <string name="download_status_failed">"Αδυναμία λήψης"</string>
      <string name="download_status_pending">Σε αναμονή</string>
